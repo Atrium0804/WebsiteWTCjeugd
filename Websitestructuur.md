@@ -1,3 +1,4 @@
+-- gegenereerd met AI -- 
 # Websitestructuur WTC Woerden
 
 Voorstel voor een opgeschoonde hoofdstructuur van de hele website, met de
