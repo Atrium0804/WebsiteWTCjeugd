@@ -1,9 +1,3 @@
-# Websitestructuur jeugd — WTC Woerden
-
-Het bestand `Websitestructuur-jeugd.md` is de bron van waarheid voor de jeugdsectie en hoort in de hoofdmap van de repository te staan. Het bestand is momenteel niet aanwezig in de repository en kan vanuit Vibe Work niet worden teruggeduwd, omdat de GitHub-connector in Work alleen leesrechten heeft. Herstel het bestand door alles onder de scheidingslijn te kopiëren naar `Websitestructuur-jeugd.md` in de hoofdmap van de repository, via VS Code of de GitHub-webinterface.
-
----
-
 # Websitestructuur jeugdsectie — WTC Woerden
 
 Dit bestand is de bron van waarheid voor de jeugdsectie van de website van WTC Woerden. Het beschrijft vijf onderdelen met in totaal 21 pagina's. Elke pagina heeft een eigen doelgroep, intentie en toon. Per pagina wordt een apart Markdown-bestand aangemaakt in de map `websiteteksten/`.
