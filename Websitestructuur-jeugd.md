@@ -151,3 +151,21 @@ Stel geen vragen waarvan het antwoord al uit het structuurbestand of eerdere ant
 ## Formaat van de wijzigingslog
 
 Onderaan het structuurbestand staat een vaste logsectie:
+
+```
+## Wijzigingslog
+
+- [datum]: [korte omschrijving van de wijziging] ([reden]).
+```
+
+Voorbeelden:
+
+- 2026-09-08: 6.2 en 6.3 apart gehouden (verschillende doelgroepen: jeugd versus ouders).
+- 2026-09-08: gedragscode en vertrouwenspersoon verplaatst naar Over de club (geen duplicatie per afdeling).
+- 2026-09-08: NK Veldrijden 2025 verwijderd (afgelopen evenement, actualiteit hoort bij Nieuws).
+
+## Grenzen
+
+- De Vaardigheid verzint geen feitelijke verenigingsgegevens: contributiebedragen, trainingstijden, namen en dergelijke vragen bij de gebruiker na.
+- Voorstellen die het huidige aantal onderdelen of de nummering veranderen, altijd voorleggen aan de gebruiker; nooit zelfstandig doorvoeren.
+- Wanneer een voorgestelde wijziging eerder gedane afwegingen uit de wijzigingslog raakt, benoem dit expliciet en vraag bevestiging.
