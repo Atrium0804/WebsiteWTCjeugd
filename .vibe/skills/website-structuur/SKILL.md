@@ -28,48 +28,48 @@ De jeugdsectie bestaat uit vijf onderdelen met in totaal 21 pagina's. De bestand
 
 ### 6.1 Jeugd — startpagina (werving)
 
-| Pagina | Bestandsnaam | Doelgroep | Intentie |
-|---|---|---|---|
+| Pagina      | Bestandsnaam      | Doelgroep              | Intentie                    |
+| ----------- | ----------------- | ---------------------- | --------------------------- |
 | Startpagina | 01-startpagina.md | Jeugd (6-14) en ouders | Enthousiasmeren, uitnodigen |
 
 ### 6.2 Wat we doen (enthousiasmeren, gericht op jeugd 6-14 jaar)
 
-| Pagina | Bestandsnaam | Doelgroep | Intentie |
-|---|---|---|---|
-| Wegwielrennen | 02-wegwielrennen.md | Jeugd (6-14) | Enthousiasmeren |
-| Veldrijden / cross | 03-veldrijden.md | Jeugd (6-14) | Enthousiasmeren |
-| Clubkampioenschap en activiteiten | 04-clubkampioenschap-activiteiten.md | Jeugd (6-14) | Enthousiasmeren, informeren |
-| Wedstrijden: club naar regionaal naar nationaal | 05-wedstrijden.md | Jeugd (6-14) en ouders | Informeren, enthousiasmeren |
+| Pagina                                          | Bestandsnaam                         | Doelgroep              | Intentie                    |
+| ----------------------------------------------- | ------------------------------------ | ---------------------- | --------------------------- |
+| Wegwielrennen                                   | 02-wegwielrennen.md                  | Jeugd (6-14)           | Enthousiasmeren             |
+| Veldrijden / cross                              | 03-veldrijden.md                     | Jeugd (6-14)           | Enthousiasmeren             |
+| Clubkampioenschap en activiteiten               | 04-clubkampioenschap-activiteiten.md | Jeugd (6-14)           | Enthousiasmeren, informeren |
+| Wedstrijden: club naar regionaal naar nationaal | 05-wedstrijden.md                    | Jeugd (6-14) en ouders | Informeren, enthousiasmeren |
 
 ### 6.3 Nieuw bij de jeugd? / Voor ouders (praktisch, drempel wegnemen)
 
-| Pagina | Bestandsnaam | Doelgroep | Intentie |
-|---|---|---|---|
-| Kom meetrainen | 06-kom-meetrainen.md | Ouders van niet-leden | Uitnodigen, geruststellen |
-| Leenfietsen | 07-leenfietsen.md | Ouders van niet-leden | Informeren |
-| Benodigd materiaal | 08-benodigd-materiaal.md | Ouders van niet-leden | Informeren |
-| Kleding | 09-kleding.md | Ouders van niet-leden | Informeren |
-| Contributie | 10-contributie.md | Ouders van niet-leden | Informeren |
-| Wat verwachten we van ouders | 11-wat-verwachten-we-van-ouders.md | Ouders van niet-leden | Informeren |
-| Veelgestelde vragen (FAQ) | 12-veelgestelde-vragen.md | Ouders van niet-leden | Informeren, geruststellen |
-| Aanmelden / inschrijfformulier | 13-aanmelden.md | Ouders van niet-leden | Werven |
+| Pagina                         | Bestandsnaam                       | Doelgroep             | Intentie                  |
+| ------------------------------ | ---------------------------------- | --------------------- | ------------------------- |
+| Kom meetrainen                 | 06-kom-meetrainen.md               | Ouders van niet-leden | Uitnodigen, geruststellen |
+| Leenfietsen                    | 07-leenfietsen.md                  | Ouders van niet-leden | Informeren                |
+| Benodigd materiaal             | 08-benodigd-materiaal.md           | Ouders van niet-leden | Informeren                |
+| Kleding                        | 09-kleding.md                      | Ouders van niet-leden | Informeren                |
+| Contributie                    | 10-contributie.md                  | Ouders van niet-leden | Informeren                |
+| Wat verwachten we van ouders   | 11-wat-verwachten-we-van-ouders.md | Ouders van niet-leden | Informeren                |
+| Veelgestelde vragen (FAQ)      | 12-veelgestelde-vragen.md          | Ouders van niet-leden | Informeren, geruststellen |
+| Aanmelden / inschrijfformulier | 13-aanmelden.md                    | Ouders van niet-leden | Werven                    |
 
 ### 6.4 Voor leden — praktisch en actueel (naslag)
 
-| Pagina | Bestandsnaam | Doelgroep | Intentie |
-|---|---|---|---|
-| Trainingstijden en locaties per seizoen | 14-trainingstijden-locaties.md | Ouders van leden | Informeren |
-| Leeftijdscategorieën 1 t/m 7 | 15-leeftijdscategorieen.md | Ouders van leden | Informeren |
-| Wedstrijdlicentie | 16-wedstrijdlicentie.md | Ouders van leden | Informeren |
-| Toegestane verzetten | 17-toegestane-verzetten.md | Ouders van leden | Informeren |
-| Wedstrijdkalender, uitslagen en standen | 18-wedstrijdkalender-uitslagen.md | Ouders van leden | Informeren |
-| De wedstrijd (hoe verloopt een clubwedstrijd) | 19-de-wedstrijd.md | Ouders van leden en jeugd | Informeren |
-| Communicatie en afmelden | 20-communicatie-afmelden.md | Ouders van leden | Informeren, herinneren |
+| Pagina                                        | Bestandsnaam                      | Doelgroep                 | Intentie               |
+| --------------------------------------------- | --------------------------------- | ------------------------- | ---------------------- |
+| Trainingstijden en locaties per seizoen       | 14-trainingstijden-locaties.md    | Ouders van leden          | Informeren             |
+| Leeftijdscategorieën 1 t/m 7                  | 15-leeftijdscategorieen.md        | Ouders van leden          | Informeren             |
+| Wedstrijdlicentie                             | 16-wedstrijdlicentie.md           | Ouders van leden          | Informeren             |
+| Toegestane verzetten                          | 17-toegestane-verzetten.md        | Ouders van leden          | Informeren             |
+| Wedstrijdkalender, uitslagen en standen       | 18-wedstrijdkalender-uitslagen.md | Ouders van leden          | Informeren             |
+| De wedstrijd (hoe verloopt een clubwedstrijd) | 19-de-wedstrijd.md                | Ouders van leden en jeugd | Informeren             |
+| Communicatie en afmelden                      | 20-communicatie-afmelden.md       | Ouders van leden          | Informeren, herinneren |
 
 ### 6.5 Vervolgpad
 
-| Pagina | Bestandsnaam | Doelgroep | Intentie |
-|---|---|---|---|
+| Pagina          | Bestandsnaam          | Doelgroep                   | Intentie                    |
+| --------------- | --------------------- | --------------------------- | --------------------------- |
 | WSR Cyclingteam | 21-wsr-cyclingteam.md | Oudere jeugdleden en ouders | Informeren, enthousiasmeren |
 
 Vastgestelde afspraken binnen deze structuur:
