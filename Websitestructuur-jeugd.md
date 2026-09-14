@@ -1,20 +1,38 @@
-# Websitestructuur jeugdsectie — WTC Woerden
+---
+name: website-structuur
+description: "Gebruik deze Vaardigheid voor het beoordelen, verfijnen en uitbreiden van de websitestructuur van WTC Woerden. Laad bij aanvragen voor structuurcontrole, structuurreview, het toevoegen van pagina's of het herordenen van de site."
+user-invocable: true
+allowed-tools:
+  - read_file
+  - write_file
+  - edit
+  - bash
+  - ask_user_question
+---
 
-Dit bestand is de bron van waarheid voor de jeugdsectie van de website van WTC Woerden. Het beschrijft vijf onderdelen met in totaal 21 pagina's. Elke pagina heeft een eigen doelgroep, intentie en toon. Per pagina wordt een apart Markdown-bestand aangemaakt in de map `websiteteksten/`.
+# WTC Woerden website-structuur
 
-Doelgroepen: jeugd die overweegt lid te worden (6-14 jaar), ouders van kinderen die nog geen lid zijn, en ouders van bestaande leden. Intenties: enthousiasmeren, informeren, uitnodigen, werven, herinneren, bedanken. De definities en de toon per doelgroep staan in de Vaardigheid `jeugdsport-teksten`.
+Deze Vaardigheid ondersteunt het beoordelen, verfijnen en uitbreiden van de websitestructuur van WTC Woerden. De Vaardigheid wijzigt de structuur zelf; het schrijven van teksten gebeurt met de Vaardigheid `jeugdsport-teksten`.
 
-## 6.1 Jeugd — startpagina (werving)
+## Bron van waarheid
+
+- De sectie "Huidige structuur" in deze Vaardigheid is de bron van waarheid voor de jeugdsectie: vijf onderdelen (6.1 t/m 6.5) met in totaal 21 pagina's.
+- Repository: Atrium0804/WebsiteWTCjeugd, hoofdbranch main. Het bestand `Websitestructuur-jeugd.md` in deze repository hoort synchroon te zijn met de structuur in deze Vaardigheid. Is het bestand afwezig of niet synchroon, stel de gebruiker dan voor het te herstellen vanuit deze Vaardigheid.
+- Het bestand `Websitestructuur.md` in de repository is een AI-gegenereerd voorstel en is geen bron van waarheid. Gebruik het hooguit als inspiratie; neem er geen feitelijke gegevens uit over zonder verificatie door de gebruiker.
+- Het referentiemateriaal in de map `context/` van de repository (welkomstdocument, inhoud van de huidige site, teksten van januari 2025) dient als stijl- en toonreferentie, niet als feitenbron.
+- Na een structuurwijziging moet de website-structuursectie in de Vaardigheid `jeugdsport-teksten` synchroon worden gehouden. Wijs de gebruiker hierop na elke wijziging.
+
+## Huidige structuur
+
+De jeugdsectie bestaat uit vijf onderdelen met in totaal 21 pagina's. De bestandsnamen verwijzen naar de map `websiteteksten/`.
+
+### 6.1 Jeugd — startpagina (werving)
 
 | Pagina | Bestandsnaam | Doelgroep | Intentie |
 |---|---|---|---|
 | Startpagina | 01-startpagina.md | Jeugd (6-14) en ouders | Enthousiasmeren, uitnodigen |
 
-Inhoud: korte wervende pitch (plezier voorop, vanaf 8 jaar, ongeveer 60 jeugdleden), drie knoppen ("Kom meetrainen", "Wat kost het / hoe werkt het", "Wat doen we"), blok met eerstvolgende instroommoment, verwijzing naar laatste jeugdnieuws of wedstrijdverslag.
-
-Instroommoment: nieuwe leden kunnen ieder moment instromen. Iedere eerste dinsdag van de maand is er een open training. Vooraf aanmelden is gewenst, zodat materiaal kan worden uitgezocht.
-
-## 6.2 Wat we doen (enthousiasmeren, gericht op jeugd 6-14 jaar)
+### 6.2 Wat we doen (enthousiasmeren, gericht op jeugd 6-14 jaar)
 
 | Pagina | Bestandsnaam | Doelgroep | Intentie |
 |---|---|---|---|
@@ -23,16 +41,7 @@ Instroommoment: nieuwe leden kunnen ieder moment instromen. Iedere eerste dinsda
 | Clubkampioenschap en activiteiten | 04-clubkampioenschap-activiteiten.md | Jeugd (6-14) | Enthousiasmeren, informeren |
 | Wedstrijden: club naar regionaal naar nationaal | 05-wedstrijden.md | Jeugd (6-14) en ouders | Informeren, enthousiasmeren |
 
-Inhoud per pagina:
-
-- Wegwielrennen: enthousiasmerende beschrijving van het wegwielrennen; wat kinderen op de training en tijdens ritten meemaken.
-- Veldrijden / cross: enthousiasmerende beschrijving van het veldritseizoen; modder, technische parcoursen en de sfeer.
-- Clubkampioenschap en activiteiten: de clubkampioenschappen en de jaarlijkse activiteiten voor de jeugd.
-- Wedstrijden: de opbouw van clubwedstrijden naar regionale en nationale wedstrijden.
-
-Baanwielrennen en mountainbiken worden kort vermeld als incidentele activiteiten, zonder aparte pagina. Plaats deze vermelding op de startpagina (6.1) of binnen de pagina Wegwielrennen (6.2).
-
-## 6.3 Nieuw bij de jeugd? / Voor ouders (praktisch, drempel wegnemen)
+### 6.3 Nieuw bij de jeugd? / Voor ouders (praktisch, drempel wegnemen)
 
 | Pagina | Bestandsnaam | Doelgroep | Intentie |
 |---|---|---|---|
@@ -45,18 +54,7 @@ Baanwielrennen en mountainbiken worden kort vermeld als incidentele activiteiten
 | Veelgestelde vragen (FAQ) | 12-veelgestelde-vragen.md | Ouders van niet-leden | Informeren, geruststellen |
 | Aanmelden / inschrijfformulier | 13-aanmelden.md | Ouders van niet-leden | Werven |
 
-Inhoud per pagina:
-
-- Kom meetrainen: hoe een proeftraining verloopt, het instroommoment en hoe ouders zich kunnen aanmelden.
-- Leenfietsen: de mogelijkheid om tijdens de eerste trainingen een fiets te lenen (voorwaarden als placeholder).
-- Benodigd materiaal: wat een kind nodig heeft om te kunnen starten.
-- Kleding: kledingadvies voor trainingen en wedstrijden, en de clubkleding.
-- Contributie: contributiebedragen als placeholder; door de vereniging aan te vullen.
-- Wat verwachten we van ouders: de bijdrage van ouders, bijvoorbeeld als vrijwilliger of langs de kant.
-- Veelgestelde vragen: antwoorden op de terugkerende vragen van nieuwe ouders.
-- Aanmelden: het inschrijfformulier en de stappen na aanmelding.
-
-## 6.4 Voor leden — praktisch en actueel (naslag)
+### 6.4 Voor leden — praktisch en actueel (naslag)
 
 | Pagina | Bestandsnaam | Doelgroep | Intentie |
 |---|---|---|---|
@@ -68,36 +66,88 @@ Inhoud per pagina:
 | De wedstrijd (hoe verloopt een clubwedstrijd) | 19-de-wedstrijd.md | Ouders van leden en jeugd | Informeren |
 | Communicatie en afmelden | 20-communicatie-afmelden.md | Ouders van leden | Informeren, herinneren |
 
-Inhoud per pagina:
-
-- Trainingstijden en locaties per seizoen: de actuele tijden en locaties voor het weg- en het veldritseizoen (placeholder voor de actuele gegevens).
-- Leeftijdscategorieën 1 t/m 7: de indeling en de bijbehorende leeftijden.
-- Wedstrijdlicentie: wanneer een licentie nodig is en hoe deze wordt aangevraagd.
-- Toegestane verzetten: het overzicht van toegestane verzetten per leeftijdscategorie.
-- Wedstrijdkalender, uitslagen en standen: de kalender en verwijzingen naar uitslagen en tussenstanden.
-- De wedstrijd: hoe een clubwedstrijd verloopt, van opbouw tot podium.
-- Communicatie en afmelden: via welke kanalen de vereniging communiceert en hoe leden zich afmelden.
-
-## 6.5 Vervolgpad
+### 6.5 Vervolgpad
 
 | Pagina | Bestandsnaam | Doelgroep | Intentie |
 |---|---|---|---|
 | WSR Cyclingteam | 21-wsr-cyclingteam.md | Oudere jeugdleden en ouders | Informeren, enthousiasmeren |
 
-Inhoud: WSR Cyclingteam is een raceteam voor oudere jeugdleden. Nadere details volgen later; voor nu volstaat een korte beschrijvende pagina met een placeholder voor aanvullende inhoud.
-
-## Vastgestelde afspraken
+Vastgestelde afspraken binnen deze structuur:
 
 - Nieuwe leden kunnen ieder moment instromen; iedere eerste dinsdag van de maand is er een open training. Vooraf aanmelden is gewenst, zodat materiaal kan worden uitgezocht.
-- Baanwielrennen en mountainbiken worden kort vermeld als incidentele activiteiten, zonder aparte pagina.
-- Gedragscode en vertrouwenspersoon worden niet in de jeugdsectie herhaald; deze staan alleen centraal onder Over de club.
-- Actualiteit zoals seizoenskalenders en actuele uitslagen hoort bij Nieuws en Agenda, niet in de vaste structuur.
-- Ongeverifieerde gegevens, zoals contributiebedragen en trainingstijden, worden als placeholder opgenomen totdat de vereniging deze bevestigt.
+- Baanwielrennen en mountainbiken worden kort vermeld als incidentele activiteiten, zonder aparte pagina (op de startpagina of binnen de pagina Wegwielrennen).
+- Gedragscode en vertrouwenspersoon staan alleen centraal onder Over de club, niet in de jeugdsectie.
+- WSR Cyclingteam is een raceteam voor oudere jeugdleden; nadere details volgen later.
 
-## Wijzigingslog
+## Beoordelingskader
 
-- 2026-09-08: 6.2 en 6.3 apart gehouden (verschillende doelgroepen: jeugd versus ouders).
-- 2026-09-08: gedragscode en vertrouwenspersoon verplaatst naar Over de club (geen duplicatie per afdeling).
-- 2026-09-08: NK Veldrijden 2025 verwijderd (afgelopen evenement, actualiteit hoort bij Nieuws).
-- 2026-09-14: structuur bevestigd als bron van waarheid voor de jeugdsectie.
-- 2026-09-14: referentiemateriaal ondergebracht in de map context/ (dient als referentie, niet als feitenbron).
+Beoordeel de structuur op de volgende acht criteria:
+
+1. Doelgroeprouting: werving vooraan, leden-naslag achteraan.
+2. Menudiepte: maximaal vijf onderdelen per menuniveau.
+3. Eén pagina, één doel: elke pagina heeft precies één hoofddoelgroep en één intentie.
+4. Geen overlap: geen twee pagina's die hetzelfde onderwerp behandelen.
+5. Volledigheid: alle terugkerende vragen van ouders en jeugd zijn gedekt.
+6. Tijdloosheid: actualiteit hoort bij Nieuws en Agenda, niet in de vaste structuur.
+7. Vindbaarheid: elke doelgroep vindt de eigen informatie binnen drie klikken.
+8. Paginagrootte: een pagina met meerdere intenties of doelgroepen is een signaal om te splitsen.
+
+De doelgroepen en intenties volgen de definities uit de Vaardigheid `jeugdsport-teksten`: jeugd die overweegt lid te worden (6-14 jaar), ouders van niet-leden, en ouders van bestaande leden; intenties zijn enthousiasmeren, informeren, uitnodigen, werven, herinneren en bedanken.
+
+## Gebruiksmodi
+
+### Modus 1: Snelle controle (consistentiecheck)
+
+Bedoeld voor het commando "controleer de structuur" of vergelijkbaar. Vragen geen input aan de gebruiker.
+
+1. Vertrek vanuit de sectie Huidige structuur in deze Vaardigheid; haal ter aanvulling het bestand `Websitestructuur-jeugd.md` uit de repository op indien aanwezig.
+2. Doorloop alle acht criteria systematisch.
+3. Rapporteer de bevindingen als een genummerde lijst, per criterium, met per bevinding: de locatie in de structuur, het overtreden criterium en een concrete suggestie.
+4. Vraag aan het eind of de gebruiker een of meer bevindingen wil uitwerken in een interactieve review.
+
+Rapporteer ook wat goed is: benoem expliciet welke criteria zijn gehaald.
+
+### Modus 2: Interactieve review
+
+Bedoeld voor het reviewen van één onderdeel of de gehele jeugdsectie.
+
+1. Bepaal het bereik met de gebruiker: de gehele jeugdsectie of één onderdeel (6.1 t/m 6.5).
+2. Presenteer de huidige stand van het gekozen bereik: onderdelen, pagina's, doelgroepen en intenties.
+3. Stel per onderdeel gerichte vragen, maximaal vier tegelijk. Gebruik de vraagpatronen hieronder.
+4. Verwerk de antwoorden in een voorgestelde wijziging.
+5. Presenteer de wijziging met onderbouwing: welk criterium de aanleiding was en wat er verandert.
+6. Vraag goedkeuring per wijziging of voor het gehele voorstel.
+7. Werk na goedkeuring het structuurbestand bij en werk de wijzigingslog bij.
+
+### Modus 3: Gerichte wijziging
+
+Bedoeld voor "voeg een pagina toe over ..." of "verplaats ... naar ...".
+
+1. Bepaal doelgroep, intentie en onderdeel voor het nieuwe of verplaatste onderwerp.
+2. Controleer tegen de acht criteria: ontstaat overlap, wordt de menudiepte overschreden, blijft de routing logisch?
+3. Stel een bestandsnaam voor, passend in de bestaande nummering.
+4. Presenteer het voorstel, vraag goedkeuring, en werk het structuurbestand bij.
+
+## Vraagpatronen voor de interactieve review
+
+- "Op welke plek verwacht een ouder die enkel de trainingstijd zoekt dit antwoord: [onderdeel A] of [onderdeel B]?"
+- "Deze pagina combineert [intentie 1] en [intentie 2]. Wilt u dat splitsen in twee pagina's?"
+- "Welke vragen krijgt u in de praktijk het vaakst van nieuwe ouders, en zijn die allemaal gedekt in 6.3?"
+- "Deze informatie staat nu op twee plaatsen. Welke plek is de hoofdlocatie en welke wordt een verwijzing?"
+- "Dit onderdeel telt [n] pagina's. Blijft dat overzichtelijk in het menu, of is een tussenniveau gewenst?"
+
+Stel geen vragen waarvan het antwoord al uit het structuurbestand of eerdere antwoorden bekend is.
+
+## Wijzigingsworkflow
+
+1. Vertrek vanuit de sectie Huidige structuur in deze Vaardigheid; haal ter controle het bestand `Websitestructuur-jeugd.md` uit de repository op indien aanwezig.
+2. Presenteer de voorgestelde wijziging met onderbouwing per criterium.
+3. Vraag goedkeuring aan de gebruiker, per wijziging of voor het geheel.
+4. Werk het structuurbestand bij: pagina's per onderdeel in tabelvorm (pagina, bestandsnaam, doelgroep, intentie), met daaronder een korte inhoudsbeschrijving.
+5. Werk de wijzigingslog onderaan het bestand bij: datum, korte omschrijving, en waar mogelijk de reden.
+6. Controleer of de wijziging doorwerkt naar de tabellen in de Vaardigheid `jeugdsport-teksten` en wijs de gebruiker hierop.
+7. Leg de wijziging vast in de repository: op een nieuwe branch met een duidelijke commit-boodschap, bijvoorbeeld "Structuur gewijzigd: [onderwerp]", en open een pull request naar main.
+
+## Formaat van de wijzigingslog
+
+Onderaan het structuurbestand staat een vaste logsectie:
