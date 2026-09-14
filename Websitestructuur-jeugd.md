@@ -133,7 +133,7 @@ Bedoeld voor "voeg een pagina toe over ..." of "verplaats ... naar ...".
 - "Op welke plek verwacht een ouder die enkel de trainingstijd zoekt dit antwoord: [onderdeel A] of [onderdeel B]?"
 - "Deze pagina combineert [intentie 1] en [intentie 2]. Wilt u dat splitsen in twee pagina's?"
 - "Welke vragen krijgt u in de praktijk het vaakst van nieuwe ouders, en zijn die allemaal gedekt in 6.3?"
-- "Deze informatie staat nu op twee plaatsen. Welke plek is de hoofdlocatie en welke wordt een verwijzing?"
+- "Deze informatie staat nu op twee plaatsen. Welke plek is de hoofdllocatie en welke wordt een verwijzing?"
 - "Dit onderdeel telt [n] pagina's. Blijft dat overzichtelijk in het menu, of is een tussenniveau gewenst?"
 
 Stel geen vragen waarvan het antwoord al uit het structuurbestand of eerdere antwoorden bekend is.
@@ -152,11 +152,9 @@ Stel geen vragen waarvan het antwoord al uit het structuurbestand of eerdere ant
 
 Onderaan het structuurbestand staat een vaste logsectie:
 
-```
-## Wijzigingslog
+    ## Wijzigingslog
 
-- [datum]: [korte omschrijving van de wijziging] ([reden]).
-```
+    - [datum]: [korte omschrijving van de wijziging] ([reden]).
 
 Voorbeelden:
 
