@@ -28,48 +28,48 @@ De jeugdsectie bestaat uit vijf onderdelen met in totaal 21 pagina's. De bestand
 
 ### 6.1 Jeugd — startpagina (werving)
 
-| Pagina      | Bestandsnaam      | Doelgroep              | Intentie                    |
-| ----------- | ----------------- | ---------------------- | --------------------------- |
+| Pagina | Bestandsnaam | Doelgroep | Intentie |
+|---|---|---|---|
 | Startpagina | 01-startpagina.md | Jeugd (6-14) en ouders | Enthousiasmeren, uitnodigen |
 
 ### 6.2 Wat we doen (enthousiasmeren, gericht op jeugd 6-14 jaar)
 
-| Pagina                                          | Bestandsnaam                         | Doelgroep              | Intentie                    |
-| ----------------------------------------------- | ------------------------------------ | ---------------------- | --------------------------- |
-| Wegwielrennen                                   | 02-wegwielrennen.md                  | Jeugd (6-14)           | Enthousiasmeren             |
-| Veldrijden / cross                              | 03-veldrijden.md                     | Jeugd (6-14)           | Enthousiasmeren             |
-| Clubkampioenschap en activiteiten               | 04-clubkampioenschap-activiteiten.md | Jeugd (6-14)           | Enthousiasmeren, informeren |
-| Wedstrijden: club naar regionaal naar nationaal | 05-wedstrijden.md                    | Jeugd (6-14) en ouders | Informeren, enthousiasmeren |
+| Pagina | Bestandsnaam | Doelgroep | Intentie |
+|---|---|---|---|
+| Wegwielrennen | 02-wegwielrennen.md | Jeugd (6-14) | Enthousiasmeren |
+| Veldrijden / cross | 03-veldrijden.md | Jeugd (6-14) | Enthousiasmeren |
+| Clubkampioenschap en activiteiten | 04-clubkampioenschap-activiteiten.md | Jeugd (6-14) | Enthousiasmeren, informeren |
+| Wedstrijden: club naar regionaal naar nationaal | 05-wedstrijden.md | Jeugd (6-14) en ouders | Informeren, enthousiasmeren |
 
 ### 6.3 Nieuw bij de jeugd? / Voor ouders (praktisch, drempel wegnemen)
 
-| Pagina                         | Bestandsnaam                       | Doelgroep             | Intentie                  |
-| ------------------------------ | ---------------------------------- | --------------------- | ------------------------- |
-| Kom meetrainen                 | 06-kom-meetrainen.md               | Ouders van niet-leden | Uitnodigen, geruststellen |
-| Leenfietsen                    | 07-leenfietsen.md                  | Ouders van niet-leden | Informeren                |
-| Benodigd materiaal             | 08-benodigd-materiaal.md           | Ouders van niet-leden | Informeren                |
-| Kleding                        | 09-kleding.md                      | Ouders van niet-leden | Informeren                |
-| Contributie                    | 10-contributie.md                  | Ouders van niet-leden | Informeren                |
-| Wat verwachten we van ouders   | 11-wat-verwachten-we-van-ouders.md | Ouders van niet-leden | Informeren                |
-| Veelgestelde vragen (FAQ)      | 12-veelgestelde-vragen.md          | Ouders van niet-leden | Informeren, geruststellen |
-| Aanmelden / inschrijfformulier | 13-aanmelden.md                    | Ouders van niet-leden | Werven                    |
+| Pagina | Bestandsnaam | Doelgroep | Intentie |
+|---|---|---|---|
+| Kom meetrainen | 06-kom-meetrainen.md | Ouders van niet-leden | Uitnodigen, geruststellen |
+| Leenfietsen | 07-leenfietsen.md | Ouders van niet-leden | Informeren |
+| Benodigd materiaal | 08-benodigd-materiaal.md | Ouders van niet-leden | Informeren |
+| Kleding | 09-kleding.md | Ouders van niet-leden | Informeren |
+| Contributie | 10-contributie.md | Ouders van niet-leden | Informeren |
+| Wat verwachten we van ouders | 11-wat-verwachten-we-van-ouders.md | Ouders van niet-leden | Informeren |
+| Veelgestelde vragen (FAQ) | 12-veelgestelde-vragen.md | Ouders van niet-leden | Informeren, geruststellen |
+| Aanmelden / inschrijfformulier | 13-aanmelden.md | Ouders van niet-leden | Werven |
 
 ### 6.4 Voor leden — praktisch en actueel (naslag)
 
-| Pagina                                        | Bestandsnaam                      | Doelgroep                 | Intentie               |
-| --------------------------------------------- | --------------------------------- | ------------------------- | ---------------------- |
-| Trainingstijden en locaties per seizoen       | 14-trainingstijden-locaties.md    | Ouders van leden          | Informeren             |
-| Leeftijdscategorieën 1 t/m 7                  | 15-leeftijdscategorieen.md        | Ouders van leden          | Informeren             |
-| Wedstrijdlicentie                             | 16-wedstrijdlicentie.md           | Ouders van leden          | Informeren             |
-| Toegestane verzetten                          | 17-toegestane-verzetten.md        | Ouders van leden          | Informeren             |
-| Wedstrijdkalender, uitslagen en standen       | 18-wedstrijdkalender-uitslagen.md | Ouders van leden          | Informeren             |
-| De wedstrijd (hoe verloopt een clubwedstrijd) | 19-de-wedstrijd.md                | Ouders van leden en jeugd | Informeren             |
-| Communicatie en afmelden                      | 20-communicatie-afmelden.md       | Ouders van leden          | Informeren, herinneren |
+| Pagina | Bestandsnaam | Doelgroep | Intentie |
+|---|---|---|---|
+| Trainingstijden en locaties per seizoen | 14-trainingstijden-locaties.md | Ouders van leden | Informeren |
+| Leeftijdscategorieën 1 t/m 7 | 15-leeftijdscategorieen.md | Ouders van leden | Informeren |
+| Wedstrijdlicentie | 16-wedstrijdlicentie.md | Ouders van leden | Informeren |
+| Toegestane verzetten | 17-toegestane-verzetten.md | Ouders van leden | Informeren |
+| Wedstrijdkalender, uitslagen en standen | 18-wedstrijdkalender-uitslagen.md | Ouders van leden | Informeren |
+| De wedstrijd (hoe verloopt een clubwedstrijd) | 19-de-wedstrijd.md | Ouders van leden en jeugd | Informeren |
+| Communicatie en afmelden | 20-communicatie-afmelden.md | Ouders van leden | Informeren, herinneren |
 
 ### 6.5 Vervolgpad
 
-| Pagina          | Bestandsnaam          | Doelgroep                   | Intentie                    |
-| --------------- | --------------------- | --------------------------- | --------------------------- |
+| Pagina | Bestandsnaam | Doelgroep | Intentie |
+|---|---|---|---|
 | WSR Cyclingteam | 21-wsr-cyclingteam.md | Oudere jeugdleden en ouders | Informeren, enthousiasmeren |
 
 Vastgestelde afspraken binnen deze structuur:
@@ -133,7 +133,7 @@ Bedoeld voor "voeg een pagina toe over ..." of "verplaats ... naar ...".
 - "Op welke plek verwacht een ouder die enkel de trainingstijd zoekt dit antwoord: [onderdeel A] of [onderdeel B]?"
 - "Deze pagina combineert [intentie 1] en [intentie 2]. Wilt u dat splitsen in twee pagina's?"
 - "Welke vragen krijgt u in de praktijk het vaakst van nieuwe ouders, en zijn die allemaal gedekt in 6.3?"
-- "Deze informatie staat nu op twee plaatsen. Welke plek is de hoofdlocatie en welke wordt een verwijzing?"
+- "Deze informatie staat nu op twee plaatsen. Welke plek is de hoofdllocatie en welke wordt een verwijzing?"
 - "Dit onderdeel telt [n] pagina's. Blijft dat overzichtelijk in het menu, of is een tussenniveau gewenst?"
 
 Stel geen vragen waarvan het antwoord al uit het structuurbestand of eerdere antwoorden bekend is.
@@ -151,3 +151,19 @@ Stel geen vragen waarvan het antwoord al uit het structuurbestand of eerdere ant
 ## Formaat van de wijzigingslog
 
 Onderaan het structuurbestand staat een vaste logsectie:
+
+    ## Wijzigingslog
+
+    - [datum]: [korte omschrijving van de wijziging] ([reden]).
+
+Voorbeelden:
+
+- 2026-09-08: 6.2 en 6.3 apart gehouden (verschillende doelgroepen: jeugd versus ouders).
+- 2026-09-08: gedragscode en vertrouwenspersoon verplaatst naar Over de club (geen duplicatie per afdeling).
+- 2026-09-08: NK Veldrijden 2025 verwijderd (afgelopen evenement, actualiteit hoort bij Nieuws).
+
+## Grenzen
+
+- De Vaardigheid verzint geen feitelijke verenigingsgegevens: contributiebedragen, trainingstijden, namen en dergelijke vragen bij de gebruiker na.
+- Voorstellen die het huidige aantal onderdelen of de nummering veranderen, altijd voorleggen aan de gebruiker; nooit zelfstandig doorvoeren.
+- Wanneer een voorgestelde wijziging eerder gedane afwegingen uit de wijzigingslog raakt, benoem dit expliciet en vraag bevestiging.
