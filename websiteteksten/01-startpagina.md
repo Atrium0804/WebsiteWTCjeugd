@@ -10,7 +10,7 @@
 
 [Hier komt de wervende pitch, bv.:
 - Korte, pakkende inleiding over plezier en sportiviteit
-- Leeftijd (vanaf 8 jaar)
+- Leeftijd (vanaf 7 jaar)
 - Aantal jeugdleden (~60)
 - Drie knoppen: "Kom meetrainen", "Wat kost het / hoe werkt het", "Wat doen we"
 - Blok met eerstvolgende instroommoment
@@ -50,19 +50,11 @@ Nieuwe leden zijn **elke eerste dinsdag van de maand** welkom op onze **open tra
 ### 📌 Algemene informatie WTC Woerden
 **Bron:** `context/referentieteksten/Teksten jan 2025/Jeugd algemeen.md`, `WTC Woerden - Inhoud huidige site (aug 2026).md`, `Welkom bij WTC Woerden.pdf`
 
-- **Opgericht:** 1975
-- **Kleuren:** Blauw/rood/wit
-- **Aantal jeugdleden:** ~40 (jan 2025) / ~60 (aug 2026) → **PLAATS HOUDER: actueel aantal bevestigen**
-- **Doelgroep leeftijd:** Vanaf **8 jaar** (categorie 1)
-- **Disciplines:** Wegwielrennen, veldrijden/cyclocross, baanwielrennen (incidenteel), mountainbiken (incidenteel)
-- **Clubhuis:** "Sur-Place", naast tennis- en hockeyvelden in sportpark Cromwijck
-- **Doel:** Balans tussen **prestatiegericht sporten** en **gezellig/sociaal bezig zijn**
-- **Plezier:** Staat **altijd voorop**!
-- **Teamgevoel:** Ook al is wielrennen individueel, het is een **team** waar inzet en sportiviteit verwacht wordt
-
-**⚠️ Te checken:**
-- Wat is het **actuele aantal jeugdleden** in 2026?
-- Wordt baanwielrennen en mountainbiken nog steeds **incidenteel** aangeboden?
+- **Aantal jeugdleden:** 40
+- **Doelgroep leeftijd:** Vanaf **7 jaar** 
+- **Disciplines:** Wegwielrennen, veldrijden/cyclocross
+- **Doel:** Balans tussen **prestatiegericht sporten** en **gezellig/sociaal bezig zijn** **Plezier:** Staat **altijd voorop**!
+- **Clubhuis:** "Sur-Place", Waardsedijk 40, naast tennis- en hockeyvelden in sportpark Cromwijck
 
 ---
 
@@ -70,37 +62,25 @@ Nieuwe leden zijn **elke eerste dinsdag van de maand** welkom op onze **open tra
 **Bron:** `context/referentieteksten/Teksten jan 2025/Jeugd algemeen.md`, `Jeugd weg seizoen.md`, `Jeugd cross seizoen.md`
 
 - **Wegseizoen:** Lente, zomer, herfst → **april t/m eind september**
-  - Locatie: **Wegparcours van ~900m** in sportpark Cromwijck (rondom hockeyvelden/tennisbanen, naast clubhuis)
+  - Locatie: **Eigen afgesloten parcours van ~900m** in sportpark Cromwijck (rondom hockeyvelden/tennisbanen, naast clubhuis)
 - **Veldritseizoen (cross):** Herfst, winter → **oktober t/m begin februari**
   - Locatie: **Wijkpark Molenvliet** (achter clubhuis)
 - **Winteractiviteiten:** Mountainbike- en graveltochten, clinics op de baan, core stability trainingen in de gymzaal
 
-**⚠️ Te checken:**
-- Zijn de seizoensdata nog actueel voor 2026/2027?
+
 
 ---
 
-### 📌 Instroommoment
+### 📌 Proeftraining
 **Bron:** `Websitestructuur-jeugd.md` (vastgestelde afspraken)
+
+- Uitproberen: Kinderen die kunnen 4x mee trainen 
 - Nieuwe leden kunnen **ieder moment instromen**
-- **Iedere eerste dinsdag van de maand** is er een **open training**
 - **Vooraf aanmelden is gewenst**, zodat materiaal (bv. leenfietsen) kan worden uitgezocht
 
-**⚠️ Te checken:**
-- Is de **eerste dinsdag van de maand** nog steeds het vaste instroommoment?
-- Moet je **verplicht** aanmelden voor een proeftraining?
 
----
 
-### 📌 Wat maakt WTC Woerden uniek?
-**Bron:** `context/referentieteksten/Jeugd algemeen.md`, `WTC Woerden - Inhoud huidige site (aug 2026).md`
-- Enthousiaste groep **trainers**, ondersteund door **jeugdcommissie** en **ervaren wielrenners**
-- Veel **leuke activiteiten**: familiedagen, trainingskampen, mountainbike- en graveltochten
-- **Ouders betrokken:** Meehelpen bij wedstrijden, bestuursfuncties, vervoer, parcoursbeveiliging
-- **Leenfietsen beschikbaar** voor nieuwe leden
 
-**⚠️ Te checken:**
-- Welke **activiteiten** staan er voor 2026/2027 gepland?
 
 ---
 *Laatste controle: [datum]*

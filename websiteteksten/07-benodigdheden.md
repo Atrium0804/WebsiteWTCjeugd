@@ -83,25 +83,40 @@ Een goed onderhouden fiets is **veilig** en **leuker om op te rijden**. Controle
 
 ## 🔍 CONTROLE: Feiten uit context/ (te verifiëren)
 
+### 📌 Benodigd materiaal
+**Bron:** `context/referentieteksten/Teksten jan 2025/Jeugd materiaal en veiligheid.md`
+
+Voor het deelnemen aan trainingen heb je:
+
+- een helm
+- wielrenhandschoentjes om je handen te beschermen bij een val
+- een goed onderhouden fiets.
+  - Werkende remmen en versnellingen
+  - Goed afgesteld op je lengte
+- Een bidon met water
+
+Voor het wegwielrennen heb je een racefiets of veldrijfiets nodig
+
+Voor het veldrijden heb je een veldrijfiets of eventueel een mountainbike nodig
+
+Ga je een fiets kopen? hou dan rekening met:
+
+- verschil tussen een wegfiets en een veldrijfiets
+- maximale verzet dat toegestaan is
+- --> kijk op de pagina over fietsen
+
 ### 📌 Leenfietsen
 **Bron:** `context/referentieteksten/Teksten jan 2025/Jeugd materiaal en veiligheid.md`, `WTC Woerden - Inhoud huidige site (aug 2026).md`
 
 - **Beschikbaarheid:** WTC Woerden heeft **racefietsen en crossfietsen** beschikbaar
-- **Doel:** Kennis maken met wielrennen **zonder directe grote investering**
-- **Gratis proberen:** **3x gratis** (voor jeugd die het wil proberen)
-- **Huurperiode:** Na proefperiode **ca. 3 maanden**
-- **Kosten huur:** **€25 per maand**
-- **Onderhoud:** **Klein onderhoud en schoonmaken** doe je zelf
-- **Na huurperiode:** Zelf voor een fiets zorgen
-
-**⚠️ Te checken:**
-- Zijn de **huurvoorwaarden** (3x gratis, 3 maanden, €25/maand) nog actueel?
-- Moet er een **borg** betaald worden?
-- Zijn er **verschillende maten** beschikbaar?
+- **Doel:** Lenen tijdens de proeftrainingen. na lid worden: overbruggen tot je een eigen fites hebt.
+- Huren:
+  - **Kosten huur:** **€25 per maand**
+  - **Onderhoud:** **Klein onderhoud en schoonmaken** doe je zelf
 
 ---
 
-### 📌 Fietskeuze
+### 📌 Fietskeuze --> verplaatse naar aparte pagina over fietsen
 **Bron:** `context/referentieteksten/Teksten jan 2025/Jeugd materiaal en veiligheid.md`, `WTC Woerden - Inhoud huidige site (aug 2026).md`
 
 - **Wegwielrennen:** **Racefiets**
@@ -118,23 +133,9 @@ Een goed onderhouden fiets is **veilig** en **leuker om op te rijden**. Controle
 
 ---
 
-### 📌 Verplicht materiaal
-**Bron:** `context/referentieteksten/Teksten jan 2025/Jeugd materiaal en veiligheid.md`
-
-- **Veiligheid:** **Helm** en **handschoenen** zijn **verplicht**
-- **Fiets:**
-  - **Goed werkende remmen**
-  - **Banden met voldoende profiel**
-- **Onderhoud:** Ouders wordt geadviseerd **wekelijks remmen en afstelling** te controleren
-- **Hulp:** Trainers helpen graag bij **vragen over fietsonderhoud**
-
-**⚠️ Te checken:**
-- Zijn helm en handschoenen **verplicht** tijdens trainingen, of alleen tijdens wedstrijden?
-- Moet de helm **goedgekeurd** zijn volgens bepaalde normen?
-
 ---
 
-### 📌 Bandenspanning
+### 📌 Bandenspanning --> verplaatsen naar aparte pagina over fietsen
 **Bron:** `context/referentieteksten/Teksten jan 2025/Jeugd materiaal en veiligheid.md`, `WTC Woerden - Inhoud huidige site (aug 2026).md`
 
 - **Weg:** **6-7 bar** (geschikte luchtdruk)
@@ -149,25 +150,34 @@ Een goed onderhouden fiets is **veilig** en **leuker om op te rijden**. Controle
 ### 📌 Kleding
 **Bron:** `context/referentieteksten/WTC Woerden - Inhoud huidige site (aug 2026).md`
 
-- **Clubkleuren:** Blauw/rood/wit
-- **Startpakket voor beginnende jeugdrenners:**
-  - **Inhoud:** Broek, shirt, jacket, sokken
+- Tijdens de trainingen en wedstrijden dragen we clubkleding
   - **Bestellen:** Via **Bioracer Webshop** ([link](https://www.bioracer.be/nl/mybioracer))
-  - **Ophalen:** Bij **BikeCenter Woerden** (ook mogelijkheid om te passen)
+    - hoe kom je aan een login?
+  - Passen van de kleding is mogelijk bij Bike Center in Woerden
+  - Let op:
+    - Bestellingen worden verzameld en een paar keer per jaar geproduceerd
+    - Kort voordat de productie start wordt dat gemeld in de clubapp
+    - Het kan dan nog 6 weken duren voordat de kleding er is
+  - Ophalen: je krijgt bericht als de kleding op te halen is bij bike centrer
   - **Omruilen:** **Niet mogelijk** na bestellen
   - **Voorraad:** Kleine voorraad kleding altijd aanwezig bij BikeCenter Woerden
+- **Startpakket voor beginnende jeugdrenners:**
+  - Als nieuw lid kan je eenmalig een kledingset bestellen
+  - **Inhoud:** Broek, shirt, jacket, sokken
+  - - **Ophalen:** Bij **BikeCenter Woerden** (ook mogelijkheid om te passen)
 - **Contact kleding:** Marguerite bij BikeCenter of mail naar [jeugd@wtcwoerden.nl](mailto:jeugd@wtcwoerden.nl)
 
 **⚠️ Te checken:**
-- Is de **Bioracer Webshop-link** nog actueel?
+- heeft bike-centre kleding op voorraad?
 - Zijn de **kledingprijzen** bekend en moeten die vermeld worden?
 - Kan men kleding **direct bij BikeCenter Woerden** kopen, of alleen via de webshop?
 
 ---
 
-### 📌 Toegestane verzetten
+### 📌 Toegestane verzetten --> verplaatse naar aparte pagina over fietsen
 **Bron:** `context/referentieteksten/Teksten jan 2025/Jeugd materiaal en veiligheid.md`, `WTC Woerden - Inhoud huidige site (aug 2026).md`
 
+- 
 - **Regel:** Maximale verzetten zijn **aan regels gebonden** (KNWU)
 - **Doel:** Bescherming van jeugdrenners en voorkomen van oneerlijke concurrentie
 - **Controle:** Afstand die afgelgd wordt met grootste voortandwiel en kleinste achtertandwiel moet **gelijk of kleiner** zijn dan de maximaal toegestane afstand per categorie
@@ -181,7 +191,7 @@ Een goed onderhouden fiets is **veilig** en **leuker om op te rijden**. Controle
 
 ---
 
-### 📌 Fietsonderhoud
+### 📌 Fietsonderhoud --> verplaatse naar aparte pagina over fietsen
 **Bron:** `context/referentieteksten/Teksten jan 2025/Jeugd materiaal en veiligheid.md`
 
 - **Algemene tips:**

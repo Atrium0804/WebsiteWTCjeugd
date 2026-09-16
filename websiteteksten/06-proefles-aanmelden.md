@@ -52,26 +52,32 @@ Nieuwe leden kunnen **ieder moment instromen**. Voor extra gemak organiseren we 
 ### 📌 Proeftraining
 **Bron:** `context/referentieteksten/Teksten jan 2025/Jeugd algemeen.md`, `WTC Woerden - Inhoud huidige site (aug 2026).md`
 
-- **Mogelijkheid om te proberen:** Ja, **altijd welkom** om eens te komen meetrainen
-- **Leenfiets beschikbaar:** Ja, voor kinderen die **nog geen racefiets** hebben
-- **Na afloop:** Limonade in het clubgebouw (crossseizoen)
+- **Mogelijkheid om te proberen:** Ja, **altijd welkom** om eens te komen meetrainen, we hebben geen vaste instroom momenten
+- Als je geen geschikte fiets hebt dan is dat geen probleem, we hebben leenfietsen voor het wegwielrennen en veldrijden 
+  - Lenen tijdens de proefperiode
+  - Mogelijkheid tot huur tot je een eigen fiets hebt.
+- Je kan 4x meetrainen om te kijken of je wielrennen leuk lijkt
 
-**⚠️ Te checken:**
-- Hoe vaak mag een kind **gratis meetrainen** voordat hij/zij lid moet worden? (Bronnen vermelden "altijd welkom", maar niet het aantal keren)
+- Wil je mee trainen? Neem vooraf even contact met ons op dan zorgen we dat je goed ontvangen wordt en zoeken we voor de training een geschikte fiets met je uit
 
----
+  - verwijzen naar contactgegevens 
 
-### 📌 Instroommoment
-**Bron:** `Websitestructuur-jeugd.md` (vastgestelde afspraken)
+    - **Contact jeugdcommissie:** 
 
-- Nieuwe leden kunnen **ieder moment instromen**
-- **Iedere eerste dinsdag van de maand** is er een **open training**
-- **Vooraf aanmelden is gewenst**, zodat materiaal (bv. leenfietsen) kan worden uitgezocht
+      - [jeugd@wtcwoerden.nl](mailto:jeugd@wtcwoerden.nl) 
+      - 06-53915703 - Ivo
 
-**⚠️ Te checken:**
-- Is de **eerste dinsdag van de maand** nog steeds het vaste instroommoment?
-- Is **aanmelden verplicht** of alleen gewenst?
-- Hoe kan men zich aanmelden voor een proeftraining? (mail, formulier, telefoon?)
+      
+
+      
+
+### 📌 Kleding
+
+- Voor de proeftrainingen is het niet nodig om fietskleding te hebben.  
+
+- (Sport)kleding waar je makkelijk in kan bewegen is voldoende.
+
+- Een helm is verplicht. De vereniging heeft een aantal helmen om te lenen
 
 ---
 
@@ -79,43 +85,37 @@ Nieuwe leden kunnen **ieder moment instromen**. Voor extra gemak organiseren we 
 **Bron:** `context/referentieteksten/Teksten jan 2025/Jeugd materiaal en veiligheid.md`, `WTC Woerden - Inhoud huidige site (aug 2026).md`
 
 - **Beschikbaarheid:** WTC Woerden heeft **een aantal racefietsen en crossfietsen** beschikbaar
-- **Gratis proberen:** **3x gratis** (voor jeugd die het wielrennen of veldrijden wil proberen)
-- **Huurperiode:** Na de proefperiode kan de fiets voor **ca. 3 maanden gehuurd** worden
-- **Doel:** Kennis maken met wielrennen **zonder directe grote investering** (aanschaf racefiets/crossfiets)
+
+- De fiets kan je gebruiken tijdens de kennismakingsperiode in bruikleen gebruiken 
+
+- Als je lid geworden bent huren tot de tijd dat je zelf een fiets gevonden hebt
+
+- **Doel:** Kennismaken en overbrugging tot eigen fiets gekocht is
+
 - **Kosten huur:** **€25 per maand**
+
 - **Onderhoud:** **Klein onderhoud en schoonmaken** doe je zelf
-- **Na huurperiode:** Zelf voor een fiets zorgen
+
+  
 
 **⚠️ Te checken:**
-- Zijn de **huurvoorwaarden** (3x gratis, daarna 3 maanden huur, €25/maand) nog actueel?
-- Moet er een **borg** betaald worden voor leenfietsen?
-- Zijn er **verschillende maten** leenfietsen beschikbaar?
+
+- Zijn de **huurvoorwaarden**  €25/maand) nog actueel?
 
 ---
 
-### 📌 Aanmelden / Inschrijven
+### 📌 Lid worden
 **Bron:** `context/referentieteksten/Teksten jan 2025/Jeugd algemeen.md`, `WTC Woerden - Inhoud huidige site (aug 2026).md`
 
-- **Inschrijfformulier:** Beschikbaar (link wordt niet vermeld in bronnen)
-- **Stappen na aanmelding:** Niet gespecificeerd in bronnen
-- **Contact jeugdcommissie:** [jeugd@wtcwoerden.nl](mailto:jeugd@wtcwoerden.nl) (afgeleid uit kledingsectie)
+- Heb je de proeftrainingen gedaan wil je doorgaan? wordt dan lid:
+  - Meld je aan bij de vereniging met het aanmeldformulier: https://www.wtcwoerden.nl/index.php?page=Inschrijfformulier&sid=1
+  - Je wordt dan ingeschreven bij de vereniging als lid en aangemeld bij de KNWU (verwijs naar pagina met kosten etc.)
+  - Er is een club-app waarmee we informatie delen over de trainingen (verwijs naar pagina over de club-app)
+  - Heb je een fiets van de vereniging: dan wordt er een huurcontract opgesteld voor de feits.
+  - Je kan clubkleding gaan passen en bestellen (link naar pagina over clubkleidng)
+  - Om deel te nemen aan wedstrijden vraag je een licentie aan (link naar pagina over licenties)
 
-**⚠️ Te checken:**
-- Waar vindt men het **inschrijfformulier**? (online, bij clubhuis, etc.)
-- Wat zijn de **stappen na aanmelding**? (bevestiging, eerste training, etc.)
-- Is er een **wachtlijst** voor nieuwe leden?
 
----
-
-### 📌 Praktische info voor ouders
-**Bron:** `WTC Woerden - Inhoud huidige site (aug 2026).md`
-
-- **Ouders betrokkenheid:** Meehelpen bij wedstrijden en voorbereidingen, bestuursfuncties, vervoer, parcoursbeveiliging
-- **Verwachting:** "Zonder hulp kan de jeugd niet fietsen"
-
-**⚠️ Te checken:**
-- Wordt er van ouders **verplicht** verwacht om te helpen, of is het **vrijwillig**?
-- Zijn er **specifieke taken** voor ouders tijdens proeftrainingen?
 
 ---
 *Laatste controle: [datum]*

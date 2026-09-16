@@ -52,105 +52,72 @@ Baanwielrennen en mountainbiken worden ook af en toe georganiseerd als **inciden
 
 ## 🔍 CONTROLE: Feiten uit context/ (te verifiëren)
 
-### 📌 Wegwielrennen
-**Bron:** `context/referentieteksten/Teksten jan 2025/Jeugd weg seizoen.md`, `WTC Woerden - Inhoud huidige site (aug 2026).md`
+Wegwielrennen en crossseizoen:
 
+- De jeugd is van 7-14 jaar
+- we trainen in vaste groepjes naar ervaring
+- Na de training sluiten we gezamenlijk af in het clubhuis en drinken we wat limonade
+
+- Naast de training moedigen we renners aan om deel te nemen aan wedstrijden maar dat is een vrijwillige keuze.
+  - Het is leuk om met kinderen van andere verenigingen een wedstrijd te fietsen
+  - Iedere vereniging heeft andere parcoursen.
+- Wedstrijden zijn er op verschillende niveau's:
+  - Regionale wedstrijden: laagdrempelige wedstrijden waar je rijdt op een niveau dat bij je aansluit
+  - Nationale wedstrijden: officiele wedstrijden door het hele land ingedeeld op leeftijd
+  - Nederlandskampioenschap
+
+### 📌 Wegwielrennen
 - **Seizoen:** April t/m eind september
 - **Trainingstijden:** Dinsdag en donderdagavond, **18:30–19:45**
-- **Locatie:** Wegparcours van **~900m** in sportpark Cromwijck (rondom hockeyvelden/tennisbanen, naast clubhuis Sur-Place)
-- **Groepsindeling:** Op **leeftijd en ervaring**; trainers bepalen in welke groep je rijdt
+- **Locatie:** 
+  - we trainen op ons eigen afgesloten wielerparcours in park Cromwijck
+  - de oudste groep traint op de openbare weg
 - **Trainingsonderdelen:**
-  - Thematrainingen: **sprint, jump, waaierfietsen, interval, demarreren**
-  - Techniek: **slalom, slakken, behendigheid, inzicht (tactiek), tijdritten**
-  - Laatste **15 minuten**: altijd technische vaardigheden
-- **Doel techniek:** Veiligheid + betere prestaties
+  - De training bestaat uit een warmingup, training en cooling-down
+  - Tijdens de training oefen we de verschillende onderwerpen
+    - Hoe fiets je op een goede en veilige manier in een groep wielrenners
+    - Snelheid en conditie opbouwen
+    - Wedstrijdtechniek: starten, sprinten, demarreren, bochten
+    - Oefenwedstrijdjes: 
+  - De onderwerpen die aanbod komen sluiten aan bij de ontwikkeling van het groepje waar je in fietst.
+  - Het laatste kwartier van de training doen we leuke techniekoefeningen en spelletjes. 
+    - Hierdoor krijg je de fiets beter ondercontrole waardoor je ook veiliger gaat fitsen
+    - Dat kan bijvoorbeeld zijn
+      - behendigheidparcours (slalom, wipwap, stilstaan de fiets (sur place))
+      - estafette
+      - tikkertje 
 - **Clubkampioenschap weg:** Wedstrijd op het parcours, **winnaar per trainingsgroep**
-- **Competities:**
-  - **Midden-Nederland Competitie** (Hans van de Hengelcompetitie)
-  - **Interclub competitie** (beide laagdrempelig)
-  - Locaties: clubs in de regio (max. 1 uur rijden van Woerden)
-- **Vervolgstap:** Nationale wedstrijden, **Nationale Club Kampioenschappen** (ploegentijdrit als club)
-- **Afsluiting wegseizoen:** Familiedag met koppeltijdrit en barbecue
-
-**⚠️ Te checken:**
-- Zijn de **trainingstijden** (dinsdag **en donderdag**) nog actueel voor 2026?
-- Wordt de **Interclub competitie** nog steeds georganiseerd?
 
 ---
 
 ### 📌 Veldrijden / Cross
-**Bron:** `context/referentieteksten/Teksten jan 2025/Jeugd cross seizoen.md`, `WTC Woerden - Inhoud huidige site (aug 2026).md`
+Winterseizoen is cross-seizoen:  gras, modder en zand, slalommen tussen de bomen door.  Oudere kinderen krijgen ook te maken met obstakels: balken en een trap.
 
 - **Seizoen:** Oktober t/m begin februari
-- **Trainingstijden:** Dinsdagavond, **18:30–19:30**
-- **Locatie:** Wijkpark Molenvliet (achter clubhuis)
-- **Verlichting:** Op verschillende plekken, zodat weeklijks andere locaties/vaardigheden
-- **Groepsindeling:** Op **leeftijd en ervaring**; trainer bepaalt groep
-- **Na afloop:** Limonade in het clubgebouw
-- **Zaterdag Middag Competitie (ZMC):**
-  - Laagdrempelige wedstrijdjes, **toegankelijk voor ieder lid**
-  - **Starttijd:** 13:45
-  - **Inschrijven:** Vanaf 13:15 in het clubgebouw
-- **Competities:**
-  - **Midden-Nederland Competitie (KNWU)**
-  - 7 **KNWU jeugdcategorieën**
-  - **Dagen:** Zondag
-  - **Locaties:** Clubs in de regio (max. 1 uur rijden: Veenendaal, Tiel, Hilversum, Amersfoort, Nedereindse Berg)
-  - **Frequentie:** **2x per seizoen in Woerden**
-- **Vervolgstap:** Nationale wedstrijden (trainers adviseren)
-- **Activiteiten:** Mountainbiketocht, graveltocht (met auto naar bosrijke omgeving, afsluiten met warme chocolademelk)
-- **Afsluiting crossseizoen:** Koppelcross (estafettewedstrijd met volwassen renner, bv. ouder) + soep en broodjes
+- **Trainingstijden:** 
+  - Dinsdagavond, **18:30–19:30** - training
+  - Zaterdagmiddag: 13:45 - wedstrijdje, iedere week een nieuw parcours
+- **Locatie:** Wijkpark Molenvliet (naast het clubhuis)
 
-**⚠️ Te checken:**
-- Zijn de **ZMC-data voor 2026/2027** al bekend?
-- Is de **trainingstijd (18:30–19:30)** nog actueel?
-- Wordt de **ZMC nog steeds op zaterdag** georganiseerd?
+### 📌Gymzaal
+
+Tussen het cross-seizoen en het wegseizoen gaan we de gymzaal in:
+
+- we doen leuke spelletjes en oefeningen onder leiding van een gyminstructuur
+- we werken aan conditie en spierkracht (core stability)
+
+- de jonste twee groepen en de oudste twee groepen trainen met elkaar
 
 ---
 
-### 📌 Clubkampioenschap en activiteiten
+### 📌 Losse Activiteiten
 **Bron:** `context/referentieteksten/Teksten jan 2025/Jeugd weg seizoen.md`, `Jeugd cross seizoen.md`, `Jeugd algemeen.md`
 
-- **Clubkampioenschap weg:** Wedstrijd op het parcours, **winnaar per trainingsgroep**
-- **Clubkampioenschap cross:** [Niet expliciet vermeld in bronnen]
-- **Familiedag:** In de zomer, **samen met ouders een wedstrijdje fietsen** + barbecue
-- **Trainingskamp:** In de bossen van **Austerlitz**
+- **Clubkampioenschap weg**
+- **Clubkampioenschap cross:** 
+- **Trainingskamp:**  Een weekend met elkaar fietsen en spelletjes doen in de bossen van **Austerlitz**
 - **Mountainbike- en graveltochten:** In de winter (met auto naar bosrijke omgeving)
-- **Core stability trainingen:** In de gymzaal (winter)
-
-**⚠️ Te checken:**
-- Wordt er een **apart clubkampioenschap cross** georganiseerd?
-- Wanneer is het **trainingskamp in Austerlitz** gepland voor 2026/2027?
-
----
-
-### 📌 Wedstrijden (opbouw)
-**Bron:** `context/referentieteksten/Teksten jan 2025/Jeugd weg seizoen.md`, `Jeugd cross seizoen.md`, `WTC Woerden - Inhoud huidige site (aug 2026).md`
-
-- **Niveau 1: Clubwedstrijden** (op eigen parcours)
-- **Niveau 2: Regionale competities**
-  - **Weg:** Midden-Nederland Competitie (Hans van de Hengelcompetitie)
-  - **Cross:** Midden-Nederland Competitie (KNWU)
-  - **Interclub competitie** (weg)
-  - Locaties: Clubs in de regio (max. 1 uur rijden van Woerden)
-- **Niveau 3: Nationale wedstrijden**
-  - Vervolgstap na regionale competities
-  - Trainers adviseren hierover
-- **Nationale Club Kampioenschappen:** Ploegentijdrit als club (voor oudere jeugd)
-
-**⚠️ Te checken:**
-- Zijn de **namen van de competities** nog actueel?
-- Zijn er **nieuwe competities** bij gekomen?
-
----
-
-### 📌 Baanwielrennen en mountainbiken
-**Bron:** `Websitestructuur-jeugd.md` (vastgestelde afspraken)
-- Wordt **kort vermeld als incidentele activiteiten**, zonder aparte pagina
-- Kan vermeld worden op de **startpagina (6.1)** of binnen **deze pagina (6.2)**
-
-**⚠️ Te checken:**
-- Wordt baanwielrennen en mountainbiken **daadwerkelijk** nog georganiseerd?
+- Baanwielrenclinic op de binnenbaan in Amsterdam
 
 ---
 *Laatste controle: [datum]*
