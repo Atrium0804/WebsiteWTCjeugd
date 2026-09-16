@@ -145,7 +145,7 @@ Websiteteksten worden opgeslagen in de GitHub-repository van WTC Woerden. Social
 
 ### Bron van waarheid en referentiemateriaal
 
-- De website-structuursectie in deze Vaardigheid (hieronder) is de bron van waarheid voor de jeugdsectie: vijf onderdelen met in totaal 21 pagina's.
+- De website-structuursectie in deze Vaardigheid (hieronder) is de bron van waarheid voor de jeugdsectie: vijf onderdelen met in totaal **11 pagina's**.
 - Het bestand `Websitestructuur.md` in de repository is een AI-gegenereerd voorstel en is geen bron van waarheid. Gebruik het niet als uitgangspunt voor teksten.
 - Het bestand `Websitestructuur-jeugd.md` hoort synchroon te zijn met de structuur in deze Vaardigheid.
 - Het referentiemateriaal in de map `context/` van de repository (het welkomstdocument, de inhoud van de huidige site en de teksten van januari 2025) dient als stijl- en toonreferentie, niet als feitenbron. Feitelijke gegevens altijd bij de gebruiker navragen.
@@ -179,7 +179,7 @@ Als de gebruiker meerdere websiteteksten tegelijk aanvraagt, kunnen deze op deze
 
 ## Website-structuur: jeugdsectie
 
-De jeugdsectie van de website bestaat uit vijf onderdelen met in totaal 21 pagina's. Elke pagina heeft een eigen doelgroep, intentie en toon. Per pagina wordt een apart Markdown-bestand aangemaakt in de map `websiteteksten/`.
+De jeugdsectie van de website bestaat uit vijf onderdelen met in totaal **11 pagina's**. Elke pagina heeft een eigen doelgroep, intentie en toon. Per pagina wordt een apart Markdown-bestand aangemaakt in de map `websiteteksten/`.
 
 ### 6.1 Jeugd — startpagina (werving)
 
@@ -193,39 +193,28 @@ Instroommoment: nieuwe leden kunnen ieder moment instromen. Iedere eerste dinsda
 
 ### 6.2 Wat we doen (enthousiasmeren, gericht op jeugd 6-14 jaar)
 
-| Pagina                                          | Bestandsnaam                         | Doelgroep              | Intentie                    |
-| ----------------------------------------------- | ------------------------------------ | ---------------------- | --------------------------- |
-| Wegwielrennen                                   | 02-wegwielrennen.md                  | Jeugd (6-14)           | Enthousiasmeren             |
-| Veldrijden / cross                              | 03-veldrijden.md                     | Jeugd (6-14)           | Enthousiasmeren             |
-| Clubkampioenschap en activiteiten               | 04-clubkampioenschap-activiteiten.md | Jeugd (6-14)           | Enthousiasmeren, informeren |
-| Wedstrijden: club naar regionaal naar nationaal | 05-wedstrijden.md                    | Jeugd (6-14) en ouders | Informeren, enthousiasmeren |
+| Pagina | Bestandsnaam | Doelgroep | Intentie |
+|--------|--------------|-----------|----------|
+| Wat we doen | 02-wat-we-doen.md | Jeugd (6-14) en ouders | Enthousiasmeren |
 
-Baanwielrennen en mountainbiken worden kort vermeld als incidentele activiteiten, zonder aparte pagina. Plaats deze vermelding op de startpagina (6.1) of binnen de pagina Wegwielrennen (6.2).
+Baanwielrennen en mountainbiken worden kort vermeld als incidentele activiteiten, zonder aparte pagina. Plaats deze vermelding op de startpagina (6.1) of binnen deze pagina (6.2).
 
 ### 6.3 Nieuw bij de jeugd? / Voor ouders (praktisch, drempel wegnemen)
 
-| Pagina                         | Bestandsnaam                       | Doelgroep             | Intentie                  |
-| ------------------------------ | ---------------------------------- | --------------------- | ------------------------- |
-| Kom meetrainen                 | 06-kom-meetrainen.md               | Ouders van niet-leden | Uitnodigen, geruststellen |
-| Leenfietsen                    | 07-leenfietsen.md                  | Ouders van niet-leden | Informeren                |
-| Benodigd materiaal             | 08-benodigd-materiaal.md           | Ouders van niet-leden | Informeren                |
-| Kleding                        | 09-kleding.md                      | Ouders van niet-leden | Informeren                |
-| Contributie                    | 10-contributie.md                  | Ouders van niet-leden | Informeren                |
-| Wat verwachten we van ouders   | 11-wat-verwachten-we-van-ouders.md | Ouders van niet-leden | Informeren                |
-| Veelgestelde vragen (FAQ)      | 12-veelgestelde-vragen.md          | Ouders van niet-leden | Informeren, geruststellen |
-| Aanmelden / inschrijfformulier | 13-aanmelden.md                    | Ouders van niet-leden | Werven                    |
+| Pagina | Bestandsnaam | Doelgroep | Intentie |
+|--------|--------------|-----------|----------|
+| Proefles & aanmelden | 06-proefles-aanmelden.md | Ouders van niet-leden | Uitnodigen, werven, geruststellen |
+| Benodigdheden | 07-benodigdheden.md | Ouders van niet-leden | Informeren |
+| Kosten & betrokkenheid | 08-kosten-betrokkenheid.md | Ouders van niet-leden | Informeren |
+| Veelgestelde vragen (FAQ) | 12-veelgestelde-vragen.md | Ouders van niet-leden | Informeren, geruststellen |
 
 ### 6.4 Voor leden — praktisch en actueel (naslag)
 
-| Pagina                                        | Bestandsnaam                      | Doelgroep                 | Intentie               |
-| --------------------------------------------- | --------------------------------- | ------------------------- | ---------------------- |
-| Trainingstijden en locaties per seizoen       | 14-trainingstijden-locaties.md    | Ouders van leden          | Informeren             |
-| Leeftijdscategorieën 1 t/m 7                  | 15-leeftijdscategorieen.md        | Ouders van leden          | Informeren             |
-| Wedstrijdlicentie                             | 16-wedstrijdlicentie.md           | Ouders van leden          | Informeren             |
-| Toegestane verzetten                          | 17-toegestane-verzetten.md        | Ouders van leden          | Informeren             |
-| Wedstrijdkalender, uitslagen en standen       | 18-wedstrijdkalender-uitslagen.md | Ouders van leden          | Informeren             |
-| De wedstrijd (hoe verloopt een clubwedstrijd) | 19-de-wedstrijd.md                | Ouders van leden en jeugd | Informeren             |
-| Communicatie en afmelden                      | 20-communicatie-afmelden.md       | Ouders van leden          | Informeren, herinneren |
+| Pagina | Bestandsnaam | Doelgroep | Intentie |
+|--------|--------------|-----------|----------|
+| Training & indeling | 14-training-indeling.md | Ouders van leden | Informeren |
+| Wedstrijden A-Z | 15-wedstrijden-az.md | Ouders van leden en jeugd | Informeren |
+| Communicatie | 20-communicatie.md | Ouders van leden | Informeren, herinneren |
 
 ### 6.5 Vervolgpad
 
@@ -236,6 +225,7 @@ Baanwielrennen en mountainbiken worden kort vermeld als incidentele activiteiten
 WSR Cyclingteam is een raceteam voor oudere jeugdleden. Nadere details volgen later; voor nu volstaat een korte beschrijvende pagina met een placeholder voor aanvullende inhoud.
 
 Gedragscode en vertrouwenspersoon worden niet in de jeugdsectie herhaald; deze staan alleen centraal onder Over de club.
+Actualiteit zoals seizoenskalenders, actuele uitslagen en wedstrijdkalenders hoort bij Nieuws en Agenda, niet in de vaste structuur.
 
 ## Werkinstructie
 

@@ -1,6 +1,6 @@
 # Websitestructuur jeugdsectie — WTC Woerden
 
-Dit bestand is de bron van waarheid voor de jeugdsectie van de website van WTC Woerden. Het beschrijft vijf onderdelen met in totaal 21 pagina's. Elke pagina heeft een eigen doelgroep, intentie en toon. Per pagina wordt een apart Markdown-bestand aangemaakt in de map `websiteteksten/`.
+Dit bestand is de bron van waarheid voor de jeugdsectie van de website van WTC Woerden. Het beschrijft vijf onderdelen met in totaal **11 pagina's**. Elke pagina heeft een eigen doelgroep, intentie en toon. Per pagina wordt een apart Markdown-bestand aangemaakt in de map `websiteteksten/`.
 
 Doelgroepen: jeugd die overweegt lid te worden (6-14 jaar), ouders van kinderen die nog geen lid zijn, en ouders van bestaande leden. Intenties: enthousiasmeren, informeren, uitnodigen, werven, herinneren, bedanken. De definities en de toon per doelgroep staan in de Vaardigheid `jeugdsport-teksten`.
 
@@ -16,67 +16,47 @@ Instroommoment: nieuwe leden kunnen ieder moment instromen. Iedere eerste dinsda
 
 ## 6.2 Wat we doen (enthousiasmeren, gericht op jeugd 6-14 jaar)
 
-| Pagina                                          | Bestandsnaam                         | Doelgroep              | Intentie                    |
-| ----------------------------------------------- | ------------------------------------ | ---------------------- | --------------------------- |
-| Wegwielrennen                                   | 02-wegwielrennen.md                  | Jeugd (6-14)           | Enthousiasmeren             |
-| Veldrijden / cross                              | 03-veldrijden.md                     | Jeugd (6-14)           | Enthousiasmeren             |
-| Clubkampioenschap en activiteiten               | 04-clubkampioenschap-activiteiten.md | Jeugd (6-14)           | Enthousiasmeren, informeren |
-| Wedstrijden: club naar regionaal naar nationaal | 05-wedstrijden.md                    | Jeugd (6-14) en ouders | Informeren, enthousiasmeren |
+| Pagina | Bestandsnaam | Doelgroep | Intentie |
+|--------|--------------|-----------|----------|
+| Wat we doen | 02-wat-we-doen.md | Jeugd (6-14) en ouders | Enthousiasmeren |
 
-Inhoud per pagina:
-
+Inhoud: **Overzichtspagina** met secties voor:
 - Wegwielrennen: enthousiasmerende beschrijving van het wegwielrennen; wat kinderen op de training en tijdens ritten meemaken.
 - Veldrijden / cross: enthousiasmerende beschrijving van het veldritseizoen; modder, technische parcoursen en de sfeer.
 - Clubkampioenschap en activiteiten: de clubkampioenschappen en de jaarlijkse activiteiten voor de jeugd.
 - Wedstrijden: de opbouw van clubwedstrijden naar regionale en nationale wedstrijden.
 
-Baanwielrennen en mountainbiken worden kort vermeld als incidentele activiteiten, zonder aparte pagina. Plaats deze vermelding op de startpagina (6.1) of binnen de pagina Wegwielrennen (6.2).
+Baanwielrennen en mountainbiken worden kort vermeld als incidentele activiteiten, zonder aparte pagina. Plaats deze vermelding op de startpagina (6.1) of binnen deze pagina (6.2).
 
 ## 6.3 Nieuw bij de jeugd? / Voor ouders (praktisch, drempel wegnemen)
 
-| Pagina                         | Bestandsnaam                       | Doelgroep             | Intentie                  |
-| ------------------------------ | ---------------------------------- | --------------------- | ------------------------- |
-| Kom meetrainen                 | 06-kom-meetrainen.md               | Ouders van niet-leden | Uitnodigen, geruststellen |
-| Leenfietsen                    | 07-leenfietsen.md                  | Ouders van niet-leden | Informeren                |
-| Benodigd materiaal             | 08-benodigd-materiaal.md           | Ouders van niet-leden | Informeren                |
-| Kleding                        | 09-kleding.md                      | Ouders van niet-leden | Informeren                |
-| Contributie                    | 10-contributie.md                  | Ouders van niet-leden | Informeren                |
-| Wat verwachten we van ouders   | 11-wat-verwachten-we-van-ouders.md | Ouders van niet-leden | Informeren                |
-| Veelgestelde vragen (FAQ)      | 12-veelgestelde-vragen.md          | Ouders van niet-leden | Informeren, geruststellen |
-| Aanmelden / inschrijfformulier | 13-aanmelden.md                    | Ouders van niet-leden | Werven                    |
+| Pagina | Bestandsnaam | Doelgroep | Intentie |
+|--------|--------------|-----------|----------|
+| Proefles & aanmelden | 06-proefles-aanmelden.md | Ouders van niet-leden | Uitnodigen, werven, geruststellen |
+| Benodigdheden | 07-benodigdheden.md | Ouders van niet-leden | Informeren |
+| Kosten & betrokkenheid | 08-kosten-betrokkenheid.md | Ouders van niet-leden | Informeren |
+| Veelgestelde vragen (FAQ) | 12-veelgestelde-vragen.md | Ouders van niet-leden | Informeren, geruststellen |
 
 Inhoud per pagina:
 
-- Kom meetrainen: hoe een proeftraining verloopt, het instroommoment en hoe ouders zich kunnen aanmelden.
-- Leenfietsen: de mogelijkheid om tijdens de eerste trainingen een fiets te lenen (voorwaarden als placeholder).
-- Benodigd materiaal: wat een kind nodig heeft om te kunnen starten.
-- Kleding: kledingadvies voor trainingen en wedstrijden, en de clubkleding.
-- Contributie: contributiebedragen als placeholder; door de vereniging aan te vullen.
-- Wat verwachten we van ouders: de bijdrage van ouders, bijvoorbeeld als vrijwilliger of langs de kant.
-- Veelgestelde vragen: antwoorden op de terugkerende vragen van nieuwe ouders.
-- Aanmelden: het inschrijfformulier en de stappen na aanmelding.
+- **Proefles & aanmelden**: hoe een proeftraining verloopt, het instroommoment, hoe ouders zich kunnen aanmelden, en het inschrijfformulier met stappen na aanmelding.
+- **Benodigdheden**: de mogelijkheid om tijdens de eerste trainingen een fiets te lenen (voorwaarden), wat een kind nodig heeft om te kunnen starten, en kledingadvies voor trainingen en wedstrijden (inclusief clubkleding).
+- **Kosten & betrokkenheid**: contributiebedragen (placeholder) en de bijdrage van ouders, bijvoorbeeld als vrijwilliger of langs de kant.
+- **Veelgestelde vragen**: antwoorden op de terugkerende vragen van nieuwe ouders.
 
 ## 6.4 Voor leden — praktisch en actueel (naslag)
 
-| Pagina                                        | Bestandsnaam                      | Doelgroep                 | Intentie               |
-| --------------------------------------------- | --------------------------------- | ------------------------- | ---------------------- |
-| Trainingstijden en locaties per seizoen       | 14-trainingstijden-locaties.md    | Ouders van leden          | Informeren             |
-| Leeftijdscategorieën 1 t/m 7                  | 15-leeftijdscategorieen.md        | Ouders van leden          | Informeren             |
-| Wedstrijdlicentie                             | 16-wedstrijdlicentie.md           | Ouders van leden          | Informeren             |
-| Toegestane verzetten                          | 17-toegestane-verzetten.md        | Ouders van leden          | Informeren             |
-| Wedstrijdkalender, uitslagen en standen       | 18-wedstrijdkalender-uitslagen.md | Ouders van leden          | Informeren             |
-| De wedstrijd (hoe verloopt een clubwedstrijd) | 19-de-wedstrijd.md                | Ouders van leden en jeugd | Informeren             |
-| Communicatie en afmelden                      | 20-communicatie-afmelden.md       | Ouders van leden          | Informeren, herinneren |
+| Pagina | Bestandsnaam | Doelgroep | Intentie |
+|--------|--------------|-----------|----------|
+| Training & indeling | 14-training-indeling.md | Ouders van leden | Informeren |
+| Wedstrijden A-Z | 15-wedstrijden-az.md | Ouders van leden en jeugd | Informeren |
+| Communicatie | 20-communicatie.md | Ouders van leden | Informeren, herinneren |
 
 Inhoud per pagina:
 
-- Trainingstijden en locaties per seizoen: de actuele tijden en locaties voor het weg- en het veldritseizoen (placeholder voor de actuele gegevens).
-- Leeftijdscategorieën 1 t/m 7: de indeling en de bijbehorende leeftijden.
-- Wedstrijdlicentie: wanneer een licentie nodig is en hoe deze wordt aangevraagd.
-- Toegestane verzetten: het overzicht van toegestane verzetten per leeftijdscategorie.
-- Wedstrijdkalender, uitslagen en standen: de kalender en verwijzingen naar uitslagen en tussenstanden.
-- De wedstrijd: hoe een clubwedstrijd verloopt, van opbouw tot podium.
-- Communicatie en afmelden: via welke kanalen de vereniging communiceert en hoe leden zich afmelden.
+- **Training & indeling**: de actuele tijden en locaties voor het weg- en het veldritseizoen (placeholder voor de actuele gegevens) en de indeling van leeftijdscategorieën 1 t/m 7 met bijbehorende leeftijden.
+- **Wedstrijden A-Z**: wanneer een wedstrijdlicentie nodig is en hoe deze wordt aangevraagd, het overzicht van toegestane verzetten per leeftijdscategorie, en hoe een clubwedstrijd verloopt (van opbouw tot podium).
+- **Communicatie**: via welke kanalen de vereniging communiceert en hoe leden zich afmelden.
 
 ## 6.5 Vervolgpad
 
@@ -91,8 +71,9 @@ Inhoud: WSR Cyclingteam is een raceteam voor oudere jeugdleden. Nadere details v
 - Nieuwe leden kunnen ieder moment instromen; iedere eerste dinsdag van de maand is er een open training. Vooraf aanmelden is gewenst, zodat materiaal kan worden uitgezocht.
 - Baanwielrennen en mountainbiken worden kort vermeld als incidentele activiteiten, zonder aparte pagina.
 - Gedragscode en vertrouwenspersoon worden niet in de jeugdsectie herhaald; deze staan alleen centraal onder Over de club.
-- Actualiteit zoals seizoenskalenders en actuele uitslagen hoort bij Nieuws en Agenda, niet in de vaste structuur.
+- Actualiteit zoals seizoenskalenders, actuele uitslagen en wedstrijdkalenders hoort bij Nieuws en Agenda, niet in de vaste structuur.
 - Ongeverifieerde gegevens, zoals contributiebedragen en trainingstijden, worden als placeholder opgenomen totdat de vereniging deze bevestigt.
+- Gerelateerde onderwerpen (bv. instroom, benodigdheden, wedstrijden) worden waar mogelijk samengevoegd op één pagina om de structuur beknopter te houden.
 
 ## Wijzigingslog
 
@@ -101,3 +82,4 @@ Inhoud: WSR Cyclingteam is een raceteam voor oudere jeugdleden. Nadere details v
 - 2026-09-08: NK Veldrijden 2025 verwijderd (afgelopen evenement, actualiteit hoort bij Nieuws).
 - 2026-09-14: structuur bevestigd als bron van waarheid voor de jeugdsectie.
 - 2026-09-14: referentiemateriaal ondergebracht in de map context/ (dient als referentie, niet als feitenbron).
+- 2026-09-15: structuur beknopter gemaakt door samenvoegen van gerelateerde onderwerpen (van 21 naar 11 pagina's). Samengevoegd: 6.2 (4→1), 6.3 (8→4), 6.4 (7→3). Wedstrijdkalender (18) verwijderd (hoort bij Nieuws).
