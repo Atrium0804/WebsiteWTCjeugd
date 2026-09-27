@@ -1,13 +1,13 @@
 # Websitestructuur jeugdsectie — WTC Woerden
 
-Dit bestand is de bron van waarheid voor de jeugdsectie van de website van WTC Woerden. Het beschrijft **zes hoofdonderdelen** met een logische indeling op basis van doelgroepen en informatiebehoefte. Elke pagina heeft een eigen doelgroep, intentie en toon. Per pagina wordt een apart Markdown-bestand aangemaakt in de map `websiteteksten/`.
+Dit bestand is de bron van waarheid voor de jeugdsectie van de website van WTC Woerden. Het beschrijft **vijf hoofdonderdelen** met een logische indeling op basis van doelgroepen en informatiebehoefte. Elke pagina heeft een eigen doelgroep, intentie en toon. Per pagina wordt een apart Markdown-bestand aangemaakt in de map `websiteteksten/`.
 
-**Huidig aantal pagina's:** 18 (inclusief index-pagina voor Naslag)
+**Huidig aantal pagina's:** 19 (inclusief index-pagina voor Naslag)
 
 **Doelgroepen:**
 
 
-- Nieuwe jeugdleden (6-14 jaar)
+- Nieuwe jeugdleden (7-14 jaar)
 - Ouders van aspirant-leden (niet-leden)
 - Ouders van nieuwe leden
 - Ouders van bestaande leden
@@ -23,75 +23,128 @@ Dit bestand is de bron van waarheid voor de jeugdsectie van de website van WTC W
 
 ## 1. Ontdek de jeugd
 
-*Doelgroep: nieuwe jeugdleden (6-14) + aspirant-ouders | Intentie: enthousiasmeren, uitnodigen*
+*Doelgroep: nieuwe jeugdleden (7-14) | Intentie: enthousiasmeren*
 
 | Pagina          | Bestandsnaam          | Doelgroep              | Intentie                    |
 | --------------- | --------------------- | ---------------------- | --------------------------- |
-| Ontdek de jeugd | 01-ontdek-de-jeugd.md | Jeugd (6-14) en ouders | Enthousiasmeren, uitnodigen |
-
-**Inhoud:**
-
-- Wie zijn we 
-  - sportvereniging waarbij plezier in het sporten belangrijk is
-  - We trainen samen: hoe doen we dat
-- Wat doen we:
-  - Wegwielrennen bij WTC
-  - Veldrijden bij WTC
-  - Leuke activiteiten
-- Met wie fiets je (groepsindeling)
-- Hoe ziet een training er uit
-- Heb je er zin in? Fiets met ons mee
-
-
-
----
-
-## 2. Kom kennismaken
-
-*Doelgroep: ouders van aspirant-leden | Intentie: informeren, uitnodigen, geruststellen*
-
-| Pagina         | Bestandsnaam         | Doelgroep             | Intentie                              |
-| -------------- | -------------------- | --------------------- | ------------------------------------- |
-| Kom meetrainen | 02-kom-meetrainen.md | Ouders van niet-leden | Informeren, uitnodigen, geruststellen |
+| Ontdek de jeugd | 01-ontdek-de-jeugd.md | Jeugd (7-14)  | Enthousiasmeren |
 
 **Inhoud:**
 
 - Wie zijn we
+  - sportvereniging w aarbij plezier in het sporten belangrijk is.
+  - Je werkt aan je eigen snelheid, uithoudingsvermogen maar wielrennen doe je niet alleen: je leert ook sneller te worden door goed samen te werken
+  - Je leert door samen met de trainer oefeningen te doen maar ook door van elkaar te leren.
+  - We trainen in groepjes van kinderen met vergelijkbare leeftijd en ervaring.
+- Wat doen we:
+  - Wielrennen bij WTC
+    - Wielrennen is zo snel mogelijk fietsen op de weg
+    - Met de trainingen werk je niet alleen aan uithoudingsvermogen, snelheid, maar je fietst ook sneller door goed een bocht te nemen of door in een greop samen te werken met andere kinderen
+    - Goede fietsbeheersing is belangrijk. We eindigen de training altijd met een leuke spelletjes of oefeningen: Slalommen, Estafette, Tikkertje op de fiets etc.
+  - Veldrijden bij WTC
+    - In de winter gaan we veldrijden
+    - We fietsen dan over het grasveld, door de modder, de bosjes en de zandbak.
+    - Niet alles kan je fietsen, soms moet je een stuk rennen
+    - Ook bij het veldrijden werk je aan je conditie en natuurlijk techniek
+- Leuke activiteiten
+  - Mountainbiken en Gravelbiken- regelmatig gaan we met ekaar fietsen over de moutainbike routes of door het bos van de Utrechtse Heuvelrug
+  - Baanwielrenclinic - 
+    - 1x per jaar
+    - binnen op de baan
+    - op een fiets zonder versnellingen en zonder remmen.
+- Wedstrijden:
+  - Als je het leuk vindt om wedstrijden te rijden, dan kan je mee doen met regionale en nationale competities. Een deel van de renners kiest hiervoor.
+- Heb je er zin in? Fiets met ons mee
+
+---
+
+## 2. Voor nieuwe ouders
+
+*Doelgroep: ouders van aspirant-leden | Intentie: informeren, uitnodigen, geruststellen*
+
+| Pagina | Bestandsnaam | Doelgroep | Intentie |
+|--------|--------------|-----------|----------|
+| Kom meetrainen | 02-kom-meetrainen.md | Ouders van niet-leden | Uitnodigen, informeren |
+| Lid worden | 03-lid-worden.md | Ouders van niet-leden | Informeren |
+
+**Inhoud:**
+
+---
+
+### Kom meetrainen (02-kom-meetrainen.md)
+- Wie zijn we
   - Visie
   - Groepen en trainers
+    - We trainen in 4 groepen, ingedeeld naar leeftijd/ervaring
+    - Ieder groepje wordt begeleid door twee trainers
   - Seizoensindeling
+    - de seizoensindeling is als volgt:
+    - van april t/m september: wegseizoen
+    - van oktobert/m februari: cross-seizoen
 - Kennismaken met wielrennen: Proeftraining
+  - Meld je aan voor een proeftraining 
   - Geen vaste instroomomenten
-  - Vooraf aanmelden
-  - Leenfiets
+  - Vooraf aanmelden zodat we weten dat je komt en we voor de training een passende fiets kunnen uitzoeken
 - Wat heb je nodig voor de proeftraining
-  - Eigen fiets of leenfiets
-  - 4x trainen en dan beslissen of je lid wordt
-- Hoe gaat de proeftraining - wegseizoen
-- Hoe gaat de proeftraining - veldrijden
-- Wat heb je nodig
-  - Fiets
-  - Helm
-  - Loszittende kleding
+  - Een racefiets of in het veldseizoen: veldrijfiets/mountainbike 
+  - De vereniging heeft een aantal leenfietsen en helm beschikbaar
+  - Kleding waarin je makkelijk kan bewegen
 - Trainingen
   - Groepsindeling
   - Trainingen in het wegseizoen
+    - Op het parcours in park Cromwijk
+    - dinsdag en donderdag van 18:30-19:45
   - Training in het veldrijseizoen
-- Activiteiten
+    - In het park Molenvliet, we verzamelen bij het clubhuis
+    - dinsdag om 18:30 training
+    - zaterdag om 13:45 wedstrijdje op lang parcours
+- 
+
+---
+
+### Lid worden (03-lid-worden.md)
+
+Administratief
+
+- Hoe lid worden?
+  - Heb je de proeftraining gedaan en wil jij lid worden? Schrijf je in via het webformulier
+  - https://www.wtcwoerden.nl/index.php?page=125&sid=1
+  - Het lidmaatschap geldt voor een kalenderjaar
+- Fiets van de vereniging huren
+  -  Als je een leenfiets van de vereniging gebruikt kan je deze huren tot het moment dat je een eigen fiets hebt. 
+  - Je ontvangt van de penningmeester een huurovereenkomst
+  - Je bent zelf verantwoordelijk voor regulier onderhoud van de fiets (schoonmaken, remmen afstellen etc.)
+  - Je huurt de fiets voor maximaal 3 maanden. Eventuele verlening in overleg
+  - Als er andere kinderen ook leenfietsen nodig hebben dan kan het zijn dat je van fiets moet wissellen zodat iedereen op een juiste maat fiets kan fietsen.
+- KNWU-licentie aanvragen
+  - Als je lid wordt, word je ook ingeschreven bij de KNWU
+  - Je moet vervolgens een 'startlicentie' aanvragen om deel te mogen nemen aan wedstrijden
+- Clubkleding
+  - 
+
+Praktische zaken
+
+- Communicatie:
+  - De club heeft een app 'ClubApp' om te communiceren met ouders. Installeer deze op je telefoon (link naar 'hoe het werkt- clubApp')
+  - De jeugdcomissie is ook via email bereikbaar: jeugd@wtcwoerden.nl
+- Training:
+  - Kan je niet naar de training komen? meld je even af via de clubapp
+  - Bij het fietsen is het dragen van een 
+
 - Lidworden
   - Contributie
   - Aanmelding
-  - Clubcleding
+  - Clubkleding
 
 ---
 
 ## 3. Hoe het werkt
 
-*Doelgroep: ouders van nieuwe leden | Intentie: informeren, uitleggen*
+*Doelgroep: ouders van nieuwe/bestaande leden | Intentie: informeren, uitleggen*
 
-| Pagina        | Bestandsnaam        | Doelgroep        | Intentie              |
-| ------------- | ------------------- | ---------------- | --------------------- |
-| Hoe het werkt | 03-hoe-het-werkt.md | Ouders van leden | Informeren, uitleggen |
+| Pagina | Bestandsnaam | Doelgroep | Intentie |
+|--------|--------------|-----------|----------|
+| Hoe het werkt | 04-hoe-het-werkt.md | Ouders van leden | Informeren, uitleggen |
 
 **Inhoud:**
 
@@ -100,11 +153,11 @@ Dit bestand is de bron van waarheid voor de jeugdsectie van de website van WTC W
   - Clubkleding bestellen
   - Fiets huren of zoeken
   - Licentie aanvragen
-  - Communicactie: ClubApp
+  - Communicatie: ClubApp
 - Kleding
-  - wat moet je hebben
+  - Wat moet je hebben
   - Clubkleding bestellen (doorverwijzen naar detail-pagina)
-  - wanneer lang/kort
+  - Wanneer lang/kort
 - Materiaal
   - Clubfiets huren
   - Een fiets kopen
@@ -117,6 +170,11 @@ Dit bestand is de bron van waarheid voor de jeugdsectie van de website van WTC W
   - Soorten wedstrijden
   - Hoe werkt een wedstrijd
   - Club, Regio, Nationaal
+  - Wedstrijden bij WTC Woerden
+    - Benadrukken dat een renner kan kiezen of hij/zij wedstrijden gaat rijden
+    - Benadrukken dat er verschillende niveaus zijn
+  - Hoe lang duurt een wedstrijd
+  - Het verloop van een wedstrijd
 - Ouderhulp
   - Oversteek
   - Hulp bij activiteiten
@@ -126,58 +184,35 @@ Dit bestand is de bron van waarheid voor de jeugdsectie van de website van WTC W
 
 ---
 
-## 4. Hoe werken wedstrijden
-*Doelgroep: ouders van nieuwe/staande leden | Intentie: informeren*
-
-| Pagina | Bestandsnaam | Doelgroep | Intentie |
-|--------|--------------|-----------|----------|
-| Hoe werken wedstrijden | 17-hoe-werken-wedstrijden.md | Ouders van (nieuwe) leden | Informeren |
-
-**Inhoud:**
-- Wedstrijden bij WTC Woerden
-  - Benadrukken dat een renner kan kiezen of hij/zij wedstrijden gaat rijden
-  - Benadrukken dat er verschillende niveaus zijn
-- Welke soorten wedstrijden zijn er
-  - Club
-  - Regio
-  - Nationaal
-  - NK
-  - NCK
-- Hoe lang duurt een wedstrijd
-- Het verloop van een wedstrijd
-- Leeftijdscategorieën & KNWU-indeling
-- Wedstrijdlicentie
-
----
-
 ## 4. Naslag voor leden
 
 *Doelgroep: ouders van bestaande leden | Intentie: naslag, informeren*
 
 | Pagina | Bestandsnaam | Doelgroep | Intentie |
 |--------|--------------|-----------|----------|
-| **Naslag voor leden (index)** | 04-naslag-voor-leden.md | Ouders van leden | Informeren |
+| **Naslag voor leden (index)** | 05-naslag-voor-leden.md | Ouders van leden | Informeren |
 
 **Inhoud index-pagina:**
 
 ### Techniek & veiligheid
 
-| Pagina                                                | Bestandsnaam                  | Doelgroep        | Intentie   |
-| ----------------------------------------------------- | ----------------------------- | ---------------- | ---------- |
-| Welke verzetten gelden per categorie?                 | 05-verzetten-per-categorie.md | Ouders van leden | Informeren |
-| Hoe controleer ik de afstelling van mijn fiets?       | 06-afstelling-fiets.md        | Ouders van leden | Informeren |
-| Hoe draag ik mijn helm?                               | 07-helm-dragen.md             | Ouders van leden | Informeren |
-| Hoe controleer ik de technische staat van mijn fiets? | 08-technische-staat-fiets.md  | Ouders van leden | Informeren |
-|                                                       |                               |                  |            |
+| Pagina | Bestandsnaam | Doelgroep | Intentie |
+|--------|--------------|-----------|----------|
+| Welke verzetten gelden per categorie? | 06-verzetten-per-categorie.md | Ouders van leden | Informeren |
+| Hoe controleer ik de afstelling van mijn fiets? | 07-afstelling-fiets.md | Ouders van leden | Informeren |
+| Hoe draag ik mijn helm? | 08-helm-dragen.md | Ouders van leden | Informeren |
+| Hoe controleer ik de technische staat van mijn fiets? | 09-technische-staat-fiets.md | Ouders van leden | Informeren |
 
 ### Competities & locaties
 
-| Pagina                                   | Bestandsnaam                       | Doelgroep        | Intentie   |
-| ---------------------------------------- | ---------------------------------- | ---------------- | ---------- |
-| Competitieregels in het kort             | 09-competitieregels.md             | Ouders van leden | Informeren |
-| Locaties van clubs/wedstrijden           | 10-locaties-wedstrijden.md         | Ouders van leden | Informeren |
-| Wegseizoen: Midden Nederland Competitie  | 11-wegseizoen-midden-nederland.md  | Ouders van leden | Informeren |
-| Crosseizoen: Midden Nederland Competitie | 12-crosseizoen-midden-nederland.md | Ouders van leden | Informeren |
+| Pagina | Bestandsnaam | Doelgroep | Intentie |
+|--------|--------------|-----------|----------|
+| Competitieregels in het kort | 10-competitieregels.md | Ouders van leden | Informeren |
+| Locaties van clubs/wedstrijden | 11-locaties-wedstrijden.md | Ouders van leden | Informeren |
+| Wegseizoen: Midden Nederland Competitie | 12-wegseizoen-midden-nederland.md | Ouders van leden | Informeren |
+| Crosseizoen: Midden Nederland Competitie | 13-crosseizoen-midden-nederland.md | Ouders van leden | Informeren |
+| Leeftijdscategorieën & KNWU-indeling | 14-leeftijdscategorieen.md | Ouders van leden | Informeren |
+| Wedstrijdlicentie | 15-wedstrijdlicentie.md | Ouders van leden | Informeren |
 | Nationale wedstrijden                    |                                    |                  |            |
 | Nationaal kampioenschap (wegwielrennen)  |                                    |                  |            |
 | Nationaal kampioenschap (veldrijden)     |                                    |                  |            |
@@ -188,9 +223,9 @@ Dit bestand is de bron van waarheid voor de jeugdsectie van de website van WTC W
 
 *Doelgroep: oudere jeugdleden + ouders | Intentie: informeren, enthousiasmeren*
 
-| Pagina                      | Bestandsnaam             | Doelgroep        | Intentie   |
-| --------------------------- | ------------------------ | ---------------- | ---------- |
-| Mijn kind wordt 14, wat nu? | 04-mijn-kind-wordt-14.md | Ouders van leden | Informeren |
+| Pagina | Bestandsnaam | Doelgroep | Intentie |
+|--------|--------------|-----------|----------|
+| Mijn kind wordt 14, wat nu? | 16-mijn-kind-wordt-14.md | Ouders van leden | Informeren |
 
 ---
 
@@ -231,4 +266,5 @@ De volgende onderwerpen horen **niet** in de vaste website-structuur, maar in **
 - 2026-09-26: Structuur herzien na feedback: Hoe het werkt gesplitst in **Hoe werkt het bij WTC Woerden** (praktische info voor nieuwe leden) en **Hoe werken wedstrijden** (wedstrijdgerelateerde info). Naslag voor leden voorzien van **index-pagina** (04-naslag-voor-leden.md) voor betere vindbaarheid. Fietsonderhoud verplaatst van Hoe het werkt naar Naslag → Techniek & veiligheid. Nationale kampioenschappen toegevoegd als aparte naslagpagina's. Totaal: 6 hoofdonderdelen, 18 pagina's.
 - 2026-09-26: Oude bestandsnamen verwijderd (10 bestanden: 01-startpagina, 02-wat-we-doen, 06-proefles-aanmelden, 07-benodigdheden, 08-kosten-betrokkenheid, 12-veelgestelde-vragen, 14-training-indeling, 15-wedstrijden-az, 20-communicatie, 21-wsr-cyclingteam).
 - 2026-09-26: Ontbrekende elementen uit PDF "Welkom bij WTC Woerden" toegevoegd: leeftijdscategorieën, jeugdcommissie contacten, contributiebedragen, trainingstijden, temperatuurregels, ouderhulp details, huurfiets kosten, clubkleding details, wedstrijdlicenties (startlicentie vs wedstrijdlicentie), MyLaps transponder, ZMC, clubkampioenschappen, MNC details, NK kwalificatie, overige activiteiten (trainingskamp, baanwielrenclinic, Core Stability, etc.), seizoensafsluitingen.
+- 2026-09-27: Structuur aangepast naar **5 hoofdonderdelen**: "Kom kennismaken" opgesplitst in **2 pagina's** (02-kom-meetrainen.md, 03-lid-worden.md) onder het nieuwe hoofdonderdeel **"Voor nieuwe ouders"**. "Hoe werken wedstrijden" (17-hoe-werken-wedstrijden.md) **verwijderd als hoofdonderdeel**; inhoud verplaatst naar Hoe het werkt (wedstrijdinfo) en Naslag voor leden (leeftijdscategorieën, wedstrijdlicentie). Bestandsnummers hernomen voor consistentie (03→04, 04→05, etc.).
 
