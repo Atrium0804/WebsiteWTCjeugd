@@ -79,16 +79,24 @@ Dit bestand is de bron van waarheid voor de jeugdsectie van de website van WTC W
   - Seizoensindeling
     - de seizoensindeling is als volgt:
     - van april t/m september: wegseizoen
+      - training op dinsdag en donderdag van 18:30-19:45
     - van oktobert/m februari: cross-seizoen
+      - training: dinsdag 18:30-19:30
+      - trainingswedstrijdje: zaterdag 13:45
 - Kennismaken met wielrennen: Proeftraining
   - Meld je aan voor een proeftraining
   - Geen vaste instroomomenten
-  - Vooraf aanmelden zodat we weten dat je komt en we voor de training een passende fiets kunnen uitzoeken
+  - Vooraf aanmelden zodat we weten dat je komt
 - Wat heb je nodig voor de proeftraining
   - Een racefiets of in het veldseizoen: veldrijfiets/mountainbike
   - De vereniging heeft een aantal leenfietsen en helm beschikbaar
   - Kleding waarin je makkelijk kan bewegen
   - Een bidon of drinkfles met water
+- Hoe gaat je eerste proeftraining
+  - Kom op je eerste training een kwartiertje eerder
+  - We kijken dan naar een passende fiets en stellen deze af
+  - je gaat eerst wennen aan het fietsen op een race-fiets en sluit daarna aan bij de training met de andere kinderen
+  - na afloop van de training gaan we met zijn allen naar de kantine
 - Trainingen
   - Groepsindeling
   - Trainingen in het wegseizoen
@@ -99,96 +107,190 @@ Dit bestand is de bron van waarheid voor de jeugdsectie van de website van WTC W
     - dinsdag om 18:30 training
     - zaterdag om 13:45 wedstrijdje op lang parcours
 
----
+## Lid worden
 
-## 3. Hoe het werkt
+Deze pagina beschrijft hoe het gaat als je lid word bij onze vereniging.
 
-*Doelgroep: ouders van nieuwe/bestaande leden | Intentie: informeren, uitleggen*
+- Aanmelden als Lid
 
-| Pagina        | Bestandsnaam        | Doelgroep        | Intentie              |
-| ------------- | ------------------- | ---------------- | --------------------- |
-| Hoe het werkt | 04-hoe-het-werkt.md | Ouders van leden | Informeren, uitleggen |
-
-Deze pagina beschrijft hoe het gaat als je lid word bij onze vereniging. 
-
-Administratief
-
-- Hoe lid worden?
   - Heb je de proeftraining gedaan en wil jij lid worden? Schrijf je in via het webformulier
   - https://www.wtcwoerden.nl/index.php?page=125&sid=1
   - Het lidmaatschap geldt voor een kalenderjaar
 
-- KNWU-licentie aanvragen en categorieen
+- Communicatie:
 
-  - Als je lid wordt, word je ook ingeschreven bij de KNWU. De kosten hiervoor zijn ingebrepen bij de contributie
-  - Om wedstrijden te rijden heb je een licentie verplicht. Deze is nodig voor regio-wedstrijden én voor de crosswedstrijden in het park op zaterdagmiddag.
-  - De licentie moet je zelf aanvragen bij de KNWU. 
-  - Zie pagina over 'licenties/knwu'
+  - De club heeft een app 'ClubApp' om te communiceren met ouders. Installeer deze op je telefoon (link naar 'hoe het werkt- clubApp')
+    - De ClubApp kan je downloaden vanuit de appstore of google play store
+      - link appstore:
+      - link playstore:
 
-  
+  - Je kan je aanmelden met je emailadres, een account is al voor je aangemaakt.
 
-Materiaal
+  - Als je de clubapp hebt geinstalleerd moet je je even aanmelden bij de volgende groepen:
+    - Jeugd: mededelingen van de jeugcommissie, afmelden als je niet kan komen trainen
+      - Jeugd-fun: hier delen ouders bijvoorbeeld foto's van activigteiten
+      - marktplaats: voor het kopen/verkopen van clubkleding, fietsschoenen, fietsen etc.
 
-- Afspraken
+- Verenigingsfiets
 
-  - Tijdens het fietsen is het dragen van een helm en fietshandschoenen verplicht 
-  - We fietsen in clubkleding
-  - De fiets waarmee je fietst moet in orde zijn
-    - De zadelhoogte is goed afgesteld
-    - De banden zijn goed opgepompt
-    - De remmen functioneren
-    - Het stuur heeft stuurdopjes op de uiteinden
-    - De fiets heeft een passend verzet
-  - Als de buitentemperatuur onder de 16 graden is wordt er gefietst in lange kleding
-  - Als je niet kan komen trainen dan meld je je af via de clubapp
+  - Als je een leenfiets van de vereniging gebruikt kan je deze huren tot het moment dat je een eigen fiets hebt.
 
-  
+  - Je ontvangt van de penningmeester een huurovereenkomst
+
+  - Je huurt de fiets voor maximaal 3 maanden. Eventuele verlening in overleg
+
+  - Je bent zelf verantwoordelijk voor regulier onderhoud van de fiets (schoonmaken, remmen afstellen etc.)
+
+  - Als er andere kinderen ook leenfietsen nodig hebben dan kan het zijn dat je van fiets moet wissellen zodat iedereen op een juiste maat fiets kan fietsen.  
 
 - Clubkleding 
 
   - Als nieuw lid kan je eenmalig een kledingset bestellen (korte broek, shirt korte mouwen, shirt lange mouwen). Een lange broek dien je dus los bij te bestellen
-  - Let op! de langebroek is er in twee varianten: met en zonder zeem! 
-  - Ga voordat je bestelt de kleding passen, dat kan bij Bike Center. Zij hebben een hoekje met paskleding
+  - Ga eerst de kleding passen, dat kan bij Bike Center. Zij hebben een hoekje met paskleding
   - Bestellen doe je via de site van bioracer: https://www.bioracer.be/nl/mybioracer
-  - Let op! pas als er voldoende kleding is besteld wordt deze in productie genomen, dat gebeurt ongeveer 4x per jaar.
-  -  Je krijgt een bericht als de kleding geproduceerd kan worden, je kan dan snel nog even wat bestellen. Daarna duurt het nog 6 weken voordat de kleding voor je klaar ligt bij bike center. 
+  - Let op! pas als er voldoende kleding is besteld wordt deze in productie genomen, dat gebeurt ongeveer 4x per jaar. Je krijgt een bericht als de kleding geproduceerd kan worden, je kan dan snel nog even wat bestellen. Daarna duurt het nog 6 weken voordat de kleding voor je klaar ligt bij bike center. 
 
-- Fiets van de vereniging huren
+- KNWU-licentie aanvragen en categorieen
 
-  - Als je een leenfiets van de vereniging gebruikt kan je deze huren tot het moment dat je een eigen fiets hebt.
-  - Je ontvangt van de penningmeester een huurovereenkomst
-  - Je bent zelf verantwoordelijk voor regulier onderhoud van de fiets (schoonmaken, remmen afstellen etc.)
-  - Je huurt de fiets voor maximaal 3 maanden. Eventuele verlening in overleg
-  - Als er andere kinderen ook leenfietsen nodig hebben dan kan het zijn dat je van fiets moet wissellen zodat iedereen op een juiste maat fiets kan fietsen.
-
-- Communicatie:
-
-  - De club heeft een app 'ClubApp' om te communiceren met ouders. Installeer deze op je telefoon (link naar 'hoe het werkt- clubApp')
-  - De ClubApp kan je downloaden vanuit de appstore of google play store
-    - link appstore:
-    - link playstore:
-  - Als je de clubapp hebt geinstalleerd moet je je even aanmelden bij de volgende groepen:
-    - Jeugd: mededelingen van de jeugcommissie, afmelden als je niet kan komen trainen
-    - Jeugd-fun: hier delen ouders bijvoorbeeld foto's van activigteiten
-    - marktplaats: voor het kopen/verkopen van clubkleding, fietsschoenen, fietsen etc.
+  - De KNWU is de sportbond voor het wielrennen
+  - De KNWU houdt zich bezig met Wedstrijd(regels) en verzekering tijdens wedstrijden 
+  - Als je lid wordt, word je ook ingeschreven bij de KNWU.  
+  - Om wedstrijden te rijden heb je een licentie verplicht. Deze is nodig voor regio-wedstrijden én voor de crosswedstrijden in het park op zaterdagmiddag.
+  - De licentie moet je zelf aanvragen bij de KNWU. 
+  - Zie pagina over 'licenties/knwu'
 
 
 
-Trainingen
+---
 
-​	- 
+## 3. Hoe het werkt
 
-- - Materiaal
+*Doelgroep: ouders van nieuwe/bestaande leden | Intentie: uitleggen*
 
-  - Clubfiets huren
-  - Een fiets kopen
-  - Toegestane verzetten
+| Pagina        | Bestandsnaam        | Doelgroep        | Intentie  |
+| ------------- | ------------------- | ---------------- | --------- |
+| Hoe het werkt | 04-hoe-het-werkt.md | Ouders van leden | uitleggen |
+
 
 
 
 - Trainingen
-  - Tijden en locatie wegseizoen
-  - Tijden en locatie cross-seizoen
+  - Afspraken
+    - Tijdens het fietsen is het dragen van een helm en fietshandschoenen verplicht 
+    - We fietsen in clubkleding
+    - De fiets waarmee je fietst moet in orde zijn
+      - De zadelhoogte is goed afgesteld
+      - De banden zijn goed opgepompt
+      - De remmen functioneren
+      - Het stuur heeft stuurdopjes op de uiteinden
+      - De fiets heeft een passend verzet
+    - Als de buitentemperatuur onder de 16 graden is wordt er gefietst in lange kleding
+    - Als je niet kan komen trainen dan meld je je af via de clubapp
+
+- Training - Wegseizoen
+
+
+  - In het wegseizoen trainen we op ons eigen parcours
+  - de oudste groep traint op de openbare weg.
+  - De groepen die op het parcours fietsen verzamelen om 18:15 op het parcours
+  - Je dan een rustig rondje warmrijden
+  - Van 18:30-19:30 wordt er in groepjes getraind op het parcours
+  - van 19:30-19:45 sluiten we af met techniekoefeningen op het parcours
+  - Na afloop gaan we onder begeleiding van een trainter naar de kantine
+
+- Training - Veldseizoen
+
+
+  - In het veldseizoen hebben we op dinsdag training van 18:30-19:30
+  - We verzamelen om 18:15 bij de ingang van het clubgebouw en gaan gezamenlijk naar het park
+  - Je kan warmrijden rond de krater
+  - Het park is ingedeeld in 4 gebieden waar we trainen (afbeelding met de gebieden). 
+  - Op het trainingsrooster kan je zien waar je traint.
+  - Na afloop gaan we onder begeleiding van een trainter naar de kantine
+
+- Training - Zaterdagmiddagcompetitie
+
+
+  - een serie laagdrempelige wedstrijden voor jonge wielrenners 
+
+  - extra training in het veldrijden, oefenen van de techniek op een wekelijks wisselend parcours 
+
+  - doel: plezier beleven in het veldrijden en toch proeven aan een wedstrijd
+
+
+  - Het werkt als volgt:
+
+    - Vooraf inschrijven in de kantine, 
+    - je krijgt dan een rugnummer als je deze nog niet hebt. 
+    - Het rugnummer lever je aan het eind van het seizoen in
+    - Kom op tijd zodat je vooraf nog alvast kan warmrijden en het parcours kan verkennen
+    - Starttijd: 13:45
+  - Na afloop kan je bij het clubhuis je fiets schoonspuiten.
+  - Klassement:
+
+    - Iedere wedstrijd krijg je punten. (puntenschema invoegen)
+    - aan het eind van het seizoen wordt gekeken wie het meeste punten heeft. 
+    - je kan dus punten verdienen door snel te fietsen en/of vaak te komen
+    - Je krijgt een prijs als je meer dan de helft van de wedstrijden hebt gefietst
+
+
+
+Eigen fiets kopen
+
+- Er is verschil tussen een wegfiets en een crossfiets/gravelbike
+
+- Een wegfiets kan alleen op de weg, er is geen ruimte voor brede banden
+
+- Met een cross-fiets kan je veldrijden en op de weg fietsen
+
+- De meeste kinderen hebben één (cross)fiets waarmee ze zowel in de zomer als in de winter fietsen
+
+- Vraag de jeugdcommissie voor advies waar je op moet letten of om mogelijke fietsen te beoordelen
+- Omdat kinderen in de groei zijn is het belangrijk dat de zwaarste versnelling niet te zwaar is. Dit noemen we het verzet. De maximale verzetten worden bepaald door de KNWU.  Vraag de jeugdcommissie hoe je het verzet kan controleren of aanpassen. (evt. verwijzen naar pagina over maximale verzetten)
+
+
+
+
+
+
+
+Wedstrijden rijden:
+
+- Binnen het wielrennen zijn er wedstrijden en competities. Een competitie is een serie wedstrijden waarbij aan het eind een klassement opgemaakt wordt
+- Veel renners vinden het leuk om een wedstrijdje te rijden maar het is niet verplicht.  Er zijn ook renners die alleen met de trainingen en de activiteiten mee doen. Je beslist dus zelf of je mee doet met een wedstrijd
+- Wedstrijden zijn er op verschillende niveau's: laagdrempelige wedstrijden op regionaalniveau, nationale 
+- Bij de regionale wedstrijden zijn altijd wel WTC-renners die deelnemen.
+- Renners worden in principe ingedeeld per KNWU-categorie, die is gebaseerd op je geboortejaar. 
+- 
+
+
+
+- Er zijn wedstrijden op verschillende niveau's:
+  - Clubkampioenschap
+    - Ieder jaar houden we een clubkampioenschap, een wedstrijd waarbij je met je trainingsgroepje een wedstrijd rijdt.  Er is een kampioenschap voor veldrijden en voor wegwielrennen. We sluiten de wedstrijd af met een prijsuitreiking. De snelste drie renners krijgen een beker, iedereen die meedoet krijgt een medaille. Het clubkampioenschap vindt plaats op ons eigen parcours en tijdens reguliere trainingstijden.
+  - Regiowedstrijden: Midden Nederland Competitie
+    - Regiowedstrijden worden gehouden bij clubs in de KNWU-regio, dadt zijn: Amersfoort, Utrecht, Woerden, Tiel, Bemmel, Arnhem, Veendendaal.
+    - Het zijn laagdrempelige wedstrijden bedoeld voor iedereen die het lJeeuk vindt om een wedstrijdje te rijden. Je komt vaak dezelfde renners tegen en fietst op andere parcoursen. 
+    - De wedstrijd wordt in principe ingedeeld per leeftijdsjaar, maar je kan in overleg een categorie hoger of lager fietsen als dat beter bij je aansluit.
+    - Iedere wedstrijd die je fietst levert punten op, waarbij de snelste renner de meeste punten krijgt. Aan het eind van het seizoen wordt is er een prijsuitreiking voor de hele competitie. Je kan dus meer punten verdienen door snel te fietsen, of meer wedstrijden te fietsen.
+    - Iedereen die meer dan de helft van de wedstrijden heeft gereden krijgt een beker.
+    - Hoe doe je mee:
+      - Zorg dat je een half uur voor de starttijd aanwezig bent. 
+      - Inschrijven doe je voorafgaand aan de wedstrijd in de kantine van de club
+      - Je krijgt een rugnummer. 
+      - Voorafgaand aan de wedstrijd kan je even warmrijdne
+      - 
+      - 
+    - Belangrijk
+      - Voor deze wedstrijden is een knwu-licentie verplicht
+      - Je fiets moet het juiste verzet hebben maar dat mag door het begrenzen van de derailleur
+  - Nationale Wedstrijden
+    - Nationale wedstrijden zijn wedstrijden waar renners uit heel het land aan 
+
+---
+
+
+
 - Wedstrijden
   - Soorten wedstrijden
   - Hoe werkt een wedstrijd
