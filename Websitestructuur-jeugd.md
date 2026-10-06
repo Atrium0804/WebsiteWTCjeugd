@@ -264,6 +264,7 @@ Deze pagina beschrijft hoe het gaat als je lid wordt bij onze vereniging.
 | Leeftijdscategorieën & KNWU-indeling | 15-leeftijdscategorieen.md | Ouders van leden | Informeren |
 | Wedstrijdlicentie | 16-wedstrijdlicentie.md | Ouders van leden | Informeren |
 | Nationale wedstrijden | 17-nationale-wedstrijden.md | Ouders van leden | Informeren |
+| Zaterdagmiddagcompetitie | 18-zaterdagmiddagcompetitie.md | Ouders van leden | Informeren |
 
 **Inhoud 17-nationale-wedstrijden.md:**
 - Nationale wedstrijden
