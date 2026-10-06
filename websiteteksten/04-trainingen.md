@@ -42,18 +42,32 @@ WTC Woerden kent twee seizoenen: het wegseizoen en het veldseizoen. De trainings
 
 ## Zaterdagmiddagcompetitie
 
-In het veldseizoen is er op zaterdag de zaterdagmiddagcompetitie: een serie laagdrempelige wedstrijdjes voor jonge wielrenners. Het is ook een extra training: elke week oefenen we de techniek op een wisselend parcours. Zo proef je kind van het veldrijden en van een echte wedstrijd, met plezier als belangrijkste doel.
+In het veldseizoen rijden we op zaterdag de zaterdagmiddagcompetitie (ZMC): een serie laagdrempelige wedstrijden voor jonge wielrenners. Het is ook extra training: elke week staat er een ander uitdagend parcours klaar. Zo proef je kind van het veldrijden en van het wedstrijdelement, met plezier als belangrijkste doel.
 
-Praktisch:
+De competitie is open: ook renners van andere clubs zijn welkom. Deelname is het hele seizoen gratis voor leden en leden van andere clubs.
 
-- **Starttijd:** 13.45 uur.
-- **Inschrijven:** vooraf in de kantine. Je kind krijgt dan een rugnummer als het er nog geen heeft. Lever het rugnummer aan het eind van het seizoen weer in.
+### Praktisch
+
+- **Wedstrijden:** 10 tot 13 wedstrijden, van oktober tot eind januari.
+- **Starttijd:** 13.45 uur, voor alle jeugdcategorieën.
+- **Aanmelden:** wekelijks in het clubgebouw, vanaf 13.15 uur.
 - **Kom op tijd**, zodat je kind nog kan warmrijden en het parcours kan verkennen.
+- **Groepen:** de indeling is op basis van leeftijd en ervaring. De organisatie bepaalt de indeling en volgt de renners gedurende het seizoen.
+- **Wedstrijdvorm:** meestal zijn het individuele ritten. Soms kiest de organisatie een andere vorm, zoals een koppelcross.
+- **Rittijden:** afhankelijk van de groep, ongeveer 12 tot 25 minuten.
+- **Rugnummer:** wie het hele seizoen meefietst, fietst elke week met hetzelfde rugnummer en mag dit mee naar huis nemen. Na afloop van de competitie lever je het nummer schoon in.
+- **Licentie:** voor deelname is een [start- of wedstrijdlicentie](../naslag/16-wedstrijdlicentie.md) verplicht.
+- **Materiaal:** controleer vooraf de bandenspanning, remmen, versnellingen en ketting. Maak de fiets na elke training of wedstrijd goed schoon.
 - **Na afloop** kan je de fiets schoonspuiten bij het clubhuis.
 
-### Klassement
+### Puntenschema en klassement
 
-- Bij elke wedstrijd verdien je punten. *(Puntenschema: nog aan te vullen door de vereniging.)*
-- Je verdient punten door snel te fietsen en door vaak te komen.
-- Aan het eind van het seizoen kijken we wie de meeste punten heeft.
-- Je kind krijgt een prijs als het meer dan de helft van de wedstrijden heeft gefietst.
+- De nummer één krijgt 10 punten, de nummer twee 9 punten, de nummer drie 8 punten, enzovoort. Iedere renner die finisht krijgt minimaal 1 punt.
+- Niet gefinisht? Dan geen punten. Wordt een wedstrijd gestaakt door het weer? Dan krijgt iedereen 1 punt.
+- De twee slechtste uitslagen per renner worden weggestreept. Bij 10 wedstrijden op de kalender tellen de beste 8 uitslagen.
+- Bij een gelijke eindstand is de uitslag van de laatste wedstrijd beslissend.
+- Wie meer dan de helft van de wedstrijden fietst, krijgt een prijs na de laatste competitiewedstrijd. Er is geen dagprijs.
+- De uitslagen staan binnen een week na de wedstrijd op de website.
+- Rijdt er op een zaterdagmiddag een clubkampioenschap of andere wedstrijd? Dan telt die uitslag niet mee voor de ZMC.
+
+Twijfel je of je kind in een hogere of lagere groep past? Een jeugdbegeleider of trainer beslist hierover, niet een ouder. Je kind rijdt eerst in de eigen categorie om te zien hoe het gaat.
