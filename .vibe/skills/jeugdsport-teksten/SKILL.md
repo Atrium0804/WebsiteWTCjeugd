@@ -193,12 +193,12 @@ De jeugdsectie van de website bestaat uit **vier hoofdonderdelen** met in totaal
 
 ---
 
-### 1. Ontdek de jeugd
+### 1. Jeugdwielrennen bij WTC Woerden
 *Doelgroep: nieuwe jeugdleden (7-14) | Intentie: enthousiasmeren*
 
 | Pagina | Bestandsnaam | Doelgroep | Intentie |
 |--------|--------------|-----------|----------|
-| Ontdek de jeugd | 01-ontdek-de-jeugd.md | Jeugd (7-14) | Enthousiasmeren |
+| Jeugdwielrennen bij WTC Woerden | 01-jeugdwielrennen-bij-wtc-woerden.md | Jeugd (7-14) | Enthousiasmeren |
 
 **Inhoud:**
 - Wie zijn we
