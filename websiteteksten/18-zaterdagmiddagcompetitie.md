@@ -102,7 +102,7 @@ Renners en ouders zijn zelf verantwoordelijk voor het onderhoud van de fiets.
 
 **Uitzonderingen:**
 
-- Een renner die **niet finishte**, krijgt **geen punten**.
+- Een renner die **niet finisht**, krijgt **geen punten**.
 - Mocht een wedstrijd **i.v.m. weersomstandigheden** moeten worden gestaakt, dan krijgen **alle deelnemende renners 1 punt**.
 
 ### Klassement

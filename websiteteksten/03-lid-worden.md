@@ -6,9 +6,9 @@ Heb je de proeftraining gedaan en wil je lid worden bij WTC Woerden? Hier lees j
 
 ## Aanmelden als lid
 
-Als je de proefperiode leuk hebt gevonden dan kan lid worden. Je kunt je eenvoudig inschrijven als lid via het [webformulier](https://www.wtcwoerden.nl/index.php?page=125&sid=1).
+Als je de proefperiode leuk hebt gevonden dan kan je lid worden. Je kunt je eenvoudig inschrijven als lid via het [webformulier](https://www.wtcwoerden.nl/index.php?page=125&sid=1).
 
-Als je aanmelding verwerkt is dan ontvang je daarvan bericht. Wat er dan gebeurd is:
+Als je aanmelding verwerkt is dan ontvang je daarvan bericht. Wat er dan gebeurt is:
 
 - Je bent ingeschreven bij de vereniging
 - Je bent aangemeld bij de KNWU

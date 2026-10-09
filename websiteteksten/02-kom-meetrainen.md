@@ -4,9 +4,9 @@ Benieuwd of wielrennen of veldrijden bij WTC Woerden iets voor je is? Kom dan ee
 
 Er zijn geen vaste instroommomenten: je kunt ieder moment instromen. Je traint een paar keer mee en besluit dan of je lid wilt worden.
 
-Meld je wel vooraf aan zodat we even kennis kunnen makenen een passende fiets voor je kunnen uitzoeken.
+Meld je wel vooraf aan zodat we even kennis kunnen maken en een passende fiets voor je kunnen uitzoeken.
 
-Geef je eenvoudig op door een mail te sturen naar de [jeugdcommissie](mailto://jeugd@wtcwoerden.nl).
+Geef je eenvoudig op door een mail te sturen naar de [jeugdcommissie](mailto:jeugd@wtcwoerden.nl).
 
 ## Trainingen en tijden
 
@@ -18,7 +18,6 @@ De trainginstijden zijn verschillend voor het weg- en veldrijseizoen: onze **sei
 - **Crossseizoen** (oktober t/m februari): Training op dinsdag van 18:30-19:30 in park Molenvliet. Op zaterdag om 13:45 is er een trainingswedstrijdje op het lange parcours.
 
 ---
-
 
 ## Wat heb je nodig voor de proeftraining?
 
@@ -35,7 +34,7 @@ De trainginstijden zijn verschillend voor het weg- en veldrijseizoen: onze **sei
 2. We kijken samen naar een **passende fiets** voor je en stellen deze af.
 3. Je gaat eerst wennen aan het fietsen op een racefiets.
 4. Vervolgens sluit je aan bij de training met de andere kinderen.
-5. Na afloop gaan we met z’n allen naar de kantine.
+5. Na afloop gaan we met z'n allen naar de kantine en drinken daar nog limonade.
 
 ---
 

@@ -12,6 +12,7 @@ Tijdens de trainingen hanteren we een aantal vaste afspraken om de veiligheid en
 
 - Helm
 - Fietshandschoenen
+- Tijdens de wintertijd goede fietsverlichting
 
 **Kleding:**
 
@@ -23,7 +24,7 @@ Tijdens de trainingen hanteren we een aantal vaste afspraken om de veiligheid en
 - De fiets moet in goede staat zijn:
   - Zadelhoogte goed afgesteld
   - Banden goed opgepompt
-  - Remmen functioneren
+  - Remmen functioneren goed
   - Stuur heeft stuurdopjes op de uiteinden
   - Fiets heeft een passend verzet
 
@@ -50,32 +51,29 @@ Tijdens de trainingen hanteren we een aantal vaste afspraken om de veiligheid en
 ### Veldseizoen (herfst/winter)
 
 - **Dinsdag:**
-
   - Tijd: 18:30–19:30 uur
   - Locatie: park Molenvliet
-  - Verloop: verzamelen om 18:15 uur bij de ingang van het clubgebouw, warmrijden rond de krater
+  - Verloop: verzamelen om 18:15 uur bij de ingang van het clubgebouw, warmrijden rond de krater. We steken gezamenlijk over naar het park.
 
-  **Trainingslocaties:**
+**Trainingslocaties:**
 
-  - We trainen op verschillende locaties in het park. Iedere locatie heeft andere uitdagingen: bochten, wedstrijdtechniek, heuvels op- en afrijden, zandbak of andere hindernissen.
-  - Het park is ingedeeld in 4 gebieden waar we trainen (zie afbeelding met de gebieden).
-  - Op het trainingsrooster kan je zien waar je kind traint.
-  - Na afloop: onder begeleiding van een trainer naar de kantine
-- **Zaterdag: Trainingswedstrijdje**
-  Op zaterdag rijden we een wedstrijdje met elkaar over een lang parcours. Bij daglicht en door het hele park! Hierbij draait het om plezier beleven in het veldrijden en het oefenen van techniek.
-  Aan het eind van het seizoen is er een prijs voor iedereen die meer dan de helft van de wedstrijden heeft gereden
+- We trainen op verschillende locaties in het park. Iedere locatie heeft andere uitdagingen: bochten, wedstrijdtechniek, heuvels op- en afrijden, een zandbak of andere hindernissen.
+- Het park is ingedeeld in 4 gebieden waar we trainen (zie afbeelding met de gebieden).
+- Op het trainingsrooster kan je zien waar je kind traint.
+- Na afloop: onder begeleiding van een trainer naar de kantine
 
-  **Inschrijven:**
+- **Zaterdag: Trainingswedstrijdje** Op zaterdag rijden we een wedstrijdje met elkaar over een lang parcours. Bij daglicht en door het hele park! Hierbij draait het om plezier beleven in het veldrijden en het oefenen van techniek. Aan het eind van het seizoen is er een prijs voor iedereen die meer dan de helft van de wedstrijden heeft gereden.
 
-  - Vooraf schrijf je in de kantine in
-  - Je kind krijgt een rugnummer als deze nog niet heeft
-  - Het rugnummer lever je aan het eind van het seizoen in
-  - Na inschrijven kan je kind alvast inrijden op het parcours
+**Inschrijven:**
 
-  **Praktisch:**
+- Vooraf schrijf je in de kantine in
+- Je kind krijgt een rugnummer als deze nog niet heeft
+- Het rugnummer lever je aan het eind van het seizoen in
+- Na inschrijven kan je kind alvast inrijden op het parcours
 
-  - De start is om  13:45 uur
-  - Na afloop kan je kind bij het clubhuis de fiets schoonspuiten
--
+**Praktisch:**
+
+- De start is om 13:45 uur
+- Na afloop kan je kind bij het clubhuis de fiets schoonspuiten
 
 ---
