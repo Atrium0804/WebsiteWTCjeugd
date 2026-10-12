@@ -26,7 +26,7 @@ Deze Vaardigheid helpt bij het maken van Nederlandstalige socialmedia-berichten 
 
 Drie doelgroepen, elk met een eigen toon:
 
-### 1. Jeugd die overweegt lid te worden (7-14 jaar)
+### 1. Jeugd die overweegt lid te worden (6-14 jaar)
 - Toon: enthousiasmerend, uitnodigend, belevingsgericht.
 - Laat de sport en het plezier centraal staan.
 - Houd de taal eenvoudig; begrijpelijk vanaf groep 4.
@@ -132,17 +132,11 @@ Voorbeeld van verhelderende vragen bij een vage aanvraag:
 
 Zodra voldoende duidelijk is, schrijf de tekst volgens de structuur en toon die bij kanaal en doelgroep horen. Stel daarna eventueel nog één gerichte vraag als een essentieel detail ontbreekt, maar lever niet op zonder te proberen de intentie te verhelderen.
 
-## Opslaan van websiteteksten in GitHub
+## Opslaan van websiteteksten
 
-Websiteteksten worden opgeslagen in de GitHub-repository van WTC Woerden. Socialmedia-berichten en ClubApp-posts worden niet in GitHub opgeslagen, tenzij de gebruiker dit expliciet vraagt.
+Websiteteksten worden opgeslagen in de map `websiteteksten/` van de repository van WTC Woerden. Socialmedia-berichten en ClubApp-posts worden niet opgeslagen, tenzij de gebruiker dit expliciet vraagt.
 
-### Repository
-
-- Eigenaar: Atrium0804
-- Repository: WebsiteWTCjeugd
-- Hoofdbranch: main
-- Map voor websiteteksten: websiteteksten/
-- URL: https://github.com/Atrium0804/WebsiteWTCjeugd/
+**Versiebeheer doet de gebruiker zelf.** Maak geen branches, commits, pushes of pull requests aan.
 
 ### Bron van waarheid en referentiemateriaal
 
@@ -152,23 +146,15 @@ Websiteteksten worden opgeslagen in de GitHub-repository van WTC Woerden. Social
 
 ### Werkwijze per websitetekst
 
-1. Maak een nieuwe branch aan, vertakkend vanuit main. De branchnaam is beschrijvend en in het Nederlands, bijvoorbeeld: tekst-start-veldritseizoen, tekst-open-dag, tekst-trainingstijden-wegseizoen.
-2. Schrijf de websitetekst volgens de structuur en toon uit deze Vaardigheid.
-3. Sla de tekst op in de map websiteteksten/ met een betekenisvolle bestandsnaam in het Nederlands, bijvoorbeeld: start-veldritseizoen.md, open-dag.md, trainingstijden-wegseizoen.md.
-4. Push het bestand naar de nieuwe branch met een duidelijke commit-boodschap, bijvoorbeeld: "Websitetekst toegevoegd: start veldritseizoen".
-5. Open een pull request van de nieuwe branch naar main, met een korte beschrijving van de tekst en de doelgroep.
-6. Geef de gebruiker de link naar het pull request, zodat deze de tekst kan beoordelen en samenvoegen.
+1. Schrijf de websitetekst volgens de structuur en toon uit deze Vaardigheid.
+2. Sla de tekst op in de map `websiteteksten/` met de bestandsnaam uit de structuur-tabel in `Websitestructuur-jeugd.md`.
+3. Meld de gebruiker welk bestand is aangemaakt of gewijzigd, zodat deze de tekst kan beoordelen.
 
 ### Bijwerken van een bestaande websitetekst
 
-1. Haal de huidige versie van het bestand op uit de repository.
-2. Maak een nieuwe branch aan vanuit main.
-3. Pas de tekst aan en push de bijgewerkte versie naar de nieuwe branch.
-4. Open een pull request met een beschrijving van de wijziging.
-
-### Meerdere teksten in één pull request
-
-Als de gebruiker meerdere websiteteksten tegelijk aanvraagt, kunnen deze op dezelfde branch worden gepusht en in één pull request worden samengevoegd.
+1. Lees de huidige versie van het bestand in `websiteteksten/`.
+2. Pas de tekst aan in hetzelfde bestand.
+3. Meld de gebruiker wat er is gewijzigd.
 
 ### Bestandsformaat
 
@@ -181,10 +167,10 @@ Als de gebruiker meerdere websiteteksten tegelijk aanvraagt, kunnen deze op deze
 
 ## Website-structuur: jeugdsectie
 
-De jeugdsectie van de website bestaat uit **vier hoofdonderdelen** met in totaal **17 pagina's** (inclusief index-pagina voor Naslag). Elke pagina heeft een eigen doelgroep, intentie en toon. Per pagina wordt een apart Markdown-bestand aangemaakt in de map `websiteteksten/`.
+De jeugdsectie van de website bestaat uit **vier hoofdonderdelen** met in totaal **16 pagina's** (inclusief index-pagina voor Naslag). Elke pagina heeft een eigen doelgroep, intentie en toon. Per pagina wordt een apart Markdown-bestand aangemaakt in de map `websiteteksten/`.
 
 **Doelgroepen:**
-- Nieuwe jeugdleden (7-14 jaar)
+- Nieuwe jeugdleden (6-14 jaar)
 - Ouders van aspirant-leden (niet-leden)
 - Ouders van nieuwe leden
 - Ouders van bestaande leden
@@ -194,11 +180,11 @@ De jeugdsectie van de website bestaat uit **vier hoofdonderdelen** met in totaal
 ---
 
 ### 1. Ontdek de jeugd
-*Doelgroep: nieuwe jeugdleden (7-14) | Intentie: enthousiasmeren*
+*Doelgroep: nieuwe jeugdleden (6-14) | Intentie: enthousiasmeren*
 
 | Pagina | Bestandsnaam | Doelgroep | Intentie |
 |--------|--------------|-----------|----------|
-| Ontdek de jeugd | 01-ontdek-de-jeugd.md | Jeugd (7-14) | Enthousiasmeren |
+| Ontdek de jeugd | 01-ontdek-de-jeugd.md | Jeugd (6-14) | Enthousiasmeren |
 
 **Inhoud:**
 - Wie zijn we
@@ -230,8 +216,7 @@ Baanwielrennen en mountainbiken worden kort vermeld als incidentele activiteiten
 - Communicatie (ClubApp)
 - Verenigingsfiets
 - Clubkleding
-- KNWU-licentie (link naar Naslag)
-- Leeftijdscategorieën (link naar Naslag)
+- KNWU-licentie en leeftijdscategorieën (link naar Naslag: 15-categorieen-en-licenties.md)
 
 ---
 
@@ -285,9 +270,10 @@ Baanwielrennen en mountainbiken worden kort vermeld als incidentele activiteiten
 | Locaties van clubs/wedstrijden | 12-locaties-wedstrijden.md | Ouders van leden | Informeren |
 | Wegseizoen: Midden Nederland Competitie | 13-wegseizoen-midden-nederland.md | Ouders van leden | Informeren |
 | Crosseizoen: Midden Nederland Competitie | 14-crosseizoen-midden-nederland.md | Ouders van leden | Informeren |
-| Leeftijdscategorieën & KNWU-indeling | 15-leeftijdscategorieen.md | Ouders van leden | Informeren |
-| Wedstrijdlicentie | 16-wedstrijdlicentie.md | Ouders van leden | Informeren |
-| Nationale wedstrijden | 17-nationale-wedstrijden.md | Ouders van leden | Informeren |
+| Categorieën en licenties | 15-categorieen-en-licenties.md | Ouders van (nieuwe) leden | Informeren |
+| Nationale wedstrijden | 16-nationale-wedstrijden.md | Ouders van leden | Informeren |
+
+Voor 15-categorieen-en-licenties.md is `context/onderzoek-categorieen-en-licenties.md` de feitenbron (geverifieerd met de KNWU en de vereniging).
 
 ---
 
@@ -318,7 +304,7 @@ De volgende onderwerpen horen **niet** in de vaste website-structuur, maar in **
 - Lever de tekst aan in de gevraagde lengte en lever eventueel een kortere variant voor een ander kanaal.
 - Bied bij langere websiteteksten een titel en tussenkopjes aan.
 - Houd rekening met seizoensmomenten: start wegseizoen, start veldritseizoen, schoolvakanties, clubkampioenschappen, toernooien, eindfeest.
-- Sla websiteteksten op in GitHub volgens de werkwijze hierboven. Socialmedia-berichten worden alleen op verzoek in GitHub opgeslagen.
+- Sla websiteteksten op in `websiteteksten/` volgens de werkwijze hierboven. Versiebeheer (branches, commits, pull requests) doet de gebruiker zelf.
 - **Raadpleeg altijd `Websitestructuur-jeugd.md` in de repository als bron van waarheid voor de actuele structuur, bestandsnamen en inhoudsopzet.**
 - Sla websiteteksten op in de map `websiteteksten/` met de bestandsnaam uit de structuur-tabel in `Websitestructuur-jeugd.md`.
 - Gebruik `ask_user_question` om de intentie en ontbrekende details op te vragen wanneer de aanvraag onvoldoende informatie bevat.

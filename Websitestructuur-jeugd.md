@@ -2,11 +2,11 @@
 
 Dit bestand is de bron van waarheid voor de jeugdsectie van de website van WTC Woerden. Het beschrijft **vier hoofdonderdelen** met een logische indeling op basis van doelgroepen en informatiebehoefte. Elke pagina heeft een eigen doelgroep, intentie en toon. Per pagina wordt een apart Markdown-bestand aangemaakt in de map `websiteteksten/`.
 
-**Huidig aantal pagina's:** 17 (inclusief index-pagina voor Naslag)
+**Huidig aantal pagina's:** 16 (inclusief index-pagina voor Naslag)
 
 **Doelgroepen:**
 
-- Nieuwe jeugdleden (7-14 jaar)
+- Nieuwe jeugdleden (6-14 jaar)
 - Ouders van aspirant-leden (niet-leden)
 - Ouders van nieuwe leden
 - Ouders van bestaande leden
@@ -22,11 +22,11 @@ Dit bestand is de bron van waarheid voor de jeugdsectie van de website van WTC W
 
 ## 1. Ontdek de jeugd
 
-*Doelgroep: nieuwe jeugdleden (7-14) | Intentie: enthousiasmeren*
+*Doelgroep: nieuwe jeugdleden (6-14) | Intentie: enthousiasmeren*
 
 | Pagina | Bestandsnaam | Doelgroep | Intentie |
 |--------|--------------|-----------|----------|
-| Ontdek de jeugd | 01-ontdek-de-jeugd.md | Jeugd (7-14) | Enthousiasmeren |
+| Ontdek de jeugd | 01-ontdek-de-jeugd.md | Jeugd (6-14) | Enthousiasmeren |
 
 **Inhoud:**
 
@@ -126,10 +126,10 @@ Deze pagina beschrijft hoe het gaat als je lid wordt bij onze vereniging.
   - Let op! Pas als er voldoende kleding is besteld, wordt deze in productie genomen. Dat gebeurt ongeveer 4x per jaar. Je krijgt een bericht als de kleding geproduceerd kan worden; je kan dan snel nog even wat bestellen. Daarna duurt het nog 6 weken voordat de kleding voor je klaar ligt bij Bike Center.
 
 - KNWU-licentie
-  - Om wedstrijden te rijden heb je een [wedstrijdlicentie](../naslag/16-wedstrijdlicentie.md) nodig. Deze is verplicht voor regio-wedstrijden en de crosswedstrijden in het park op zaterdagmiddag.
+  - Om wedstrijden te rijden heb je een [KNWU-licentie](../naslag/15-categorieen-en-licenties.md) nodig. Deze is verplicht voor de Midden Nederland Competitie.
 
 - Leeftijdscategorieën
-  - Je kind wordt ingedeeld in een [KNWU-categorie](../naslag/15-leeftijdscategorieen.md) op basis van geboortejaar.
+  - Je kind wordt ingedeeld in een [KNWU-categorie](../naslag/15-categorieen-en-licenties.md) op basis van geboortejaar.
 
 ---
 
@@ -261,11 +261,19 @@ Deze pagina beschrijft hoe het gaat als je lid wordt bij onze vereniging.
 | Locaties van clubs/wedstrijden | 12-locaties-wedstrijden.md | Ouders van leden | Informeren |
 | Wegseizoen: Midden Nederland Competitie | 13-wegseizoen-midden-nederland.md | Ouders van leden | Informeren |
 | Crosseizoen: Midden Nederland Competitie | 14-crosseizoen-midden-nederland.md | Ouders van leden | Informeren |
-| Leeftijdscategorieën & KNWU-indeling | 15-leeftijdscategorieen.md | Ouders van leden | Informeren |
-| Wedstrijdlicentie | 16-wedstrijdlicentie.md | Ouders van leden | Informeren |
-| Nationale wedstrijden | 17-nationale-wedstrijden.md | Ouders van leden | Informeren |
+| Categorieën en licenties | 15-categorieen-en-licenties.md | Ouders van (nieuwe) leden | Informeren |
+| Nationale wedstrijden | 16-nationale-wedstrijden.md | Ouders van leden | Informeren |
 
-**Inhoud 17-nationale-wedstrijden.md:**
+**Inhoud 15-categorieen-en-licenties.md** (bronmateriaal: `context/onderzoek-categorieen-en-licenties.md`):
+- De categorienamen zijn veranderd: oud (categorie 1-7, nieuwelingen) en nieuw (U-namen); jongens en meisjes.
+- In welke categorie zit ik? (tabel geboortejaar, weg en cross)
+- In welke categorie rijd ik in de cross?
+- Waarom heb ik een licentie nodig?
+- Welke licentie vraag ik aan? (U13 / U17 basis / U17 plus)
+- Kan ik met basis beginnen en later upgraden?
+- Zo vraag je aan (de renner zelf, via MijnKNWU); geen bedragen noemen, verwijzen naar de KNWU.
+
+**Inhoud 16-nationale-wedstrijden.md:**
 - Nationale wedstrijden
   - Voor renners uit heel Nederland.
   - Kwalificatie: via Midden Nederland Competitie (MNC).
@@ -324,3 +332,4 @@ De volgende onderwerpen horen **niet** in de vaste website-structuur, maar in **
   - Nationale wedstrijden, NK wegwielrennen en NK veldrijden gecombineerd in 17-nationale-wedstrijden.md.
   - "Mijn kind wordt 14" (16-mijn-kind-wordt-14.md) en hoofdonderdeel Vervolgpad verwijderd.
   - Bestandsnummers in Naslag herschikt (10-17).
+- 2026-10-12: 15-leeftijdscategorieen.md en 16-wedstrijdlicentie.md samengevoegd tot 15-categorieen-en-licenties.md; 17-nationale-wedstrijden.md hernoemd naar 16-nationale-wedstrijden.md. Totaal: 16 pagina's. Licentietekst bij Lid worden aangepast: verplicht voor de MNC (ZMC: besluit volgt).

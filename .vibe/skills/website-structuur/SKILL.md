@@ -16,7 +16,7 @@ Deze Vaardigheid ondersteunt het beoordelen, verfijnen en uitbreiden van de webs
 
 ## Bron van waarheid
 
-- **De bron van waarheid voor de jeugdsectie is het bestand `Websitestructuur-jeugd.md` in de repository Atrium0804/WebsiteWTCjeugd, hoofdbranch main.**
+- **De bron van waarheid voor de jeugdsectie is het bestand `Websitestructuur-jeugd.md` in de repository.**
 - De sectie "Huidige structuur" in deze Vaardigheid hoort synchroon te zijn met `Websitestructuur-jeugd.md`. Is dit niet het geval, werk deze Vaardigheid dan bij op basis van het repository-bestand.
 - Het bestand `Websitestructuur.md` in de repository is een AI-gegenereerd voorstel en is geen bron van waarheid. Gebruik het hooguit als inspiratie; neem er geen feitelijke gegevens uit over zonder verificatie door de gebruiker.
 - Het referentiemateriaal in de map `context/` van de repository (welkomstdocument, inhoud van de huidige site, teksten van januari 2025) dient als stijl- en toonreferentie, niet als feitenbron.
@@ -24,10 +24,10 @@ Deze Vaardigheid ondersteunt het beoordelen, verfijnen en uitbreiden van de webs
 
 ## Huidige structuur
 
-De jeugdsectie bestaat uit **vier hoofdonderdelen** met in totaal **17 pagina's** (inclusief index-pagina voor Naslag). De bestandsnamen verwijzen naar de map `websiteteksten/`.
+De jeugdsectie bestaat uit **vier hoofdonderdelen** met in totaal **16 pagina's** (inclusief index-pagina voor Naslag). De bestandsnamen verwijzen naar de map `websiteteksten/`.
 
 **Doelgroepen:**
-- Nieuwe jeugdleden (7-14 jaar)
+- Nieuwe jeugdleden (6-14 jaar)
 - Ouders van aspirant-leden (niet-leden)
 - Ouders van nieuwe leden
 - Ouders van bestaande leden
@@ -42,11 +42,11 @@ De jeugdsectie bestaat uit **vier hoofdonderdelen** met in totaal **17 pagina's*
 
 ### 1. Ontdek de jeugd
 
-*Doelgroep: nieuwe jeugdleden (7-14) | Intentie: enthousiasmeren*
+*Doelgroep: nieuwe jeugdleden (6-14) | Intentie: enthousiasmeren*
 
 | Pagina | Bestandsnaam | Doelgroep | Intentie |
 |--------|--------------|-----------|----------|
-| Ontdek de jeugd | 01-ontdek-de-jeugd.md | Jeugd (7-14) | Enthousiasmeren |
+| Ontdek de jeugd | 01-ontdek-de-jeugd.md | Jeugd (6-14) | Enthousiasmeren |
 
 **Inhoud:**
 - Wie zijn we
@@ -78,8 +78,7 @@ De jeugdsectie bestaat uit **vier hoofdonderdelen** met in totaal **17 pagina's*
 - Communicatie (ClubApp)
 - Verenigingsfiets
 - Clubkleding
-- KNWU-licentie (link naar Naslag)
-- Leeftijdscategorieën (link naar Naslag)
+- KNWU-licentie en leeftijdscategorieën (link naar Naslag: 15-categorieen-en-licenties.md)
 
 ---
 
@@ -135,9 +134,8 @@ De jeugdsectie bestaat uit **vier hoofdonderdelen** met in totaal **17 pagina's*
 | Locaties van clubs/wedstrijden | 12-locaties-wedstrijden.md | Ouders van leden | Informeren |
 | Wegseizoen: Midden Nederland Competitie | 13-wegseizoen-midden-nederland.md | Ouders van leden | Informeren |
 | Crosseizoen: Midden Nederland Competitie | 14-crosseizoen-midden-nederland.md | Ouders van leden | Informeren |
-| Leeftijdscategorieën & KNWU-indeling | 15-leeftijdscategorieen.md | Ouders van leden | Informeren |
-| Wedstrijdlicentie | 16-wedstrijdlicentie.md | Ouders van leden | Informeren |
-| Nationale wedstrijden | 17-nationale-wedstrijden.md | Ouders van leden | Informeren |
+| Categorieën en licenties | 15-categorieen-en-licenties.md | Ouders van (nieuwe) leden | Informeren |
+| Nationale wedstrijden | 16-nationale-wedstrijden.md | Ouders van leden | Informeren |
 
 ---
 
@@ -174,7 +172,7 @@ Beoordeel de structuur op de volgende acht criteria:
 7. Vindbaarheid: elke doelgroep vindt de eigen informatie binnen drie klikken.
 8. Paginagrootte: een pagina met meerdere intenties of doelgroepen is een signaal om te splitsen.
 
-De doelgroepen en intenties volgen de definities uit de Vaardigheid `jeugdsport-teksten`: jeugd die overweegt lid te worden (7-14 jaar), ouders van niet-leden, en ouders van bestaande leden; intenties zijn enthousiasmeren, informeren, uitnodigen, werven, herinneren en bedanken.
+De doelgroepen en intenties volgen de definities uit de Vaardigheid `jeugdsport-teksten`: jeugd die overweegt lid te worden (6-14 jaar), ouders van niet-leden, en ouders van bestaande leden; intenties zijn enthousiasmeren, informeren, uitnodigen, werven, herinneren en bedanken.
 
 ---
 
@@ -234,7 +232,7 @@ Stel geen vragen waarvan het antwoord al uit het structuurbestand of eerdere ant
 4. Werk het structuurbestand bij: pagina's per onderdeel in tabelvorm (pagina, bestandsnaam, doelgroep, intentie), met daaronder een korte inhoudsbeschrijving.
 5. Werk de wijzigingslog onderaan het bestand bij: datum, korte omschrijving, en waar mogelijk de reden.
 6. Controleer of de wijziging doorwerkt naar de tabellen in de Vaardigheid `jeugdsport-teksten` en wijs de gebruiker hierop.
-7. Leg de wijziging vast in de repository: op een nieuwe branch met een duidelijke commit-boodschap, bijvoorbeeld "Structuur gewijzigd: [onderwerp]", en open een pull request naar main.
+7. Versiebeheer doet de gebruiker zelf: maak geen branches, commits, pushes of pull requests aan. Meld welke bestanden zijn gewijzigd.
 
 ---
 
