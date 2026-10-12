@@ -1,126 +1,91 @@
 # Zaterdagmiddagcompetitie
 
-De Zaterdagmiddagcompetitie is een serie laagdrempelige crosswedstrijden speciaal voor de jeugd van WTC Woerden. Het is de perfecte manier om kennis te maken met wedstrijdveldrijden in een vertrouwde omgeving.
+De Zaterdagmiddagcompetitie (ZMC) is een serie laagdrempelige crosswedstrijden bij WTC Woerden. Je kind oefent elke week op een nieuw parcours. Op deze pagina staat het geldende reglement.
 
----
+## In het kort
 
-## Wat is de Zaterdagmiddagcompetitie?
+- **Wat:** een crosswedstrijd op zaterdagmiddag
+- **Wanneer:** oktober tot en met januari, 10 tot 13 wedstrijden
+- **Start:** 13.45 uur, aanmelden vanaf 13.15 uur
+- **Voor wie:** jeugdrenners van WTC Woerden en van andere clubs
+- **Kosten:** deelname is gratis, het hele seizoen
+- **Licentie:** verplicht
 
-- Een **wekelijkse crosswedstrijd** voor onze eigen jeugdleden.
-- **Doel**: plezier beleven in het veldrijden en op een leuke manier kennis maken met wedstrijden.
-- De wedstrijden vinden plaats op **zaterdagmiddag** op ons eigen parcours in park Molenvliet.
-- **Duur**: De wedstrijden duren **15 tot 30 minuten**, afhankelijk van de leeftijdscategorie.
+## Wat is het?
 
----
+De ZMC heeft drie doelen:
+
+- Jonge renners rijden een serie laagdrempelige wedstrijden.
+- Ze trainen extra in het veldrijden, op een parcours dat elke week anders is.
+- Ze beleven plezier aan veldrijden en proeven aan het wedstrijdelement.
 
 ## Voor wie?
 
-- Alle jeugdleden van WTC Woerden die lid zijn van de veldritgroep.
-- Geschikt voor zowel beginners als gevorderden.
-- Ervaring met veldrijden is niet nodig: iedereen is welkom!
+- De ZMC is een open competitie. Ook renners van andere clubs zijn welkom.
+- Voor deelname is een licentie verplicht. Welke licentie je kind nodig heeft, lees je op [Wedstrijdlicentie](16-wedstrijdlicentie.md).
 
----
+## Wanneer en waar?
 
-## Praktische informatie
+- Van oktober tot en met eind januari, op zaterdagmiddag.
+- Er zijn 10 tot 13 wedstrijden per seizoen.
+- De wedstrijden zijn bij het clubgebouw van WTC Woerden, Waardsedijk 40 in Woerden.
+- Is er op zaterdagmiddag een clubkampioenschap of andere wedstrijd? Dan telt die niet mee voor de ZMC.
 
-### Wanneer?
-- **Starttijd**: 13:45 uur
-- **Verzamelen**: Kom op tijd (rond **13:15 uur**) zodat je kind vooraf kan warmrijden en het parcours kan verkennen.
-- **Duur**: 
-  - Jongere categorieën: ~15 minuten
-  - Oudere categorieën: ~20-30 minuten
+## Aanmelden
 
-### Waar?
-- **Locatie**: Park Molenvliet, Woerden
-- **Verzamelpunt**: Bij de ingang van het clubgebouw
+- Meld je kind elke week aan in het clubgebouw. Dat kan vanaf 13.15 uur.
+- Je kind rijdt het hele seizoen met hetzelfde rugnummer.
+- Rijdt je kind het hele seizoen mee? Dan mag het rugnummer mee naar huis. Lever het na de laatste wedstrijd schoon weer in.
 
-### Wat neem je mee?
-- Veldrijfiets of mountainbike in goede staat
-- Helm (verplicht)
-- Fietshandschoenen (aanbevolen)
-- Clubkleding (als je kind die heeft)
-- Bidon met water
-- Rugnummer (als je kind die al heeft ontvangen)
+## Starttijden en indeling
 
----
+Alle groepen starten om **13.45 uur**.
 
-## Hoe verloopt een wedstrijd?
+| Groep | Categorieën (indicatie)        | Duur       |
+| ----- | ------------------------------ | ---------- |
+| 1     | JO8 t/m JO10, MO9 t/m MO11     | 12 minuten |
+| 2     | JO11 en JO12, MO12 en MO13     | 15 minuten |
+| 3     | JO13 en JO14, MO14 en MO15     | 20 minuten |
+| 4     | JO14 en JO15, MO15             | 25 minuten |
 
-1. **Inschrijven**: Vooraf in de kantine. Als je kind nog geen rugnummer heeft, krijgt hij/zij die bij de eerste inschrijving.
-2. **Warmrijden**: Verken samen het parcours van de dag.
-3. **Start**: Om 13:45 uur gaan alle deelnemers tegelijk van start.
-4. **Tijdens de wedstrijd**:
-   - Het parcours bevat diverse onderdelen: gras, modder, bochten, eventueel kleine obstakels.
-   - **Bel bij laatste ronde**: Als je kind de laatste ronde in gaat, hoort hij/zij een **bel**.
-   - Trainers en begeleiders moedigen aan langs het parcours.
-   - Bij veldritten is het **normaal** dat je kind af en toe even moet lopen als het parcours te moeilijk is.
-5. **Na afloop**: Je kind kan bij het clubhuis de fiets schoonspuiten.
+- De ZMC heeft een eigen indeling. De organisatie deelt in op leeftijd én ervaring. Daarom kan JO14/MO15 in groep 3 of 4 rijden.
+- Tijdens het seizoen kijkt de organisatie of je kind in een andere groep beter past.
+- Bij weinig deelnemers kan de organisatie groepen anders indelen.
+- Welke categorie je kind in het veldseizoen heeft, lees je op [Leeftijdscategorieën](15-leeftijdscategorieen.md).
 
----
+### Een groep hoger of lager rijden
 
-## Regels tijdens de wedstrijd
+Alleen een jeugdbegeleider of trainer beslist of je kind een groep hoger of lager rijdt. Ouders beslissen dit niet. Je kind rijdt eerst in de eigen groep, om te zien hoe het gaat.
 
-- **Helm verplicht**: Tijdens het fietsen is het dragen van een helm verplicht.
-- **Stuur vasthouden**: Het stuur mag niet met twee handen losgelaten worden.
-- **Samenwerken**: Plezier en sportiviteit staan voorop.
-- **Veel lopen mag**: Bij moeilijke passages mag je kind afstappen en lopen.
+## Wedstrijdvormen
 
----
+Meestal rijdt ieder voor zich. Soms probeert de organisatie een andere vorm uit, zoals een koppelcross.
 
-## Rugnummers
+## Materiaal
 
-- Bij de eerste inschrijving ontvangt je kind een **rugnummer**. 
-- Dit nummer gebruikt je kind bij alle Zaterdagmiddagcompetities in dat seizoen.
-- **Aan het eind van het seizoen** lever je het rugnummer weer in.
+- Jij en je kind zijn zelf verantwoordelijk voor het onderhoud van de fiets.
+- Controleer voor de wedstrijd de bandenspanning, remmen, versnellingen en ketting. Hoe je dat doet, lees je op [Technische staat van de fiets](11-technische-staat-fiets.md).
+- Maak de fiets na elke training en wedstrijd goed schoon.
 
----
+## Puntentelling en klassement
 
-## Klassement
+- Per wedstrijd krijgt nummer 1 tien punten, nummer 2 negen punten, nummer 3 acht punten, enzovoort.
+- Iedere renner die finisht, krijgt minimaal 1 punt.
+- Wie niet finisht, krijgt geen punten.
+- Wordt een wedstrijd gestaakt door het weer? Dan krijgen alle deelnemers 1 punt.
+- De twee slechtste uitslagen van elke renner tellen niet mee. Bij 10 wedstrijden tellen dus de beste 8.
+- Bij een gelijke eindstand beslist de uitslag van de laatste wedstrijd.
+- De uitslagen staan binnen een week na de wedstrijd op de website.
+- De dagjury beslist over de punten en over alles wat dit reglement niet regelt.
 
-- Bij elke wedstrijd kan je kind **punten verdienen**:
-  - Punten worden toegekend op basis van de eindpositie.
-  - Ook deelnemen (meedoen) levert punten op.
-- **Aan het eind van het seizoen** wordt het klassement opgemaakt.
-- **Prijzen**: Iedereen die meer dan de helft van de wedstrijden heeft meegedaan, ontvangt een prijs.
+## Prijzen
 
----
+- Er is geen dagprijs.
+- Heeft je kind meer dan de helft van de wedstrijden gereden? Dan krijgt het een prijs.
+- De prijsuitreiking is na de laatste wedstrijd van de competitie.
 
-## Materiaaleisen
+## Reglement
 
-- **Fiets**: Veldrijfiets of mountainbike in goede staat.
-- **Verzet**: Voor de Zaterdagmiddagcompetitie is **geen specifiek verzet** voorgeschreven. Wel moet de fiets veilig zijn.
-- **Transponder**: **Niet verplicht** voor de Zaterdagmiddagcompetitie (alleen voor nationale wedstrijden).
-- **Veiligheid**: De fiets moet in goede technische staat verkeren (remmen, banden, stuurdoppen, etc.).
+Dit is het geldende reglement van de Zaterdagmiddagcompetitie. Voor alle overige regels geldt het [reglement van de KNWU](https://kenniscentrum.knwu.nl/regelgeving/reglementen-en-jaarlijkse-besluiten).
 
----
-
-## Tips voor ouders
-
-- Moedig je kind aan, maar zet geen druk op het resultaat.
-- Het gaat om **plezier** en **ervaring opdoen**, niet om winnen.
-- Zorg dat je kind passende kleding draagt: bij koud weer lange kleding, bij nat weer regenkleding.
-- Neem een handdoek en droge kleding mee voor na de wedstrijd.
-- Een **emmer met warm water en een spons** kan handig zijn om je kind na afloop schoon te maken.
-
----
-
-## Veelgestelde vragen
-
-**Is een KNWU-licentie verplicht?**
-Nee, voor de Zaterdagmiddagcompetitie is geen KNWU-licentie nodig.
-
-**Mijn kind heeft nog nooit een wedstrijd gereden, mag het mee doen?**
-Jazeker! De Zaterdagmiddagcompetitie is speciaal bedoeld om op een laagdrempelige manier kennis te maken met wedstrijdveldrijden.
-
-**Hoe lang duurt een wedstrijd?**
-De wedstrijd duurt **15 tot 30 minuten**, afhankelijk van de leeftijdscategorie van je kind.
-
-**Wat als mijn kind niet kan meedoen?**
-Geen probleem. Geef het door via de ClubApp (groep Jeugd) als je kind afwezig is.
-
-**Hoor je een bel bij de laatste ronde?**
-Ja, als je kind de laatste ronde in gaat, hoort hij/zij een **bel** als teken dat er nog één ronde te gaan is.
-
----
-
-Heb je nog vragen? Stel ze gerust aan de jeugdcommissie of aan de trainer van je kind.
+Heb je nog een vraag? Stel hem gerust aan de jeugdcommissie of aan de trainer van je kind.

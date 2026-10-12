@@ -1,192 +1,120 @@
 # Wegseizoen: Midden Nederland Competitie
 
-De **Midden Nederland Competitie (MNC)** voor wegwielrennen is een serie regionale wedstrijden voor jeugdrenners. Hier lees je alles over hoe het werkt, waar de wedstrijden zijn en wat je kind kan verwachten.
+De Midden Nederland Competitie (MNC) op de weg is een serie regionale jeugdwedstrijden. De officiële naam is de In Memoriam Hans van den Hengel-competitie. Op deze pagina staat het geldende reglement.
 
----
+## In het kort
 
-## Wat is de Midden Nederland Competitie?
+- **Wat:** regionale jeugdcompetitie met verschillende wedstrijdvormen
+- **Wanneer:** eind maart tot en met september, bij verschillende clubs
+- **Start:** 10.00, 10.30 of 11.15 uur, afhankelijk van de categorie
+- **Voor wie:** jeugdrenners van JO9/MO10 tot en met JO15/MO16
+- **Kosten:** deelname is gratis
+- **Licentie:** verplicht
 
-- Een **serie wegritten** voor jeugdrenners uit de KNWU-regio Midden Nederland.
-- **Doel**: op een leuke en uitdagende manier ervaring opdoen met wegwedstrijden.
-- De wedstrijden zijn **laagdrempelig** en bedoeld voor iedereen die het leuk vindt om een wedstrijdje te rijden.
-- Je kind komt dezelfde renners tegen uit de regio en fietst op verschillende parcoursen.
+## Wat is het?
 
----
+De competitie heeft drie doelen:
+
+- Jonge renners rijden een serie laagdrempelige wedstrijden in de regio.
+- Jonge renners uit de regio leren elkaar kennen.
+- Ze maken kennis met verschillende wedstrijdvormen.
+
+De deelnemende clubs organiseren de wedstrijden samen. Elke club regelt bij de eigen wedstrijd de jury, de veiligheid, de EHBO en de dagprijzen.
 
 ## Voor wie?
 
-- Alle jeugdleden van WTC Woerden met een **KNWU-licentie** (verplicht voor MNC-wedstrijden).
-- Ingeschreven in een **KNWU-categorie** op basis van leeftijd (zie [Leeftijdscategorieën](15-leeftijdscategorieen.md)).
-- Geschikt voor zowel beginners als gevorderden.
+- Het is een open competitie. Ook renners van buiten de regio zijn welkom.
+- De competitie is vooral bedoeld voor renners met weinig ervaring in landelijke wedstrijden.
+- Je kind heeft een geldige KNWU-licentie nodig. Welke licentie dat is, lees je op [Wedstrijdlicentie](16-wedstrijdlicentie.md).
 
----
+## Wanneer en waar?
 
-## Deelnemende clubs
+- De wedstrijden zijn van eind maart tot en met september.
+- Elke wedstrijd is bij een andere club. De data staan in de [kalender](#kalender-2026) onderaan deze pagina.
+- De adressen staan op [Locaties van clubs en wedstrijden](12-locaties-wedstrijden.md).
 
-Wedstrijden vinden plaats bij clubs in de regio:
-- Woerden (WTC Woerden)
-- Amersfoort
-- Utrecht
-- Tiel
-- Bemmel
-- Arnhem
-- Veenendaal
+## Aanmelden
 
----
+- Je schrijft je kind in bij de organiserende club. Laat daarbij de licentie zien.
+- De organiserende club deelt de rugnummers uit.
+- Voor de ploegentijdrit is vooraf aanmelden zeer gewenst. De organisatie deelt de ploegen dan van tevoren in.
 
-## Praktische informatie
+## Starttijden en indeling
 
-### Wanneer?
-- Het **wegseizoen** loopt van ongeveer **maart tot september**.
-- Data en locaties verschillen per wedstrijd. Deze worden tijdig bekendgemaakt via de ClubApp en de website.
+| Categorie   | Start     | Maximale afstand |
+| ----------- | --------- | ---------------- |
+| JO9/MO10    | 10.00 uur | 6 km             |
+| JO10/MO11   | 10.00 uur | 8 km             |
+| JO11/MO12   | 10.00 uur | 12 km            |
+| JO12/MO13   | 10.30 uur | 15 km            |
+| JO14/MO15   | 10.30 uur | 25 km            |
+| JO13/MO14   | 11.15 uur | 20 km            |
+| JO15/MO16   | 11.15 uur | 30 km            |
 
-### Duur van de wedstrijd
-De **maximale wedstrijdafstanden** volgens de KNWU-regels:
+- De afstanden zijn een indicatie. De organiserende club kan afwijken van starttijden en afstanden. Afwijkingen staan in de [kalender](#kalender-2026).
+- Jongens en meisjes rijden samen. Er is geen aparte uitslag voor jongens en meisjes.
+- Welke categorie je kind heeft, lees je op [Leeftijdscategorieën](15-leeftijdscategorieen.md).
 
-| Categorie | Criterium | Tijdrit | Ploegentijdrit | Omloopwedstrijd |
-|-----------|-----------|---------|----------------|------------------|
-| U6        | 3 km      | NVT     | NVT            | NVT              |
-| U7        | 4-6 km    | NVT     | NVT            | NVT              |
-| U8        | 8-12 km   | 3-4 km  | 6-8 km         | 8-12 km          |
-| U9        | 15-20 km  | 6-8 km  | 10-12 km       | 15-20 km         |
-| U10       | 25-35 km  | 10-15 km| 14-20 km       | 25-32 km         |
-| U11       | ~60 km    | 15 km   | 20 km          | 80 km            |
-| U12       | ~75 km    | 15 km   | 20 km          | ~80-90 km        |
-| U13       | ~75 km    | 15 km   | 20 km          | ~90 km           |
-| U14       | ~80 km    | 15 km   | 20 km          | ~100 km          |
-| U15       | ~90 km    | 15 km   | 20 km          | ~100-120 km      |
+### Een categorie hoger of lager rijden
 
-*De exacte afstand kan variëren per wedstrijd en parcours.*
+- Alleen een jeugdbegeleider beslist of je kind een categorie hoger of lager rijdt. Ouders beslissen dit niet.
+- Je kind rijdt eerst in de eigen categorie, om te zien hoe het gaat.
+- Rijdt je kind in een lagere categorie op het podium of bij de eerste 25%? Dan gaat het terug naar de eigen categorie.
 
-### Inschrijven
-- **Vooraf**: Inschrijven doe je **een half uur voor de start** in de kantine van de organiserende club.
-- **Wat heb je nodig?**
-  - KNWU-licentie (digitaal of fysiek)
-  - Fiets met **juist verzet** (afgesteld op de leeftijdscategorie van je kind)
-  - Helm (verplicht)
-  - Clubkleding
-  - Rugnummer (als je kind die nog niet heeft)
+## Wedstrijdvormen
 
-### Voor de start
-- Kom **minimaal 30 minuten voor de start** zodat je kind kan inschrijven en warmrijden.
-- Je kind ontvangt een **rugnummer** (indien nog niet in bezit).
-- Verken samen het parcours.
-- **Bel bij laatste ronde**: Als je kind de laatste ronde in gaat, hoort hij/zij een **bel** als teken dat er nog één ronde te gaan is.
+De clubs kiezen uit vijf wedstrijdvormen. Uitleg over het criterium en de tijdrit lees je op [Soorten wedstrijden](05a-soorten%20wedstrijden.md).
 
-### Tijdens de wedstrijd
-- Renners starten in hun eigen **leeftijdscategorie**.
-- De wedstrijd duurt afhankelijk van de categorie (zie tabel hierboven).
-- Trainers en begeleiders van WTC Woerden staan langs het parcours om aan te moedigen.
-- **Belangrijke regel**: Renners die één of meer ronden achterstand hebben, kunnen door de wedstrijdcommissarissen uit de wedstrijd worden genomen.
+- **Criterium**
+- **Individuele tijdrit**
+- **Ploegentijdrit:** iedereen kan meedoen. Categorieën worden samengevoegd tot ploegen. Ploegen strijden om de dagprijzen.
+- **Puntenkoers:** renners verdienen punten in tussensprints. Het aantal sprints verschilt per categorie. Je kind hoort dit bij de start. Elke categorie rijdt apart.
+- **Techniekparcours:** hier draait het om behendigheid, niet om snelheid. Denk aan een poortje, een wipwap of een slalom. Elke geslaagde handeling levert punten op.
 
-### Na de wedstrijd
-- Na afloop is er vaak een **kleine prijsuitreiking** voor de top 3 van elke categorie.
-- De punten voor het **seizoensklassement** worden bijgehouden.
+Op één dag kunnen meerdere onderdelen zijn. De punten van alle onderdelen samen bepalen dan de daguitslag.
 
----
+## Materiaal
 
-## Punten en klassement
+- De maximale verzetten van de KNWU gelden. Die lees je op [Verzetten per categorie](08-verzetten-per-categorie.md).
+- Je mag de derailleur vastzetten op het juiste verzet.
+- De remmen moeten goed werken. Hoe je de fiets controleert, lees je op [Technische staat van de fiets](11-technische-staat-fiets.md).
+- De organisatie kan steekproefsgewijs het verzet en het materiaal controleren.
 
-- **Puntensysteem**: Bij elke wedstrijd die je kind fietst, verdient hij/zij punten.
-  - De snelste renner krijgt de meeste punten.
-  - Ook meedoen levert punten op.
-- **Eindklassement**: Aan het eind van het seizoen wordt het klassement opgemaakt.
-- **Prijzen**: Iedereen die **meer dan de helft van de wedstrijden** heeft meegedaan, ontvangt een **beker**.
+## Puntentelling en klassement
 
----
+- De dagwinnaar krijgt 10 punten, nummer 2 krijgt 9 punten, enzovoort. Iedere deelnemer krijgt minimaal 1 punt.
+- Bij een ploegentijdrit krijgt iedere deelnemer 8 punten, ongeacht de uitslag.
+- Bij een techniekparcours kan iedere renner maximaal 8 punten halen. De organiserende club bepaalt de uitvoering en de puntentelling.
+- De twee slechtste uitslagen van elke renner tellen niet mee. Ook een keer niet starten of niet finishen telt dan als slechtste uitslag.
+- Het eindtoernooi telt niet mee voor de punten en niet voor het aantal deelnames.
+- Bij een gelijke eindstand beslist de laatste wedstrijd vóór het eindtoernooi.
+- De dagjury beslist over de punten en over alles wat dit reglement niet regelt.
 
-## Categorien en verzet
+## Prijzen
 
-- Je kind wordt ingedeeld in een categorie op basis van **leeftijd** (gebruikte jaar).
-- Zie [Leeftijdscategorieën](15-leeftijdscategorieen.md) voor de indeling.
-- **Belangrijk**: De fiets moet het **juiste verzet** hebben voor de categorie van je kind. Dit mag door het begrenzen van de derailleur.
+- **Dagprijzen:** per categorie is er één huldiging per wedstrijddag.
+- **Eindprijs:** heeft je kind minimaal de helft van de wedstrijden gereden? Dan komt het in het klassement en krijgt het een prijs.
+- De eindprijzen worden uitgereikt na het eindtoernooi, de laatste wedstrijd van de competitie.
 
-### Toegestane verzetten per categorie (wegwielrennen)
+## Overige regels
 
-| Categorie | Maximale verzet |
-|-----------|------------------|
-| U6, U7, U8 | 5,50 meter |
-| U9, U10    | 5,46 - 5,50 meter |
-| U11, U12   | 5,78 - 5,90 meter |
-| U13, U14   | 6,14 - 6,30 meter |
-| U15        | 6,55 - 6,70 meter |
-| U17 (Nieuwelingen) | 7,01 - 7,68 meter |
+Voor alle overige regels geldt het [reglement van de KNWU](https://kenniscentrum.knwu.nl/regelgeving/reglementen-en-jaarlijkse-besluiten).
 
-*Ingegaan op 1 maart 2026*
+## Kalender 2026
 
----
+| Datum                   | Club (plaats)                    | Wedstrijdvorm          | Let op                                                                                               |
+| ----------------------- | -------------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------- |
+| zondag 29 maart         | WV Het Stadion (Utrecht)         | Alternatieve vorm      | Afwijkende starttijden: 12.00, 12.30 en 13.15 uur. Programma duurt 30 tot 45 minuten langer.         |
+| zondag 5 april          | WV Eemland (Amersfoort)          | Criterium              |                                                                                                      |
+| zondag 12 april         | WTC Woerden (Woerden)            | Criterium              | Stratenparcours op het industrieterrein bij Bike Center Woerden, Korenmolenlaan 4.                   |
+| zaterdag 25 april       | WV Eemland (Amersfoort)          | Criterium              |                                                                                                      |
+| zondag 17 mei           | WV Het Stadion (Utrecht)         | Alternatieve vorm      | Afwijkende starttijden: 12.00, 12.30 en 13.15 uur. Programma duurt 30 tot 45 minuten langer.         |
+| maandag 25 mei          | RETO (Arnhem)                    | Criterium              | Pinkstermaandag. Op Sportcentrum Papendal.                                                           |
+| zaterdag 6 juni         | AXA Valleirenners (Veenendaal)   | Criterium              |                                                                                                      |
+| zondag 28 juni          | TWC 't Verzetje (Bemmel)         | Puntenkoers            | Elke categorie start apart, tussen 10.00 en 12.15 uur. Op Sportpark de Heister.                      |
+| zondag 6 september      | JVR De Batauwers (Tiel)          | Criterium              |                                                                                                      |
+| zondag 13 september     | TWC 't Verzetje (Bemmel)         | Criterium              | Tijdens de Ronde van Bemmel.                                                                         |
+| zondag 20 september     | WTC Woerden (Woerden)            | Ploegentijdrit         | Afwijkende starttijden. Bij het clubhuis, Waardsedijk 40.                                            |
+| zondag 27 september     | WV Eemland (Amersfoort)          | Eindtoernooi           | Afwijkende starttijden. Telt niet mee voor het klassement en het aantal deelnames.                   |
 
-## Materiaaleisen
-
-### Verplicht
-- **KNWU-licentie**: Verplicht voor alle MNC-wedstrijden.
-- **Fiets met juist verzet**: Gecontroleerd voor de wedstrijd.
-- **Helm**: Verplicht tijdens het fietsen.
-- **Clubkleding**: Verplicht.
-- **Stuurdoppen**: Verplicht op beide uiteinden van het stuur.
-
-### Veiligheidseisen fiets
-De fiets moet in **goede technische staat** verkeren:
-- Zadelhoogte goed afgesteld
-- Banden goed opgepompt
-- Remmen functioneren perfect
-- Het stuur heeft stuurdoppen op de uiteinden
-- Geen losse onderdelen of uitstekende delen
-- Spaken zijn strak
-- Banden niet versleten
-
-### Transponder
-- Voor **MNC-wedstrijden** is **geen transponder verplicht** (wel voor nationale wedstrijden).
-
----
-
-## Belangrijkste regels tijdens de wedstrijd
-
-- **Stuur vasthouden**: Het is **verboden** om het stuur met **twee handen los te laten**. Tijdens een sprint is het ook verboden om het stuur **in zijn geheel los te laten**.
-- **Één wedstrijd per dag**: Je mag **niet** meedoen aan twee wedstrijden in dezelfde discipline op één dag.
-- **Bidons**: Het meevoeren van **drinkbussen (bidons)** is verboden voor:
-  - Jongens t/m categorie **U12**
-  - Meisjes t/m categorie **U13**
-- **Fietshouding**: Je kind moet altijd **volledige controle** over de fiets hebben.
-
----
-
-## Tips voor ouders
-
-- Zorg dat je kind **op tijd** aanwezig is om stress te voorkomen.
-- Neem **reservekleding** en een **handdoek** mee voor na de wedstrijd.
-- Moedig je kind aan, maar zet **geen druk** op het resultaat.
-- Het gaat om **plezier** en **ervaring opdoen**.
-- Zorg voor **passende kleding**: bij koud weer lange kleding, bij regen regenkleding.
-
----
-
-## Veelgestelde vragen
-
-**Is een KNWU-licentie verplicht?**
-Ja, voor alle MNC-wedstrijden is een **KNWU-licentie** verplicht.
-
-**Mijn kind heeft nog nooit een wegrit gereden, mag het mee doen?**
-Jazeker! De MNC is bedoeld voor alle jeugdrenners, zowel beginners als gevorderden.
-
-**Kan mijn kind in een andere categorie rijden?**
-In principe wordt je kind ingedeeld op basis van leeftijd. In overleg met de trainer kan je kind een categorie hoger of lager rijden, als dat beter past.
-
-**Wat als mijn kind niet kan meedoen?**
-Geef afwezigheid door via de ClubApp (groep Jeugd).
-
-**Hoe lang duurt een MNC-wedstrijd?**
-De duur hangt af van de categorie van je kind. Zie de tabel hierboven voor de maximale afstanden.
-
-**Hoor je een bel bij de laatste ronde?**
-Ja, als je kind de laatste ronde in gaat, hoort hij/zij een **bel** als teken dat er nog één ronde te gaan is.
-
----
-
-## Meer informatie
-
-- [KNWU-licentie](16-wedstrijdlicentie.md)
-- [Leeftijdscategorieën](15-leeftijdscategorieen.md)
-
----
-Heb je nog vragen? Stel ze gerust aan de jeugdcommissie of aan de trainer van je kind.
+Heb je nog een vraag? Stel hem gerust aan de jeugdcommissie of aan de trainer van je kind.

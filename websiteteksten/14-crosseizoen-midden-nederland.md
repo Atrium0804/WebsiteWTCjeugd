@@ -1,220 +1,72 @@
 # Crosseizoen: Midden Nederland Competitie
 
-De **Midden Nederland Competitie (MNC)** voor veldrijden is een serie regionale crosswedstrijden voor jeugdrenners. Hier lees je alles over hoe het werkt, waar de wedstrijden zijn en wat je kind kan verwachten tijdens het veldritseizoen.
+De Midden Nederland Competitie (MNC) veldrijden is een serie regionale crosswedstrijden. De wedstrijden zijn op de parcoursen van verschillende clubs in het midden van het land. Op deze pagina staat het geldende reglement voor de jeugd.
 
----
+## In het kort
 
-## Wat is de Midden Nederland Competitie?
+- **Wat:** regionale veldritcompetitie voor jeugd en senioren
+- **Wanneer:** in het veldseizoen, op wisselende locaties
+- **Start jeugd:** vanaf 11.05 uur, in twee wedstrijden
+- **Licentie:** verplicht
 
-- Een **serie veldritwedstrijden** voor jeugdrenners uit de KNWU-regio Midden Nederland.
-- **Doel**: op een leuke en uitdagende manier ervaring opdoen met veldritwedstrijden.
-- De wedstrijden zijn **laagdrempelig** en bedoeld voor iedereen die het leuk vindt om een cross te rijden.
-- Je kind komt dezelfde renners tegen uit de regio en fietst (en rent) op verschillende parcoursen.
+## Wat is het?
 
----
+De MNC is een competitie over het hele veldseizoen. Na elke wedstrijd verschijnt een klassement. Aan het eind volgt een einduitslag.
 
 ## Voor wie?
 
-- Alle jeugdleden van WTC Woerden met een **KNWU-licentie** (verplicht voor MNC-wedstrijden).
-- Ingeschreven in een **KNWU-categorie** op basis van leeftijd (zie [Leeftijdscategorieën](15-leeftijdscategorieen.md)).
-- Geschikt voor zowel beginners als gevorderden.
+- Jeugdrenners van JO8/MO9 tot en met JO15. De senioren rijden eigen wedstrijden.
+- Je kind heeft een geldige KNWU-licentie nodig. Welke licentie dat is, lees je op [Wedstrijdlicentie](16-wedstrijdlicentie.md).
 
----
+## Wanneer en waar?
 
-## Deelnemende clubs
+- De wedstrijden zijn in het veldseizoen, bij verschillende clubs in het midden van het land.
+- De adressen staan op [Locaties van clubs en wedstrijden](12-locaties-wedstrijden.md).
 
-Wedstrijden vinden plaats bij clubs in de regio:
+## Aanmelden
 
-- Woerden (WTC Woerden)
-- Amersfoort
-- Utrecht
-- Tiel
-- Bemmel
-- Arnhem
-- Veenendaal
+Je schrijft je kind in bij de organiserende club. Laat daarbij de licentie zien.
 
----
+## Starttijden en indeling
 
-## Praktische informatie
+De jeugd start vanaf **11.05 uur**, verdeeld over twee wedstrijden:
 
-### Wanneer?
+| Wedstrijd | Categorieën                   | Oude naam             |
+| --------- | ----------------------------- | --------------------- |
+| Jeugd 1   | JO8 t/m JO12, MO9 t/m MO13    | categorie 1 t/m 4     |
+| Jeugd 2   | JO13 t/m JO15, MO14 en MO15   | categorie 5 t/m 7     |
 
-- Het **veldritseizoen** loopt van ongeveer **oktober tot februari**.
-- Data en locaties verschillen per wedstrijd. Deze worden tijdig bekendgemaakt via de ClubApp en de website.
+- Welke categorie je kind in het veldseizoen heeft, lees je op [Leeftijdscategorieën](15-leeftijdscategorieen.md).
+- De duur van de wedstrijd volgt het [reglement van de KNWU](https://kenniscentrum.knwu.nl/regelgeving/reglementen-en-jaarlijkse-besluiten).
 
-### Duur van de wedstrijd
+## Materiaal
 
-De **maximale duur** van veldritwedstrijden volgens de KNWU-regels:
+- De jeugd mag rijden op een veldrijfiets of een mountainbike.
+- Welk verzet is toegestaan, lees je op [Verzetten per categorie](08-verzetten-per-categorie.md).
+- Hoe je de fiets controleert, lees je op [Technische staat van de fiets](11-technische-staat-fiets.md).
+- Gaat er tijdens de wedstrijd iets kapot? Dan mag je kind het repareren. Je kind krijgt daarvoor geen ronde vergoed.
 
-| Categorie | Duur           |
-| --------- | -------------- |
-| U6        | ~10-15 minuten |
-| U7        | ~10-15 minuten |
-| U8        | ~15-20 minuten |
-| U9        | ~20-25 minuten |
-| U10       | ~25-30 minuten |
-| U11       | ~30-35 minuten |
-| U12       | ~35-40 minuten |
-| U13       | ~40 minuten    |
-| U14       | ~40-45 minuten |
-| U15       | ~45 minuten    |
-| U17       | ~45-50 minuten |
+## Puntentelling en klassement
 
-*De exacte duur kan variëren per wedstrijd en parcours.*
+- Per wedstrijd krijgt nummer 1 tien punten, nummer 2 negen punten, enzovoort. Nummer 10 krijgt 1 punt.
+- Vanaf plaats 11 krijgt iedere renner 1 punt.
+- Na elke wedstrijd verschijnt een klassement.
+- Bij een gelijke stand beslist de uitslag van de laatst gereden wedstrijd. Dat geldt ook voor de einduitslag.
+- In de einduitslag komt je kind als het minstens de helft van de wedstrijden plus 1 is gestart. Bij 10 wedstrijden zijn dat er dus 6. Bij een oneven aantal wordt naar boven afgerond.
 
-### Inschrijven
+## Prijzen
 
-- **Vooraf**: Inschrijven doe je **een half uur voor de start** in de kantine van de organiserende club.
-- **Wat heb je nodig?**
-  - KNWU-licentie (digitaal of fysiek)
-  - Veldrijfiets of mountainbike in goede staat
-  - Helm (verplicht)
-  - Clubkleding
-  - Rugnummer (als je kind die nog niet heeft)
+Het reglement noemt geen dag- of eindprijzen voor de jeugd.
 
-### Voor de start
+## Overige regels
 
-- Kom **minimaal 30 minuten voor de start** zodat je kind kan inschrijven en warmrijden.
-- Je kind ontvangt een **rugnummer** (indien nog niet in bezit).
-- Verken samen het parcours: let op uitdagende onderdelen zoals modder, zand, gras en obstakels.
-- **Bel bij laatste ronde**: Als je kind de laatste ronde in gaat, hoort hij/zij een **bel** als teken dat er nog één ronde te gaan is.
+- Renners gedragen zich sportief. Is dat volgens de jury niet zo? Dan kan de jury je kind uitsluiten voor één wedstrijd of de rest van de competitie. Je kind verdwijnt dan ook uit de daguitslag.
+- Deelname is op eigen risico.
+- Voor alle overige regels geldt het [reglement van de KNWU](https://kenniscentrum.knwu.nl/regelgeving/reglementen-en-jaarlijkse-besluiten).
 
-### Tijdens de wedstrijd
+## Reglement
 
-- Renners starten in hun eigen **leeftijdscategorie**.
-- De wedstrijd duurt afhankelijk van de categorie (zie tabel hierboven).
-- Bij veldritten is het **normaal** dat je kind af en toe even moet lopen als het parcours te moeilijk is om te fietsen.
-- Trainers en begeleiders van WTC Woerden staan langs het parcours om aan te moedigen.
+Dit is het reglement van de MNC veldrijden voor seizoen 2025-2026.
 
-### Na de wedstrijd
+Heb je nog een vraag? Stel hem gerust aan de jeugdcommissie of aan de trainer van je kind.
 
-- Na afloop is er vaak een **kleine prijsuitreiking** voor de top 3 van elke categorie.
-- De punten voor het **seizoensklassement** worden bijgehouden.
-- Je kind kan bij het clubhuis de fiets **schoonspuiten**.
-
----
-
-## Punten en klassement
-
-- **Puntensysteem**: Bij elke wedstrijd die je kind fietst, verdient hij/zij punten.
-  - De snelste renner krijgt de meeste punten.
-  - Ook meedoen levert punten op.
-- **Eindklassement**: Aan het eind van het seizoen wordt het klassement opgemaakt.
-- **Prijzen**: Iedereen die **meer dan de helft van de wedstrijden** heeft meegedaan, ontvangt een **beker**.
-
----
-
-## Categorien en combinaties
-
-- Je kind wordt ingedeeld in een categorie op basis van **leeftijd** (gebruikte jaar).
-- Bij veldritten rijden **jongens en meisjes soms samen** in gecombineerde categorieën.
-  - Bijvoorbeeld: JO12 (jongens onder 12) en MO13 (meisjes onder 13) rijden samen.
-- Zie [Leeftijdscategorieën](15-leeftijdscategorieen.md) voor de exacte indeling en combinaties.
-
----
-
-## Materiaaleisen
-
-### Verplicht
-
-- **KNWU-licentie**: Verplicht voor alle MNC-wedstrijden.
-- **Helm**: Verplicht tijdens het fietsen.
-- **Clubkleding**: Verplicht.
-- **Stuurdoppen**: Verplicht op beide uiteinden van het stuur.
-
-### Veiligheidseisen fiets
-
-De fiets moet in **goede technische staat** verkeren:
-
-- Zadelhoogte goed afgesteld
-- Banden goed opgepompt
-- Remmen functioneren perfect
-- Het stuur heeft stuurdoppen op de uiteinden
-- Geen losse onderdelen of uitstekende delen
-- Spaken zijn strak
-- Banden niet versleten
-
-### Toegestane verzetten per categorie (veldrijden)
-
-Bij veldritten gelden **vrije verzetten** binnen de volgende limieten:
-
-| Categorie          | Maximale verzet        |
-| ------------------ | ---------------------- |
-| U6, U7, U8         | Vrij (max. 5,61 meter) |
-| U9, U10            | Vrij (max. 5,94 meter) |
-| U11, U12           | Vrij (max. 5,94 meter) |
-| U13, U14           | Vrij (max. 6,31 meter) |
-| U15                | Vrij (max. 6,73 meter) |
-| U17 (Nieuwelingen) | Vrij                   |
-
-*Ingegaan op 1 maart 2026*
-
-### Fiets en uitrusting
-
-- **Veldrijfiets**: Ideaal voor modder en gras. Een mountainbike kan ook.
-- **Banden**: Zorg voor **goede bandenspanning** en eventueel **crossbanden** voor betere grip.
-- **Kleding**: Draag kleding die tegen een stootje kan. Veldrijden is een vuile sport!
-- **Schoenen**: Fietsschoenen met klikpedalen of gewone sportschoenen.
-
-### Transponder
-
-- Voor **MNC-wedstrijden** is **geen transponder verplicht** (wel voor nationale wedstrijden).
-
----
-
-## Belangrijkste regels tijdens de wedstrijd
-
-- **Stuur vasthouden**: Het is **verboden** om het stuur met **twee handen los te laten**. Tijdens een sprint is het ook verboden om het stuur **in zijn geheel los te laten**.
-- **Één wedstrijd per dag**: Je mag **niet** meedoen aan twee wedstrijden in dezelfde discipline op één dag.
-- **Bidons**: Het meevoeren van **drinkbussen (bidons)** is verboden voor:
-  - Jongens t/m categorie **U12**
-  - Meisjes t/m categorie **U13**
-- **Fietshouding**: Je kind moet altijd **volledige controle** over de fiets hebben.
-- **Lopen mag**: Bij veldritten is het normaal dat renners afstappen en een stukje lopen als het parcours te moeilijk is.
-
----
-
-## Tips voor ouders
-
-- Zorg dat je kind **op tijd** aanwezig is om stress te voorkomen.
-- Neem **reservekleding**, een **handdoek** en **warme kleding** mee voor na de wedstrijd.
-- Moedig je kind aan, maar zet **geen druk** op het resultaat.
-- Het gaat om **plezier** en **ervaring opdoen**.
-- Zorg voor **passende kleding**: bij koud weer lange kleding, waterdichte laarzen en eventueel een regenjas.
-- Een **emmer met warm water en een spons** kan handig zijn om je kind na afloop schoon te maken.
-
----
-
-## Veelgestelde vragen
-
-**Is een KNWU-licentie verplicht?**
-Ja, voor alle MNC-wedstrijden is een **KNWU-licentie** verplicht.
-
-**Mijn kind heeft nog nooit een cross gereden, mag het mee doen?**
-Jazeker! De MNC is bedoeld voor alle jeugdrenners, zowel beginners als gevorderden.
-
-**Mag mijn kind lopen tijdens de wedstrijd?**
-Ja, bij veldritten is het normaal dat renners afstappen en een stukje lopen als het parcours te moeilijk is.
-
-**Wat als mijn kind niet kan meedoen?**
-Geef afwezigheid door via de ClubApp (groep Jeugd).
-
-**Hoe vaak wordt de MNC georganiseerd?**
-Meestal is er **om de week** een wedstrijd in de regio.
-
-**Hoe lang duurt een MNC-veldrit?**
-De duur hangt af van de categorie van je kind. Zie de tabel hierboven voor de maximale duur.
-
-**Hoor je een bel bij de laatste ronde?**
-Ja, als je kind de laatste ronde in gaat, hoort hij/zij een **bel** als teken dat er nog één ronde te gaan is.
-
----
-
-## Meer informatie
-
-- [KNWU-licentie](16-wedstrijdlicentie.md)
-- [Leeftijdscategorieën](15-leeftijdscategorieen.md)
-
----
-
-Heb je nog vragen? Neem dan contact op met de jeugdcommissie of aan de trainer van je kind.
