@@ -1,69 +1,69 @@
-# Soorten wedstrijden bij WTC Woerden
+# Wedstrijden
 
-Ben je nieuw bij Wielrennen Toer Club Woerden en wil je weten welke soorten wedstrijden er zijn?
-Hier leggen we kort uit wat je bij de jeugd kunt verwachten op de weg, in het veld en op de baan.
+Op deze pagina lees je welke soorten wedstrijdvormen er zijn in het wielrennen. Ook leggen we uit hoe wedstrijden en competities werken bij WTC Woerden.
 
 ---
 
-## Wegwielrennen: op het asfalt
+## Soorten wedstrijdvormen
 
-Bij wegwielrennen fiets je op **verharde wegen**. Dit doe je het hele jaar door, behalve in de wintermaanden.
+### Wegwielrennen
+
+Bij wegwielrennen fiets je op verharde wegen. Dit zijn de meest voorkomende wedstrijdvormen:
 
 - **Eendagskoers**
-  Je rijdt één dag een parcours van bijvoorbeeld 10 tot 40 kilometer. Soms is dat een **omloop**: een ronde die je meerdere keren aflegt. Voorbeelden zijn de Omloop van Midden-Brabant of lokale jeugdkoersen.
+  Een wedstrijd op één dag over een vast parcours. Een **omloop** is een eendagskoers waarbij je meerdere rondes rijdt op hetzelfde circuit.
 
 - **Etappekoers**
-  Meerdere dagen achter elkaar rijden, met een klassement. Elke dag is een nieuwe etappe. Bij de jeugd zijn dit vaak kortere afstanden.
+  Meerdere dagen achter elkaar rijden, met een klassement. Elke dag is een nieuwe etappe.
 
 - **Tijdrit**
-  Je rijdt **solo tegen de klok**. Bij een individuele tijdrit start iedereen apart. Bij een ploegentijdrit rijden meerdere renners samen zo snel mogelijk.
+  Je rijdt **solo tegen de klok**. Bij een individuele tijdrit start iedereen apart.
 
 - **Criterium**
-  Korte, snelle rondjes op een afgebakend parcours in een dorp of stad. Spectaculair voor toeschouwers!
+  Korte, snelle rondjes op een afgebakend parcours in een dorp of stad.
 
----
+### Veldrijden
 
-## Veldrijden: in de modder
-
-Veldrijden doe je in de **herfst en winter** op onverharde ondergronden zoals gras, zand en modder.
-Je fietst korte rondjes met obstakels waar je soms **de fiets moet dragen**.
+Veldrijden doe je in de herfst en winter op onverharde ondergronden zoals gras, zand en modder.
 
 - **Crosswedstrijd**
-  Korte, intensieve races van 20 tot 40 minuten. Je rijdt meerdere rondjes op een parcours met heuvels, bochten en soms trapjes. Spanning en actie gegarandeerd!
+  Korte, intensieve races waarbij je meerdere rondjes rijdt op een parcours met heuvels, bochten en soms obstakels waar je de fiets moet dragen.
+
+### Baanwielrennen
+
+Op de baan in een overdekte hal zijn er verschillende wedstrijdvormen, zoals:
+
+- **Sprint**: Korte, explosieve races over 2-3 rondes.
+- **Puntenkoers**: Punten verdienen door als eerste of tweede over de streep te komen bij tussensprints.
+- **Koppelkoers (Madison)**: Twee renners per team wisselen elkaar af en verdienen samen punten.
+- **Achtervolging**: Tegen de klok rijden.
 
 ---
 
-## Baanwielrennen: op de velodrome
+## Wedstrijden en competities bij WTC Woerden
 
-Baanwielrennen doe je op een **houten of betonnen baan** in een overdekte hal. Er zijn geen remmen en je fietst met een vaste versnelling.
+Bij WTC Woerden doe je mee aan verschillende wedstrijden en competities:
 
-- **Sprint**
-  Korte, explosieve races over 2-3 rondes. Wie als eerste over de streep komt, wint.
+- **Clubkampioenschap**
+  Ieder jaar organiseren we een clubkampioenschap voor wegwielrennen en veldrijden. Deze wedstrijden vinden plaats op ons eigen parcours tijdens de reguliere trainingstijden.
 
-- **Keirin**
-  Je rijdt achter een motor (derny) tot hoge snelheid. Als de motor weg gaat, sprint iedereen naar de finish.
+- **Midden Nederland Competitie (MNC)**
+  Dit is een regionale competitie met andere clubs uit Midden-Nederland. Het zijn laagdrempelige wedstrijden voor iedereen die het leuk vindt om een wedstrijdje te rijden.
 
-- **Achtervolging**
-  Twee renners of teams rijden **tegen de klok**. Wie de andere inhaalt of de snelste tijd rijdt, wint.
-
-- **Puntenkoers**
-  Een race waarin je punten kunt verdienen door als eerste of tweede over de streep te komen bij tussensprints. Wie aan het eind de meeste punten heeft, wint.
-
-- **Koppelkoers (Madison)**
-  **Twee renners per team** wisselen elkaar af. Het is een teamrace waarin je samen punten verdient door tussensprints.
-
-- **Scratchrace**
-  Een massasprint na een vast aantal rondes. De eerste over de streep wint.
+- **Zaterdagmiddagcompetitie**
+  Een wekelijkse, laagdrempelige competitie speciaal voor de jeugd. Ideaal om kennis te maken met wedstrijdervaring.
 
 ---
 
-## Wedstrijden en klassementen
+## Wat is het verschil tussen een wedstrijd en een competitie?
 
-Een **wedstrijd** is een **eenmalig evenement**. Je schrijft je in, rijdt en weet aan het eind wie er heeft gewonnen. Voorbeelden zijn een clubkampioenschap of een lokale jeugdkoers.
+Een **wedstrijd** is een **eenmalig evenement**. Je schrijft je in, rijdt en weet aan het eind wie er heeft gewonnen.
 
-Bij WTC Woerden doen we mee aan **regelmatigheidsklassementen**. Dit zijn series van meerdere wedstrijden waarbij je **punten spaart**. Wie aan het eind van het seizoen de meeste punten heeft verzameld, wint het klassement. Bij ons noemen we dit eenvoudigweg een **competitie**.
-Voorbeelden zijn de **Midden Nederland Competitie** voor wegwielrennen en veldrijden en de **Zaterdagmiddagcompetitie** voor de jeugd.
+Een **competitie** (of regelmatigheidsklassement) is een **serie van meerdere wedstrijden** waarbij je **punten spaart**. Wie aan het eind van het seizoen de meeste punten heeft verzameld, wint het klassement.
 
 ---
-**Kom je het zelf een keer ervaren?**
-Bij WTC Woerden kun je kennismaken met al deze wedstrijdvormen. Kom een keer meefietsen tijdens een training of meld je aan voor een proefles!
+
+## Belangrijk
+
+- Voor de Midden Nederland Competitie is een [KNWU-licentie](../16-wedstrijdlicentie.md) verplicht.
+- Je fiets moet het juiste [verzet](../08-verzetten-per-categorie.md) hebben voor je leeftijdscategorie.

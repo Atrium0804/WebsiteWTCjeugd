@@ -15,7 +15,7 @@ Voor de Midden Nederland Competitie is een licentie verplicht. Een daglicentie i
 
 ## Welke licentie vraag ik aan?
 
-Er zijn twee licenties voor verschillende leeftijdsgroepen: U13 en U17.  Wordt je kind in het nieuwe jaar 13 of ouder? Dan vraag je voor dat jaar de KNWU Licentie U17 aan. anders vraag je U13 aan
+Er zijn twee licenties voor verschillende leeftijdsgroepen: U13 en U17. Wordt je kind in het nieuwe jaar 13 of ouder? Dan vraag je voor dat jaar de KNWU-licentie U17 aan. In alle andere gevallen vraag je de U13 aan
 
 - De licentie U13 is geldig voor alle wedstrijden
 - De licentie U17 heeft twee varianten: Basis en Plus.  Basis is vaak voldoende. Wil je NK rijden, dan heb je een plus-licentie nodig. Je kan je licentie ook halverwege het jaar omzetten van basis naar plus.
@@ -44,9 +44,9 @@ Je vraagt de licentie zelf aan, via MijnKNWU op de site van de KNWU.
 ## Meer informatie
 
 Bovenstaande informatie is gebaseerd op informatie van de KNWU. Deze informatie kan wijzigen.
-Als je vragen hebt over licenties dan kan je het beste contact opnemen met de KNWU door ze te mailen.: [www.knwu.nl/contact#vraag](https://www.knwu.nl/contact#vraag)
+Als je vragen hebt over licenties dan kan je het beste contact opnemen met de KNWU door ze te mailen: [www.knwu.nl/contact#vraag](https://www.knwu.nl/contact#vraag)
 
-- [KNWU Licentie U13](https://kenniscentrum.knwu.nl/knwu-licenties/jeugd-u13)
-- [KNWU Licentie U17](https://kenniscentrum.knwu.nl/knwu-licenties/knwu-wedstrijdlicentie-u17)
+- [KNWU-licentie U13](https://kenniscentrum.knwu.nl/knwu-licenties/jeugd-u13)
+- [KNWU-licentie U17](https://kenniscentrum.knwu.nl/knwu-licenties/knwu-wedstrijdlicentie-u17)
 
 Heb je nog een vraag? Stel hem gerust aan de jeugdcommissie of aan de trainer van je kind.
