@@ -1,4 +1,4 @@
-# Wegseizoen: Midden Nederland Competitie
+# Wegseizoen: Midden Nederland Competitie (2026)
 
 De Midden Nederland Competitie (MNC) op de weg is een serie regionale jeugdwedstrijden. De officiële naam is de In Memoriam Hans van den Hengel-competitie. Op deze pagina staat het geldende reglement.
 
@@ -25,7 +25,7 @@ De deelnemende clubs organiseren de wedstrijden samen. Elke club regelt bij de e
 
 - Het is een open competitie. Ook renners van buiten de regio zijn welkom.
 - De competitie is vooral bedoeld voor renners met weinig ervaring in landelijke wedstrijden.
-- Je kind heeft een geldige KNWU-licentie nodig. Welke licentie dat is, lees je op [Wedstrijdlicentie](16-wedstrijdlicentie.md).
+- Je kind heeft een geldige KNWU-licentie nodig.
 
 ## Wanneer en waar?
 
@@ -41,17 +41,20 @@ De deelnemende clubs organiseren de wedstrijden samen. Elke club regelt bij de e
 
 ## Starttijden en indeling
 
-| Categorie   | Start     | Maximale afstand |
-| ----------- | --------- | ---------------- |
-| JO9/MO10    | 10.00 uur | 6 km             |
-| JO10/MO11   | 10.00 uur | 8 km             |
-| JO11/MO12   | 10.00 uur | 12 km            |
-| JO12/MO13   | 10.30 uur | 15 km            |
-| JO14/MO15   | 10.30 uur | 25 km            |
-| JO13/MO14   | 11.15 uur | 20 km            |
-| JO15/MO16   | 11.15 uur | 30 km            |
+| Categorie | Start     | Maximale afstand (criterium) |
+| --------- | --------- | ---------------------------- |
+| JO9/MO10  | 10.00 uur | 6 km                         |
+| JO10/MO11 | 10.00 uur | 8 km                         |
+| JO11/MO12 | 10.00 uur | 12 km                        |
+| JO12/MO13 | 10.30 uur | 15 km                        |
+| JO14/MO15 | 10.30 uur | 25 km                        |
+| JO13/MO14 | 11.15 uur | 20 km                        |
+| JO15/MO16 | 11.15 uur | 30 km                        |
+
+<!-- NOTITIE ter bespreking: JO15/MO16 rijdt in de MNC max. 30 km. Het KNWU-maximum voor een criterium (Titel 20, art. 20.2.005, versie 01.01.26) is 35 km. De andere categorieën zijn gelijk aan het KNWU-maximum. Nagaan of 30 km een bewuste keuze van de MNC is. Ook: KNWU kent geen MO16 (zie 15-leeftijdscategorieen.md). -->
 
 - De afstanden zijn een indicatie. De organiserende club kan afwijken van starttijden en afstanden. Afwijkingen staan in de [kalender](#kalender-2026).
+- Bij een tijdrit of ploegentijdrit zijn de afstanden korter. Daarvoor geldt het [reglement van de KNWU](https://kenniscentrum.knwu.nl/regelgeving/reglementen-en-jaarlijkse-besluiten).
 - Jongens en meisjes rijden samen. Er is geen aparte uitslag voor jongens en meisjes.
 - Welke categorie je kind heeft, lees je op [Leeftijdscategorieën](15-leeftijdscategorieen.md).
 
@@ -63,7 +66,7 @@ De deelnemende clubs organiseren de wedstrijden samen. Elke club regelt bij de e
 
 ## Wedstrijdvormen
 
-De clubs kiezen uit vijf wedstrijdvormen. Uitleg over het criterium en de tijdrit lees je op [Soorten wedstrijden](05a-soorten%20wedstrijden.md).
+De clubs kiezen uit vijf wedstrijdvormen. Uitleg over het criterium en de tijdrit lees je op [Soorten wedstrijden](<05a-soorten%20wedstrijden.md>).
 
 - **Criterium**
 - **Individuele tijdrit**
@@ -85,7 +88,9 @@ Op één dag kunnen meerdere onderdelen zijn. De punten van alle onderdelen same
 - De dagwinnaar krijgt 10 punten, nummer 2 krijgt 9 punten, enzovoort. Iedere deelnemer krijgt minimaal 1 punt.
 - Bij een ploegentijdrit krijgt iedere deelnemer 8 punten, ongeacht de uitslag.
 - Bij een techniekparcours kan iedere renner maximaal 8 punten halen. De organiserende club bepaalt de uitvoering en de puntentelling.
-- De twee slechtste uitslagen van elke renner tellen niet mee. Ook een keer niet starten of niet finishen telt dan als slechtste uitslag.
+- De twee slechtste uitslagen van elke renner tellen niet mee. Dat kan ook een wedstrijd zijn waarin je kind:
+  - DNS - wel was ingeschreven, maar niet is gestart;
+  - DNF - wel is gestart, maar niet is gefinisht.
 - Het eindtoernooi telt niet mee voor de punten en niet voor het aantal deelnames.
 - Bij een gelijke eindstand beslist de laatste wedstrijd vóór het eindtoernooi.
 - De dagjury beslist over de punten en over alles wat dit reglement niet regelt.
@@ -102,19 +107,19 @@ Voor alle overige regels geldt het [reglement van de KNWU](https://kenniscentrum
 
 ## Kalender 2026
 
-| Datum                   | Club (plaats)                    | Wedstrijdvorm          | Let op                                                                                               |
-| ----------------------- | -------------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------- |
-| zondag 29 maart         | WV Het Stadion (Utrecht)         | Alternatieve vorm      | Afwijkende starttijden: 12.00, 12.30 en 13.15 uur. Programma duurt 30 tot 45 minuten langer.         |
-| zondag 5 april          | WV Eemland (Amersfoort)          | Criterium              |                                                                                                      |
-| zondag 12 april         | WTC Woerden (Woerden)            | Criterium              | Stratenparcours op het industrieterrein bij Bike Center Woerden, Korenmolenlaan 4.                   |
-| zaterdag 25 april       | WV Eemland (Amersfoort)          | Criterium              |                                                                                                      |
-| zondag 17 mei           | WV Het Stadion (Utrecht)         | Alternatieve vorm      | Afwijkende starttijden: 12.00, 12.30 en 13.15 uur. Programma duurt 30 tot 45 minuten langer.         |
-| maandag 25 mei          | RETO (Arnhem)                    | Criterium              | Pinkstermaandag. Op Sportcentrum Papendal.                                                           |
-| zaterdag 6 juni         | AXA Valleirenners (Veenendaal)   | Criterium              |                                                                                                      |
-| zondag 28 juni          | TWC 't Verzetje (Bemmel)         | Puntenkoers            | Elke categorie start apart, tussen 10.00 en 12.15 uur. Op Sportpark de Heister.                      |
-| zondag 6 september      | JVR De Batauwers (Tiel)          | Criterium              |                                                                                                      |
-| zondag 13 september     | TWC 't Verzetje (Bemmel)         | Criterium              | Tijdens de Ronde van Bemmel.                                                                         |
-| zondag 20 september     | WTC Woerden (Woerden)            | Ploegentijdrit         | Afwijkende starttijden. Bij het clubhuis, Waardsedijk 40.                                            |
-| zondag 27 september     | WV Eemland (Amersfoort)          | Eindtoernooi           | Afwijkende starttijden. Telt niet mee voor het klassement en het aantal deelnames.                   |
+| Datum               | Club (plaats)                  | Wedstrijdvorm     | Let op                                                                                       |
+| ------------------- | ------------------------------ | ----------------- | -------------------------------------------------------------------------------------------- |
+| zondag 29 maart     | WV Het Stadion (Utrecht)       | Alternatieve vorm | Afwijkende starttijden: 12.00, 12.30 en 13.15 uur. Programma duurt 30 tot 45 minuten langer. |
+| zondag 5 april      | WV Eemland (Amersfoort)        | Criterium         |                                                                                              |
+| zondag 12 april     | WTC Woerden (Woerden)          | Criterium         | Stratenparcours op het industrieterrein bij Bike Center Woerden, Korenmolenlaan 4.           |
+| zaterdag 25 april   | WV Eemland (Amersfoort)        | Criterium         |                                                                                              |
+| zondag 17 mei       | WV Het Stadion (Utrecht)       | Alternatieve vorm | Afwijkende starttijden: 12.00, 12.30 en 13.15 uur. Programma duurt 30 tot 45 minuten langer. |
+| maandag 25 mei      | RETO (Arnhem)                  | Criterium         | Pinkstermaandag. Op Sportcentrum Papendal.                                                   |
+| zaterdag 6 juni     | AXA Valleirenners (Veenendaal) | Criterium         |                                                                                              |
+| zondag 28 juni      | TWC 't Verzetje (Bemmel)       | Puntenkoers       | Elke categorie start apart, tussen 10.00 en 12.15 uur. Op Sportpark de Heister.              |
+| zondag 6 september  | JVR De Batauwers (Tiel)        | Criterium         |                                                                                              |
+| zondag 13 september | TWC 't Verzetje (Bemmel)       | Criterium         | Tijdens de Ronde van Bemmel.                                                                 |
+| zondag 20 september | WTC Woerden (Woerden)          | Ploegentijdrit    | Afwijkende starttijden. Bij het clubhuis, Waardsedijk 40.                                    |
+| zondag 27 september | WV Eemland (Amersfoort)        | Eindtoernooi      | Afwijkende starttijden. Telt niet mee voor het klassement en het aantal deelnames.           |
 
 Heb je nog een vraag? Stel hem gerust aan de jeugdcommissie of aan de trainer van je kind.
