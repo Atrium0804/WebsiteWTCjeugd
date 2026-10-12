@@ -280,9 +280,14 @@ Drie pakketten (KC-U17, KC-overzicht, Tarieven 2026):
 
 ---
 
-## 10. Voorstel voor de site (besluit WTC: één gecombineerde pagina)
+## 10. Voorstel voor de site (besluit WTC: twee pagina's, 15 leeftijdscategorieën en 16 wedstrijdlicentie)
 
-**"Categorieën en licenties"**, opgebouwd rond de zes veelgestelde vragen:
+Eerst was gekozen voor één gecombineerde pagina, maar die werd te lang. Definitief gesplitst op 12-10-2026:
+
+- **15-leeftijdscategorieen.md:** de categorienamen (oud/nieuw), jongens en meisjes, het veldseizoen over twee jaar.
+- **16-wedstrijdlicentie.md:** waarom, welke licentie, upgraden, aanvragen, links naar de KNWU.
+
+Oorspronkelijke opzet van de gecombineerde pagina ("Categorieën en licenties"), opgebouwd rond de zes veelgestelde vragen:
 
 1. **Korte intro:** je categorie hangt af van je geboortejaar, en voor wedstrijden heb je een KNWU-licentie nodig.
 2. **De categorienamen zijn veranderd.** Tabel oud → nieuw, met uitleg van de U-namen. Jongens en meisjes: hoofdregel plus het voorbeeld JO10 met MO11.
@@ -294,7 +299,7 @@ Drie pakketten (KC-U17, KC-overzicht, Tarieven 2026):
 8. **Zo vraag je aan:** de renner vraagt zelf aan via MijnKNWU. Wat je nodig hebt. Elk jaar vernieuwen, vóór januari. Korting in het najaar.
 9. **Meer weten:** links naar de KNWU (tarieven, stappenplan, wedstrijdoverzicht, verzekeringen).
 
-Doorgevoerd (12-10-2026): in `Websitestructuur-jeugd.md` en de skills zijn 15-leeftijdscategorieen.md en 16-wedstrijdlicentie.md samengevoegd tot 15-categorieen-en-licenties.md.
+Doorgevoerd (12-10-2026): in `Websitestructuur-jeugd.md` en de skills staan 15-leeftijdscategorieen.md en 16-wedstrijdlicentie.md als twee pagina's.
 
 ---
 
@@ -320,6 +325,6 @@ Aanvullende antwoorden:
 | ZMC-licentie in de tekst | Zolang er geen besluit is: "vraag de jeugdcommissie". |
 | Startleeftijd bij WTC | Vanaf U7 (het jaar waarin je 6 wordt). |
 | KNWU-lidmaatschap | Zit in het clublidmaatschap van WTC; de renner kan na aanmelding als lid zelf de licentie aanvragen. |
-| Websitestructuur | Pagina's 15 en 16 zijn samengevoegd tot 15-categorieen-en-licenties.md. |
+| Websitestructuur | Eerst samengevoegd, later weer gesplitst: 15-leeftijdscategorieen.md en 16-wedstrijdlicentie.md. |
 
 Geen open punten meer, behalve het clubbesluit over de ZMC-licentie.

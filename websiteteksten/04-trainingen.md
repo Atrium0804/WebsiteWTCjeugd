@@ -56,7 +56,7 @@ De competitie is open: ook renners van andere clubs zijn welkom. Deelname is het
 - **Wedstrijdvorm:** meestal zijn het individuele ritten. Soms kiest de organisatie een andere vorm, zoals een koppelcross.
 - **Rittijden:** afhankelijk van de groep, ongeveer 12 tot 25 minuten.
 - **Rugnummer:** wie het hele seizoen meefietst, fietst elke week met hetzelfde rugnummer en mag dit mee naar huis nemen. Na afloop van de competitie lever je het nummer schoon in.
-- **Licentie:** vraag de jeugdcommissie of je voor de zaterdagmiddagcompetitie een [KNWU-licentie](../naslag/15-categorieen-en-licenties.md) nodig hebt.
+- **Licentie:** vraag de jeugdcommissie of je voor de zaterdagmiddagcompetitie een [KNWU-licentie](16-wedstrijdlicentie.md) nodig hebt.
 - **Materiaal:** controleer vooraf de bandenspanning, remmen, versnellingen en ketting. Maak de fiets na elke training of wedstrijd goed schoon.
 - **Na afloop** kan je de fiets schoonspuiten bij het clubhuis.
 

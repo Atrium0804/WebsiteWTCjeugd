@@ -167,7 +167,7 @@ Websiteteksten worden opgeslagen in de map `websiteteksten/` van de repository v
 
 ## Website-structuur: jeugdsectie
 
-De jeugdsectie van de website bestaat uit **vier hoofdonderdelen** met in totaal **16 pagina's** (inclusief index-pagina voor Naslag). Elke pagina heeft een eigen doelgroep, intentie en toon. Per pagina wordt een apart Markdown-bestand aangemaakt in de map `websiteteksten/`.
+De jeugdsectie van de website bestaat uit **vier hoofdonderdelen** met in totaal **17 pagina's** (inclusief index-pagina voor Naslag). Elke pagina heeft een eigen doelgroep, intentie en toon. Per pagina wordt een apart Markdown-bestand aangemaakt in de map `websiteteksten/`.
 
 **Doelgroepen:**
 - Nieuwe jeugdleden (6-14 jaar)
@@ -216,7 +216,7 @@ Baanwielrennen en mountainbiken worden kort vermeld als incidentele activiteiten
 - Communicatie (ClubApp)
 - Verenigingsfiets
 - Clubkleding
-- KNWU-licentie en leeftijdscategorieën (link naar Naslag: 15-categorieen-en-licenties.md)
+- KNWU-licentie en leeftijdscategorieën (link naar Naslag: 16-wedstrijdlicentie.md en 15-leeftijdscategorieen.md)
 
 ---
 
@@ -270,10 +270,11 @@ Baanwielrennen en mountainbiken worden kort vermeld als incidentele activiteiten
 | Locaties van clubs/wedstrijden | 12-locaties-wedstrijden.md | Ouders van leden | Informeren |
 | Wegseizoen: Midden Nederland Competitie | 13-wegseizoen-midden-nederland.md | Ouders van leden | Informeren |
 | Crosseizoen: Midden Nederland Competitie | 14-crosseizoen-midden-nederland.md | Ouders van leden | Informeren |
-| Categorieën en licenties | 15-categorieen-en-licenties.md | Ouders van (nieuwe) leden | Informeren |
-| Nationale wedstrijden | 16-nationale-wedstrijden.md | Ouders van leden | Informeren |
+| Leeftijdscategorieën | 15-leeftijdscategorieen.md | Ouders van (nieuwe) leden | Informeren |
+| Wedstrijdlicentie | 16-wedstrijdlicentie.md | Ouders van (nieuwe) leden | Informeren |
+| Nationale wedstrijden | 17-nationale-wedstrijden.md | Ouders van leden | Informeren |
 
-Voor 15-categorieen-en-licenties.md is `context/onderzoek-categorieen-en-licenties.md` de feitenbron (geverifieerd met de KNWU en de vereniging).
+Voor 15-leeftijdscategorieen.md en 16-wedstrijdlicentie.md is `context/onderzoek-categorieen-en-licenties.md` de feitenbron (geverifieerd met de KNWU en de vereniging).
 
 ---
 

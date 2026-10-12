@@ -24,7 +24,7 @@ Deze Vaardigheid ondersteunt het beoordelen, verfijnen en uitbreiden van de webs
 
 ## Huidige structuur
 
-De jeugdsectie bestaat uit **vier hoofdonderdelen** met in totaal **16 pagina's** (inclusief index-pagina voor Naslag). De bestandsnamen verwijzen naar de map `websiteteksten/`.
+De jeugdsectie bestaat uit **vier hoofdonderdelen** met in totaal **17 pagina's** (inclusief index-pagina voor Naslag). De bestandsnamen verwijzen naar de map `websiteteksten/`.
 
 **Doelgroepen:**
 - Nieuwe jeugdleden (6-14 jaar)
@@ -78,7 +78,7 @@ De jeugdsectie bestaat uit **vier hoofdonderdelen** met in totaal **16 pagina's*
 - Communicatie (ClubApp)
 - Verenigingsfiets
 - Clubkleding
-- KNWU-licentie en leeftijdscategorieën (link naar Naslag: 15-categorieen-en-licenties.md)
+- KNWU-licentie en leeftijdscategorieën (link naar Naslag: 16-wedstrijdlicentie.md en 15-leeftijdscategorieen.md)
 
 ---
 
@@ -134,8 +134,9 @@ De jeugdsectie bestaat uit **vier hoofdonderdelen** met in totaal **16 pagina's*
 | Locaties van clubs/wedstrijden | 12-locaties-wedstrijden.md | Ouders van leden | Informeren |
 | Wegseizoen: Midden Nederland Competitie | 13-wegseizoen-midden-nederland.md | Ouders van leden | Informeren |
 | Crosseizoen: Midden Nederland Competitie | 14-crosseizoen-midden-nederland.md | Ouders van leden | Informeren |
-| Categorieën en licenties | 15-categorieen-en-licenties.md | Ouders van (nieuwe) leden | Informeren |
-| Nationale wedstrijden | 16-nationale-wedstrijden.md | Ouders van leden | Informeren |
+| Leeftijdscategorieën | 15-leeftijdscategorieen.md | Ouders van (nieuwe) leden | Informeren |
+| Wedstrijdlicentie | 16-wedstrijdlicentie.md | Ouders van (nieuwe) leden | Informeren |
+| Nationale wedstrijden | 17-nationale-wedstrijden.md | Ouders van leden | Informeren |
 
 ---
 
