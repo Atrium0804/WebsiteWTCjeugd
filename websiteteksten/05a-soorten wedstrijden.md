@@ -66,4 +66,4 @@ Een **competitie** (of regelmatigheidsklassement) is een **serie van meerdere we
 ## Belangrijk
 
 - Voor de Midden Nederland Competitie is een [KNWU-licentie](../16-wedstrijdlicentie.md) verplicht.
-- Je fiets moet het juiste [verzet](../08-verzetten-per-categorie.md) hebben voor je leeftijdscategorie.
+- Je fiets moet het juiste [verzet](08-fiets-eisen-en-controle.md#het-verzet) hebben voor je leeftijdscategorie.

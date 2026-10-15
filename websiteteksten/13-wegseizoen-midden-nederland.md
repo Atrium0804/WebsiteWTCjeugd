@@ -78,9 +78,9 @@ Op één dag kunnen meerdere onderdelen zijn. De punten van alle onderdelen same
 
 ## Materiaal
 
-- De maximale verzetten van de KNWU gelden. Die lees je op [Verzetten per categorie](08-verzetten-per-categorie.md).
+- De maximale verzetten van de KNWU gelden. Die lees je op [De fiets: eisen en controle](08-fiets-eisen-en-controle.md#het-verzet).
 - Je mag de derailleur vastzetten op het juiste verzet.
-- De remmen moeten goed werken. Hoe je de fiets controleert, lees je op [Technische staat van de fiets](11-technische-staat-fiets.md).
+- De remmen moeten goed werken. Hoe je de fiets controleert, lees je op [Is de fiets veilig?](09-fiets-veilig.md).
 - De organisatie kan steekproefsgewijs het verzet en het materiaal controleren.
 
 ## Puntentelling en klassement

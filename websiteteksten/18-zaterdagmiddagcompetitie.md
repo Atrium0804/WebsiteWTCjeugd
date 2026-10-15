@@ -1,6 +1,6 @@
-# Zaterdagmiddagcompetitie
+# Zaterdagmiddagcompetitie (cross)
 
-De Zaterdagmiddagcompetitie (ZMC) is een serie laagdrempelige crosswedstrijden bij WTC Woerden. Je kind oefent elke week op een nieuw parcours. Op deze pagina staat het geldende reglement.
+De Zaterdagmiddagcompetitie (ZMC) is een serie laagdrempelige trainingswedstrijdjes bij WTC Woerden. Je kind oefent elke week op een nieuw parcours. Op deze pagina staat het geldende reglement.
 
 ## In het kort
 
@@ -8,21 +8,14 @@ De Zaterdagmiddagcompetitie (ZMC) is een serie laagdrempelige crosswedstrijden b
 - **Wanneer:** oktober tot en met januari, 10 tot 13 wedstrijden
 - **Start:** 13.45 uur, aanmelden vanaf 13.15 uur
 - **Voor wie:** jeugdrenners van WTC Woerden en van andere clubs
-- **Kosten:** deelname is gratis, het hele seizoen
+- **Kosten:** deelname is gratis
 - **Licentie:** verplicht
-
-## Wat is het?
-
-De ZMC heeft drie doelen:
-
-- Jonge renners rijden een serie laagdrempelige wedstrijden.
-- Ze trainen extra in het veldrijden, op een parcours dat elke week anders is.
-- Ze beleven plezier aan veldrijden en proeven aan het wedstrijdelement.
 
 ## Voor wie?
 
-- De ZMC is een open competitie. Ook renners van andere clubs zijn welkom.
-- Voor deelname is een licentie verplicht. Welke licentie je kind nodig heeft, lees je op [Wedstrijdlicentie](16-wedstrijdlicentie.md).
+- Jeugd van WTC Woerden
+- Ook renners van andere clubs zijn welkom.
+- Voor deelname is een licentie verplicht. 
 
 ## Wanneer en waar?
 
@@ -41,30 +34,30 @@ De ZMC heeft drie doelen:
 
 Alle groepen starten om **13.45 uur**.
 
-| Groep | Categorieën (indicatie)        | Duur       |
-| ----- | ------------------------------ | ---------- |
-| 1     | JO8 t/m JO10, MO9 t/m MO11     | 12 minuten |
-| 2     | JO11 en JO12, MO12 en MO13     | 15 minuten |
-| 3     | JO13 en JO14, MO14 en MO15     | 20 minuten |
-| 4     | JO14 en JO15, MO15             | 25 minuten |
-
-- De ZMC heeft een eigen indeling. De organisatie deelt in op leeftijd én ervaring. Daarom kan JO14/MO15 in groep 3 of 4 rijden.
-- Tijdens het seizoen kijkt de organisatie of je kind in een andere groep beter past.
+- De groepsindeling voor het cross-seizoen geldt voor de dinsdagavondtrainging en de zaterdagmiddagcompetitie
+- Tijdens het seizoen kan de groepsindeling aangepast als het niveau van de renner of de groepsgrootte daar aanleiding toegeeft
+- De jeugdcommissie besluit over de groepsindleing
 - Bij weinig deelnemers kan de organisatie groepen anders indelen.
-- Welke categorie je kind in het veldseizoen heeft, lees je op [Leeftijdscategorieën](15-leeftijdscategorieen.md).
 
-### Een groep hoger of lager rijden
+## Duur van de wedstrijd
 
-Alleen een jeugdbegeleider of trainer beslist of je kind een groep hoger of lager rijdt. Ouders beslissen dit niet. Je kind rijdt eerst in de eigen groep, om te zien hoe het gaat.
+| Groep | Duur       |
+| ----- | ---------- |
+| 1     | 12 minuten |
+| 2     | 15 minuten |
+| 3     | 20 minuten |
+| 4     | 25 minuten |
+
+- 
 
 ## Wedstrijdvormen
 
-Meestal rijdt ieder voor zich. Soms probeert de organisatie een andere vorm uit, zoals een koppelcross.
+Meestal wordt er een individuele wedstrijd gereden maar er kan soms een andere wedstrijdvorm gekozen worden zoals een koppelcross.
 
 ## Materiaal
 
 - Jij en je kind zijn zelf verantwoordelijk voor het onderhoud van de fiets.
-- Controleer voor de wedstrijd de bandenspanning, remmen, versnellingen en ketting. Hoe je dat doet, lees je op [Technische staat van de fiets](11-technische-staat-fiets.md).
+- Controleer voor de wedstrijd de bandenspanning, remmen, versnellingen en ketting. Hoe je dat doet, lees je op [Is de fiets veilig?](09-fiets-veilig.md).
 - Maak de fiets na elke training en wedstrijd goed schoon.
 
 ## Puntentelling en klassement

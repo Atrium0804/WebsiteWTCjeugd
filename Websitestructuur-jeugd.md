@@ -249,10 +249,9 @@ Deze pagina beschrijft hoe het gaat als je lid wordt bij onze vereniging.
 
 | Pagina | Bestandsnaam | Doelgroep | Intentie |
 |--------|--------------|-----------|----------|
-| Welke verzetten gelden per categorie? | 08-verzetten-per-categorie.md | Ouders van leden | Informeren |
-| Hoe controleer ik de afstelling van mijn fiets? | 09-afstelling-fiets.md | Ouders van leden | Informeren |
+| De fiets: eisen en controle (verzetten, afstelling) | 08-fiets-eisen-en-controle.md | Ouders van leden | Informeren |
+| Is de fiets veilig? (controlelijst) | 09-fiets-veilig.md | Ouders van leden | Informeren |
 | Hoe draag ik mijn helm? | 10-helm-dragen.md | Ouders van leden | Informeren |
-| Hoe controleer ik de technische staat van mijn fiets? | 11-technische-staat-fiets.md | Ouders van leden | Informeren |
 
 ### Competities & locaties
 

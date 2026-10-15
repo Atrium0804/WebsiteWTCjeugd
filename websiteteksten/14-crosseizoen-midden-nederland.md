@@ -42,8 +42,8 @@ De jeugd start vanaf **11.05 uur**, verdeeld over twee wedstrijden:
 ## Materiaal
 
 - De jeugd mag rijden op een veldrijfiets of een mountainbike.
-- Welk verzet is toegestaan, lees je op [Verzetten per categorie](08-verzetten-per-categorie.md).
-- Hoe je de fiets controleert, lees je op [Technische staat van de fiets](11-technische-staat-fiets.md).
+- Welk verzet is toegestaan, lees je op [De fiets: eisen en controle](08-fiets-eisen-en-controle.md).
+- Hoe je de fiets controleert, lees je op [Is de fiets veilig?](09-fiets-veilig.md).
 - Gaat er tijdens de wedstrijd iets kapot? Dan mag je kind het repareren. Je kind krijgt daarvoor geen ronde vergoed.
 
 ## Puntentelling en klassement
