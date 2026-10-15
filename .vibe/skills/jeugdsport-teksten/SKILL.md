@@ -14,6 +14,8 @@ allowed-tools:
 
 Deze Vaardigheid helpt bij het maken van Nederlandstalige socialmedia-berichten en websiteteksten voor WTC Woerden. De vereniging biedt wielrennen op de weg en veldrijden/cyclocross. De focus ligt op jeugd en ouders als doelgroep.
 
+**Teksten worden direct in het chatvenster aangeboden. Socialmedia-berichten en ClubApp-posts worden niet opgeslagen, tenzij de gebruiker dit expliciet vraagt.**
+
 ## Vereniging
 
 - Naam: WTC Woerden
@@ -90,7 +92,7 @@ Drie doelgroepen, elk met een eigen toon:
 
 ## Intentie van de tekst
 
-Bij elke aanvraag wordt eerst de intentie van de tekst bepaald. De intentie is het doel dat de tekst moet bereiken bij de lezer. Probeer deze af te leiden uit de geleverde input. Is de intentie niet of onvoldoende duidelijk, vraag de gebruiker dan om deze op te geven of aan te vullen.
+Bij elke aanvraag wordt eerst de intentie van de tekst bepaald. De intentie is het doel dat de tekst moet bereiken bij de lezer. Probeer deze af te leiden uit de geleverde input. Is de intentie niet of onvoldoende duidelijk, **vraag de gebruiker dan om deze op te geven of aan te vullen**.
 
 Veelvoorkomende intenties bij WTC Woerden:
 
@@ -104,13 +106,15 @@ Veelvoorkomende intenties bij WTC Woerden:
 Werkwijze:
 
 1. Leid de intentie af uit de aanvraag van de gebruiker. Is deze duidelijk, ga dan door.
-2. Is de intentie niet duidelijk of mogelijk dubbelzinnig, vraag de gebruiker om deze op te geven of aan te vullen. Bijvoorbeeld: "Wat is het doel van dit bericht: leden herinneren aan de aanvangstijd of nieuwe leden uitnodigen om mee te doen?"
+2. **Is de intentie niet duidelijk of mogelijk dubbelzinnig, vraag de gebruiker om deze op te geven of aan te vullen.**
 3. Pas de toon en de structuur aan op de gekozen intentie. Een enthousiasmerende tekst klinkt anders dan een herinnering of een oproep.
 4. Controleer na het schrijven of de tekst de gekozen intentie daadwerkelijk ondersteunt en of de actie of vraag aan het eind daarbij past.
 
 ## Verheldering bij beperkte informatie
 
-De gebruiker levert vaak slechts een korte of vage aanvraag, bijvoorbeeld "schrijf een bericht over de training" of "iets voor Instagram". Schrijf in zulke gevallen niet direct een tekst, maar stel eerst gerichte vragen om de wens en intentie duidelijk te krijgen. Stel maximaal vier vragen tegelijk, kort en gericht. Vraag alleen om wat nodig is; als sommige elementen al duidelijk zijn, sla die vragen over.
+De gebruiker levert vaak slechts een korte of vage aanvraag, bijvoorbeeld "schrijf een bericht over de training" of "iets voor Instagram". **Schrijf in zulke gevallen niet direct een tekst, maar stel eerst gerichte vragen om de wens en intentie duidelijk te krijgen.** Stel maximaal vier vragen tegelijk, kort en gericht. Vraag alleen om wat nodig is; als sommige elementen al duidelijk zijn, sla die vragen over.
+
+**ALTIJD vragen naar ontbrekende informatie om de juiste tekst te genereren.**
 
 Vraag naar de volgende elementen, voor zover niet al uit de aanvraag duidelijk:
 
@@ -132,46 +136,14 @@ Voorbeeld van verhelderende vragen bij een vage aanvraag:
 
 Zodra voldoende duidelijk is, schrijf de tekst volgens de structuur en toon die bij kanaal en doelgroep horen. Stel daarna eventueel nog één gerichte vraag als een essentieel detail ontbreekt, maar lever niet op zonder te proberen de intentie te verhelderen.
 
-## Opslaan van websiteteksten
-
-Websiteteksten worden opgeslagen in de map `websiteteksten/` van de repository van WTC Woerden. Socialmedia-berichten en ClubApp-posts worden niet opgeslagen, tenzij de gebruiker dit expliciet vraagt.
-
-**Versiebeheer doet de gebruiker zelf.** Maak geen branches, commits, pushes of pull requests aan.
-
-### Bron van waarheid en referentiemateriaal
-
-- **De bron van waarheid voor de jeugdsectie is het bestand `Websitestructuur-jeugd.md` in de repository.**
-- Het referentiemateriaal in de map `context/` van de repository (het welkomstdocument, de inhoud van de huidige site en de teksten van januari 2025) dient als stijl- en toonreferentie, niet als feitenbron. Feitelijke gegevens altijd bij de gebruiker navragen.
-
-### Werkwijze per websitetekst
-
-1. Schrijf de websitetekst volgens de structuur en toon uit deze Vaardigheid.
-2. Sla de tekst op in de map `websiteteksten/` met de bestandsnaam uit de structuur-tabel in `Websitestructuur-jeugd.md`.
-3. Meld de gebruiker welk bestand is aangemaakt of gewijzigd, zodat deze de tekst kan beoordelen.
-
-### Bijwerken van een bestaande websitetekst
-
-1. Lees de huidige versie van het bestand in `websiteteksten/`.
-2. Pas de tekst aan in hetzelfde bestand.
-3. Meld de gebruiker wat er is gewijzigd.
-
-### Bestandsformaat
-
-- Websiteteksten worden opgeslagen als Markdown-bestand (.md).
-- De bestandsnaam is in het Nederlands, met koppeltekens, zonder spaties.
-- De eerste regel van het bestand is de titel als H1-kop.
-- Daarna volgt de tekst volgens de structuur voor websiteteksten uit deze Vaardigheid.
-
 ---
 
 ## Werkinstructie
 
 - Begin elke tekst met het bepalen van kanaal en doelgroep. Pas de toon aan op de gekozen doelgroep.
-- Vraag bij onduidelijke feiten (uitslagen, data, namen, locaties) om de juiste informatie; bedenk deze niet.
+- **Vraag bij onduidelijke feiten (uitslagen, data, namen, locaties, strekking) om de juiste informatie; bedenk deze niet.**
 - Lever de tekst aan in de gevraagde lengte en lever eventueel een kortere variant voor een ander kanaal.
 - Bied bij langere websiteteksten een titel en tussenkopjes aan.
 - Houd rekening met seizoensmomenten: start wegseizoen, start veldritseizoen, schoolvakanties, clubkampioenschappen, toernooien, eindfeest.
-- Sla websiteteksten op in `websiteteksten/` volgens de werkwijze hierboven. Versiebeheer (branches, commits, pull requests) doet de gebruiker zelf.
-- **Raadpleeg altijd `Websitestructuur-jeugd.md` in de repository als bron van waarheid voor de actuele structuur, bestandsnamen en inhoudsopzet.**
-- Sla websiteteksten op in de map `websiteteksten/` met de bestandsnaam uit de structuur-tabel in `Websitestructuur-jeugd.md`.
+- **Teksten worden direct in het chatvenster aangeboden.**
 - Gebruik `ask_user_question` om de intentie en ontbrekende details op te vragen wanneer de aanvraag onvodoende informatie bevat.
