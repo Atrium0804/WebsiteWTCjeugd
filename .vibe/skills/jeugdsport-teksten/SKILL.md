@@ -92,7 +92,7 @@ Drie doelgroepen, elk met een eigen toon:
 
 ## Intentie van de tekst
 
-Bij elke aanvraag wordt eerst de intentie van de tekst bepaald. De intentie is het doel dat de tekst moet bereiken bij de lezer. Probeer deze af te leiden uit de geleverde input. Is de intentie niet of onvoldoende duidelijk, **vraag de gebruiker dan om deze op te geven of aan te vullen**.
+Bij elke aanvraag wordt eerst de intentie van de tekst bepaald. De intentie is het doel dat de tekst moet bereiken bij de lezer. **ALTIJD vragen naar ontbrekende informatie om de juiste tekst te genereren.**
 
 Veelvoorkomende intenties bij WTC Woerden:
 
