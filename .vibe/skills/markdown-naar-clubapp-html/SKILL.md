@@ -1,13 +1,13 @@
 
 ---
-name: clubapp-html-conversie
+name: markdown-naar-clubapp-html
 description: "Converteer geplakte Markdown naar ClubApp-HTML (AllUnited) voor WTC Woerden. Gebruik bij elke aanvraag om markdown of geplakte tekst met <br /> soft returns om te zetten naar correcte ClubApp-pagina-HTML met header-span-klassen, echte alinea's en lijsten."
 user-invocable: true
 allowed-tools:
   - ask_user_question
 ---
 
-# ClubApp HTML-conversie (WTC Woerden)
+# Markdown naar ClubApp HTML (WTC Woerden)
 
 Zet geplakte Markdown om naar de HTML-structuur die de ClubApp-pagina-editor (AllUnited) verwacht. De ClubApp-editor slaat geplakte Markdown op als één `<p>` vol soft returns (`<br /><br />`); dat levert inspringende lijsten en gebroken koppen op. Deze Vaardigheid zet dat om naar de juiste paginacode.
 
