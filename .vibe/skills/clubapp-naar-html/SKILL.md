@@ -56,14 +56,18 @@ Vraag de gebruiker om de volgende **verplichte metadata**. Gebruik `ask_user_que
 Vraag de gebruiker om **beide tekstdelen** van de ClubApp-pagina:
 
 1. **Introductie** (korte inleidingstekst)
+   - Bevat altijd een `<p>`-sectie
+   - **Behoud eventuele `<script>`-tags** (bijv. Umami-analytics) in de introductie
 2. **Details** (uitgebreide inhoud)
+   - Begint altijd met de eerste header (bijv. `<p><span class="header3 header4">...`)
 
 **Belangrijk:**
 - Beide delen zijn **verplicht**
 - Als de gebruiker **markdown** levert, gebruik dan de skill `markdown-naar-clubapp-html` om deze om te zetten naar HTML
+- **Script-tags in de introductie moeten behouden blijven** voor correcte functionaliteit in de web-editor
 
 ### Stap 3: HTML-bestand samenstellen
-Voeg de tekstdelen samen in **één HTML-bestand** met de volgende structuur:
+Voeg de tekstdelen samen in **één HTML-bestand** met de volgende structuur. **Formatteer de HTML opgemaakt** met juiste indentatie en witregels voor betere leesbaarheid:
 
 ```html
 <!--
@@ -77,18 +81,27 @@ metadata:
 - versie: [versie]
 -->
 
-[INTRODUCTIE-TEKST]
+[INTRODUCTIE-TEKST (met <p> en eventuele <script>-tags, opgemaakt met indentatie)]
 
 <!-- --- -->
 
-[DETAILS-TEKST]
+[DETAILS-TEKST (begint met eerste header, opgemaakt met indentatie)]
 
 <p><span style="color: #ffffff;">pagina: [pagina]; versie [versie]</span></p>
 ```
 
+**Opmaakregels voor HTML:**
+- Gebruik **2 spaties** of **tabs** voor indentatie (kies consistent een stijl)
+- **Geneste elementen** (bijv. `<ul><li>...</li></ul>`) krijgen extra indentatie
+- Voeg **witregels** toe tussen logische blokken (bijv. tussen alinea's, lijsten, tabellen)
+- **Script-tags** formatteer je met indentatie voor leesbaarheid
+- **Tabel-rijen** (`<tr>`, `<td>`) krijgen elke rij op een nieuwe regel met indentatie
+- **Lijstitems** (`<li>`) elk op een nieuwe regel met indentatie
+
 **Opmerking:**
 - Tussen introductie en details: **witregel + `<!-- --- -->` + witregel**
 - Voettekst **alleen onderaan** (na de details)
+- **Script-tags (bijv. Umami) in de introductie moeten behouden blijven** voor kopieerbaarheid naar de web-editor
 
 ### Stap 4: Bestandsnaam bepalen
 Gebruik de volgende naamconventie:
@@ -122,6 +135,7 @@ Controleer voor het opslaan:
 - [ ] Alle afbeeldings-URLs zijn correct
 - [ ] HTML is valide (geen open tags, correcte structuur)
 - [ ] Bestandsnaam volgt de conventie `{pagina} - {artikel-id}.html`
+- [ ] **Script-tags in introductie zijn behouden** (indien aanwezig)
 
 ### Stap 7: Opslaan en bevestigen
 Sla het bestand op en bevestig aan de gebruiker:
@@ -135,7 +149,8 @@ Met de volgende metadata:
 - clubapp artikel-id: [id]
 - versie: [versie]
 
-Scheiding: witregel + <!-- --- --> + witregel"
+Scheiding: witregel + <!-- --- --> + witregel
+Script-tags in introductie: behouden (indien aanwezig)"
 ```
 
 ---
@@ -188,6 +203,56 @@ Scheiding: witregel + <!-- --- --> + witregel"
 - **Één bestand**: Elke ClubApp-pagina wordt opgeslagen als **één HTML-bestand** met scheiding tussen introductie en details.
 - **Scheiding**: Gebruik **witregel + `<!-- --- -->` + witregel** tussen introductie en details.
 - **Versiebeheer**: Verhoog het versienummer bij elke wijziging (bijv. 1.0 → 1.1 → 1.2).
+
+### HTML-opmaak voorbeelden:
+
+**Goed (opgemaakt):**
+```html
+<p>Introductietekst hier.</p>
+<script>
+// <![CDATA[
+  (function () {
+    var s = document.createElement('script');
+    s.src = 'https://cloud.umami.is/script.js';
+    s.defer = true;
+    s.setAttribute('data-website-id', 'b348627f-6db1-4ad8-9c47-3599b6bdd248');
+    
+    document.head.appendChild(s);
+  })();
+// ]]>
+</script>
+
+<!-- --- -->
+
+<p><span class="header4">Titel</span></p>
+<p>Tekst hier.</p>
+
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Kolom 1</td>
+      <td>Kolom 2</td>
+    </tr>
+  </tbody>
+</table>
+```
+
+**Slecht (niet opgemaakt):**
+```html
+<p>Introductietekst hier.</p><script>// <![CDATA[(function () {var s = document.createElement('script');s.src = 'https://cloud.umami.is/script.js';document.head.appendChild(s);})();// ]]></script>
+<!-- --- -->
+<p><span class="header4">Titel</span></p><p>Tekst hier.</p><ul><li>Item 1</li><li>Item 2</li></ul>
+```
+
+### Standaard gedrag voor scheiding en script-tags:
+- **Introductie-blok**: Bevat altijd een `<p>`-sectie **en eventuele `<script>`-tags** (bijv. Umami-analytics). Deze moeten behouden blijven.
+- **Details-blok**: Begint altijd met de eerste header (bijv. `<p><span class="header3 header4">...`).
+- **Doel**: Zodat de gebruiker de inhoud kan kopiëren en direct plakken in de web-editor, inclusief alle noodzakelijke scripts.
 
 ---
 
