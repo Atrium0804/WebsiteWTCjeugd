@@ -1,5 +1,5 @@
 ---
-pagina: Materiaal - Verzetting
+pagina: Materiaal - Verzetten
 doelgroep: jeugd en ouders
 kanaal: websitetekst
 intentie: informeren
@@ -49,8 +49,8 @@ Je kunt het verzet thuis meten met een rolmaat:
 Een nieuwe racefiets heeft bijna altijd een te zwaar verzet voor de jeugd. Je kunt dit oplossen door:
 
 - een cassette achter te monteren met een groter kleinste tandwiel;
-- of een kleiner tandwiel voor te monteren.
-- mogelijk: bijstellen van de derailleur
+- een kleiner tandwiel voor te monteren;
+- of eventueel de derailleur bij te stellen.
 
 Een goede fietsenmaker of de trainer kan je hierbij adviseren.
 

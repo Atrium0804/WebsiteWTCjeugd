@@ -12,18 +12,18 @@ Tijdens de trainingen hanteren we een aantal vaste afspraken om de veiligheid en
 
 ---
 
-Verplichte uitrusting:
+## Verplichte uitrusting
 
 - Helm
 - Fietshandschoenen
 - Tijdens de wintertijd: goede fietsverlichting
 
-Kleding:
+## Kleding
 
 - We trainen in clubkleding.
 - Als de buitentemperatuur onder de 16°C is, wordt er gefietst in lange kleding.
 
-Fiets:
+## Fiets
 
 - De fiets moet in goede staat zijn:
   - Zadelhoogte goed afgesteld
@@ -32,6 +32,6 @@ Fiets:
   - Stuur heeft stuurdopjes op de uiteinden
   - Fiets heeft een passend verzet
 
-Afmelden:
+## Afmelden
 
 - Kan je kind niet komen trainen? Meld dit dan af via de ClubApp.

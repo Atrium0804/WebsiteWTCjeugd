@@ -1,6 +1,10 @@
 ---
 pagina: Wedstrijden
+doelgroep: ouders van leden
+kanaal: websitetekst
+intentie: uitleggen
 clubapp artikel-id: 1015
+paginacode: jeugd_hoewerkthet
 versie: '1.0'
 ---
 
@@ -14,17 +18,17 @@ Er zijn drie niveaus waar je kind aan mee kan doen:
 
 **Clubniveau**
 
-- Clubkampioenschap:&nbsp;Ieder jaar, aan het einde van het seizoen, houden we een clubkampioenschap. Het is een wedstrijd die je met je trainingsgroepje fietst met een prijsuitreiking na afloop.&nbsp; Het clubkampioenschap is tijdens de gewone trainingstijdstippen.
-- Zaterdagmiddagcross:&nbsp;Zaterdagmiddag lekker crossen in het park, op een parcours door heel het park. Je fietst in je trainingsgroepje.
-  - &nbsp;&nbsp;&nbsp;Je ziet wanneer deze wedstrijden zijn in de agenda van de clubapp&nbsp;
-  - *&nbsp;&nbsp;&nbsp;Meer info: zie [Zaterdagmiddagcompetitie](https://www.wtcwoerden.nl/index.php?page=1020).*
+- Clubkampioenschap: Ieder jaar, aan het einde van het seizoen, houden we een clubkampioenschap. Het is een wedstrijd die je met je trainingsgroepje fietst met een prijsuitreiking na afloop. Het clubkampioenschap is tijdens de gewone trainingstijdstippen.
+- Zaterdagmiddagcross: Zaterdagmiddag lekker crossen in het park, op een parcours door heel het park. Je fietst in je trainingsgroepje.
+  - Je ziet wanneer deze wedstrijden zijn in de agenda van de clubapp
+  - Meer info: zie [Zaterdagmiddagcompetitie](https://www.wtcwoerden.nl/index.php?page=1020).
 
 **Regionaal niveau**
 
-- Midden Nederland Competitie (MNC): Een serie laagdrempelige wedstrijden voor jeugdrenners uit de regio, zowel op de weg als in het veld. Je fietst met renners van andere clubs in de buurt die hetzelfde niveau hebben.&nbsp; Iedere keer bij een andere club, dus wij organiseren het ook!
+- Midden Nederland Competitie (MNC): Een serie laagdrempelige wedstrijden voor jeugdrenners uit de regio, zowel op de weg als in het veld. Je fietst met renners van andere clubs in de buurt die hetzelfde niveau hebben. Iedere keer bij een andere club, dus wij organiseren het ook!
   - Je ziet waar en wanneer deze wedstrijden zijn in de agenda van de clubapp
-  - Zie:&nbsp;[Midden Nederland Competitie (Crossseizoen)](https://www.wtcwoerden.nl/index.php?page=1026)
-  - Zie:&nbsp;[Midden Nederland Competitie (Wegseizoen)](https://www.wtcwoerden.nl/index.php?page=1025)
+  - Zie: [Midden Nederland Competitie (Crossseizoen)](https://www.wtcwoerden.nl/index.php?page=1026)
+  - Zie: [Midden Nederland Competitie (Wegseizoen)](https://www.wtcwoerden.nl/index.php?page=1025)
 
 **Nationaal niveau**
 
@@ -33,10 +37,10 @@ Er zijn drie niveaus waar je kind aan mee kan doen:
 
 ## Hoe lang duurt een wedstrijd?
 
-De lengte van een wedstrijd is afhankelijk van je leeftijd. Voor een renner van 8 jaar is een wegwedstrijd ongeveer 5 km lang en een veldrijwedstrijd ongeveer 12 minuten.  De jury bepaalt hoeveel rondjes je moet rijden. Dat gaat zo:
+De lengte van een wedstrijd is afhankelijk van je leeftijd. Voor een renner van 8 jaar is een wegwedstrijd ongeveer 5 km lang en een veldrijwedstrijd ongeveer 12 minuten. De jury bepaalt hoeveel rondjes je moet rijden. Dat gaat zo:
 
-- Bij een wegwedstrijd is bekend hoe lang het parcours is.  Je hoort voor de start hoeveel rondjes je moet rijden.
-- Bij een veldrijwedstrijd is het iedere keer anders hoe lang en hoe zwaar het parcours is. Je wordt eerst gestart. De jury kijkt hoe lang er over een rondje gefietst wordt.  Je hoort tijdens de wedstrijd hoeveel rondjes je moet rijden.
+- Bij een wegwedstrijd is bekend hoe lang het parcours is. Je hoort voor de start hoeveel rondjes je moet rijden.
+- Bij een veldrijwedstrijd is het iedere keer anders hoe lang en hoe zwaar het parcours is. Je wordt eerst gestart. De jury kijkt hoe lang er over een rondje gefietst wordt. Je hoort tijdens de wedstrijd hoeveel rondjes je moet rijden.
 - Als je aan je laatste rondje begint, hoor je altijd een bel bij de start.
 
 ## Hoe verloopt een wedstrijd?

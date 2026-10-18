@@ -40,21 +40,21 @@ Veel jeugdleden gebruiken deze fiets in de zomer met wegbanden ook op de weg.
 
 Gravelbikes zijn populair en door gravelraces zijn er ook steeds meer race-gericht gravelbikes. Er zijn daardoor verschillende gravel bikes
 
-- **Adventure-variant:** gericht op lange tochten met bagage, - gemaakt voor rechte stukken, zwaarder en minder wendbaar,
+- **Adventure-variant:** gericht op lange tochten met bagage, gemaakt voor rechte stukken, zwaarder en minder wendbaar.
 - **Race-variant:** sportief en snel. Met smallere weg-/crossbandjes kan een kind hier soms prima mee fietsen. De standaard gravelbanden zijn te breed en vaak te glad.
 
 ## Vuistregel
 
 Kies een veldrijfiets of een race-gravelbike als je kind gaat trainen en wedstrijden rijden. Deze fiets is het meest veelzijdig en voldoet aan alle wedstrijdeisen.
 
-## Populaire fietsen:
+## Populaire fietsen
 
 Mocht je op zoek gaan naar een fiets: hieronder staan een aantal gangbare modellen en de kleinste framemaat waarin deze beschikbaar zijn.
 
 De frame-maat is de lengte van zadelbuis. Frame-maten zijn daardoor niet één-op-één te vergelijken. Een Sensa Umbria 44cm is bijvorobeeld een kleinere fiets dan een Specialized Diverge 44cm doordat de laaste een sterk aflopende bovenbuis heeft.
 
 - HUPcc 37cm
-- Frog Bikes 70 Road - 43cm\*
+- Frog Bikes 70 Road - 43cm
 - Sensa Umbria Junior 26" 44cm
 - Scatto J-Cross 26" 44cm
 - BEMOOV 26" 44cm
@@ -67,7 +67,7 @@ De frame-maat is de lengte van zadelbuis. Frame-maten zijn daardoor niet één-o
 - Bianchi Impulso xs 41cm
 - Specialized Diverge 44cm
 
-## Fietsenwinkels:
+## Fietsenwinkels
 
 - [Bike Center - Woerden](https://www.bikecenterwoerden.nl/nl) (Specialized)
 - [Joy-Rides - Woerden (BEMOOV)](https://www.joyrides.nl/)

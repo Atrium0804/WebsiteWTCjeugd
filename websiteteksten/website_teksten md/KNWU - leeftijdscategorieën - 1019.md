@@ -54,6 +54,6 @@ In de praktijk betekent dit: aan het begin van het veldseizoen gaat je kind al e
 - Veldseizoen 2026-2027: Sem rijdt in U11 (oude categorie 3).
 - Wegseizoen 2027: Sem blijft in U11.
 
-Let op het verschil: de licentie loopt per kalenderjaar, maar de categorie in het veldseizoen niet. In het veldseizoen rijdt je kind in de categorie waarin het valt als het veldseizoen eindigt.\
-\
-Heb je vragen hierover? neem dan contact op me de KNWU:&nbsp; Tel. +31 (0)85 070 1900&nbsp;Dinsdag tot en met vrijdag van 8.30-12.00 uur
+Let op het verschil: de licentie loopt per kalenderjaar, maar de categorie in het veldseizoen niet. In het veldseizoen rijdt je kind in de categorie waarin het valt als het veldseizoen eindigt.
+
+Heb je vragen hierover? neem dan contact op me de KNWU: Tel. +31 (0)85 070 1900, Dinsdag tot en met vrijdag van 8.30-12.00 uur

@@ -31,7 +31,7 @@ Het lidmaatschap geldt voor een kalenderjaar.
 
 Om op de hoogte te blijven van trainingen, activiteiten en nieuws gebruiken we de ClubApp. Deze app is speciaal voor ledengroepen en ouders.
 
-- Download de app uit de <a href="https://apps.apple.com/nl/app/clubapp/id1136583337" target="_blank" rel="noopener noreferrer">App Store</a> of <a href="https://play.google.com/store/apps/details?id=nl.tizin.socie.tennis&amp;hl=nl&amp;pli=1" target="_blank" rel="noopener noreferrer">Google Play Store</a>.
+- Download de app uit de [App Store](https://apps.apple.com/nl/app/clubapp/id1136583337) of [Google Play Store](https://play.google.com/store/apps/details?id=nl.tizin.socie.tennis&hl=nl&pli=1).
 - Meld je aan met je e-mailadres. Een account is al voor je aangemaakt.
 - In de app vind je een aantal groepen die we gebruiken, meld je aan bij deze groepen:
   - Jeugd: Mededelingen van de jeugdcommissie, afmelden als je niet kan komen trainen.
@@ -55,7 +55,7 @@ Als je op zoek gaat naar een eigen fiets: vraag de jeugdcommissie om advies.
 
 Natuurlijk heb je ook clubkleding nodig. Clubkleding wordt ongeveer 4 keer per jaar geproduceerd. Bestel dus op tijd!
 
-## Nieuwe leden
+### Nieuwe leden
 
 Nieuwe leden kunnen eenmalig een kledingset bestellen. Bike Center heeft een kleine voorraad kledingsets inclusief lange broek in de maten K2 en K3, zodat je snel geleverd krijgt.
 
@@ -66,9 +66,10 @@ Deze kledingset voor nieuwe leden bestaat uit:
 - Korte broek
 - Shirt korte mouwen
 - Shirt lange mouwen
-- Let op: een lange broek moet je los bestellen.
 
-## Hoe bestel je?
+Let op: een lange broek moet je los bestellen.
+
+### Hoe bestel je?
 
 1. Ga eerst de kleding passen bij Bike Center (zij hebben paskleding), vraag eventueel advies of de kleding passend is.
 2. Bestel via de site van Bioracer: [https://www.bioracer.be/nl/mybioracer](https://www.bioracer.be/nl/mybioracer).
@@ -80,4 +81,4 @@ Deze kledingset voor nieuwe leden bestaat uit:
 
 Om aan wedstrijden mee te doen, heb je een KNWU-wedstrijdlicentie nodig zodat je verzekerd bent voor schade en ongevallen. De licentie moet je zelf aanvragen zodra je bij de vereniging ingeschreven bent. Aanvragen doe je via de site van de KNWU. Een account hiervoor is al aangemaakt door de club.
 
-Meer informatie hierover vind je in onze [naslagpagina over wedstrijdlicenties](../naslag/16-wedstrijdlicentie.md).
+Meer informatie hierover vind je in onze [naslagpagina over wedstrijdlicenties](https://www.wtcwoerden.nl/index.php?page=1018).

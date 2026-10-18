@@ -9,9 +9,9 @@ versie: '1.0'
 datum: 12-10-2026
 ---
 
-Voor wedstrijden heeft je kind een licentie van de KNWU nodig. Op deze pagina lees je waarom, welke licentie je kiest en hoe je hem aanvraagt.&nbsp;
+Voor wedstrijden heeft je kind een licentie van de KNWU nodig. Op deze pagina lees je waarom, welke licentie je kiest en hoe je hem aanvraagt.
 
-<sub>Heb je vragen hierover of hulp nodig bij het aanvragen van een licentie? neem dan contact op me de KNWU:&nbsp; Tel. 085-070 1900&nbsp;Dinsdag tot en met vrijdag van 8.30-12.00 uur</sub>
+Heb je vragen hierover of hulp nodig bij het aanvragen van een licentie? neem dan contact op me de KNWU: Tel. 085-070 1900, Dinsdag tot en met vrijdag van 8.30-12.00 uur
 
 ---
 
@@ -28,12 +28,12 @@ Voor de Midden Nederland Competitie is een licentie verplicht. Een daglicentie i
 
 ## Welke licentie vraag ik aan?
 
-Er zijn twee licenties voor verschillende leeftijdsgroepen: U13 en U17: wWordt je kind in het nieuwe jaar 13 of ouder? Dan vraag je voor dat jaar de KNWU-licentie U17 aan. In alle andere gevallen vraag je de U13 aan
+Er zijn twee licenties voor verschillende leeftijdsgroepen: U13 en U17. Wordt je kind in het nieuwe jaar 13 of ouder? Dan vraag je voor dat jaar de KNWU-licentie U17 aan. In alle andere gevallen vraag je de U13 aan
 
 - De licentie U13
   - Geldig voor alle wedstrijden
   - Leeftijd: t/m 12 jaar
-- De licentie U17 heeft
+- De licentie U17
   - Leeftijd: vanaf 13 tm 16 jaar
   - Twee varianten: Basis en Plus. Basis is vaak voldoende. Bij specifieke wedstrijden (NK, wedstrijd niet-afgesloten parcours), dan heb je een plus-licentie nodig.
   - Je kan je licentie ook halverwege het jaar omzetten van basis naar plus.
@@ -42,7 +42,7 @@ Er zijn twee licenties voor verschillende leeftijdsgroepen: U13 en U17: wWordt j
 
 Je vraagt de licentie zelf aan, via MijnKNWU op de site van de KNWU:
 
-Log in bij knwu.nl en ga naar&nbsp;[https://mijn.knwu.nl/account/licenses](https://mijn.knwu.nl/account/licenses)
+Log in bij knwu.nl en ga naar [https://mijn.knwu.nl/account/licenses](https://mijn.knwu.nl/account/licenses)
 
 ### Wat je nodig hebt
 
