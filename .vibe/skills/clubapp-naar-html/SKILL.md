@@ -11,6 +11,8 @@ allowed-tools:
 
 # Skill: clubapp-naar-html
 
+> **Let op:** de Markdown in `websiteteksten/website_teksten md/` is de bron; de HTML wordt gegenereerd met `python tools/websiteteksten_sync.py build`. Gebruik deze skill alleen om een pagina die **direct in ClubApp** is gewijzigd terug op te slaan als HTML, en draai daarna `python tools/websiteteksten_sync.py import "<bestandsnaam>.html"` om de Markdown bij te werken.
+
 ## ClubApp-tekst opslaan als HTML
 
 **Doel:** ClubApp-teksten opslaan als **één HTML-bestand** in de repository, met een duidelijke scheiding tussen introductie en details.

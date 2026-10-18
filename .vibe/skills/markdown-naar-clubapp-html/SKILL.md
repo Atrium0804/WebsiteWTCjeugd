@@ -9,6 +9,8 @@ allowed-tools:
 
 # Markdown naar ClubApp HTML (WTC Woerden)
 
+> **Let op:** voor pagina's in `websiteteksten/website_teksten md/` gebeurt deze conversie automatisch en deterministisch met `python tools/websiteteksten_sync.py build` (of de VS Code-taak *Websiteteksten: watch*). Gebruik deze skill alleen voor losse, geplakte tekst die niet in de repository staat.
+
 Zet geplakte Markdown om naar de HTML-structuur die de ClubApp-pagina-editor (AllUnited) verwacht. De ClubApp-editor slaat geplakte Markdown op als één `<p>` vol soft returns (`<br /><br />`); dat levert inspringende lijsten en gebroken koppen op. Deze Vaardigheid zet dat om naar de juiste paginacode.
 
 ## Herken het probleem
