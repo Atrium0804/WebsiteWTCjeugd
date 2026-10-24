@@ -21,38 +21,11 @@ Een Markdown-bestand en het bijbehorende HTML-bestand hebben dezelfde naam, bijv
 
 ## Werkwijze
 
-### 1. Tekst bewerken
+De stappenplannen voor de standaardsituaties staan in de [README](../README.md) van de repository, onder *Hoe moet ik*:
 
-1. Open een bestand uit `website_teksten md/` in Typora en sla het op.
-2. De HTML wordt bijgewerkt:
-   - **automatisch**, als de VS Code-taak *Websiteteksten: watch (MD → HTML)* draait (zie [VS Code-taken](#vs-code-taken)), of
-   - **met de hand**: `python tools/websiteteksten_sync.py build`
-3. Verhoog `versie` in de front matter als de wijziging gepubliceerd wordt.
-4. Kopieer de HTML naar ClubApp (HTML-bronmodus):
-   - alles **vóór** `<!-- --- -->` (inclusief het `<script>`) gaat in het introductieveld;
-   - alles **na** `<!-- --- -->` gaat in het detailveld.
-   - Het metadata-commentaar bovenaan hoef je niet te kopiëren.
-
-### 2. Tekst is direct in ClubApp gewijzigd
-
-1. Kopieer de HTML uit ClubApp naar het bijbehorende `.html`-bestand. Laat het metadata-commentaar bovenaan en de scheiding `<!-- --- -->` staan. De skill `clubapp-naar-html` kan hierbij helpen.
-2. Zet de wijziging om naar Markdown:
-
-   ```powershell
-   python tools/websiteteksten_sync.py import "Trainingen - 1014.html"
-   ```
-
-3. Controleer de wijziging in de Markdown, bijvoorbeeld met `git diff`.
-
-> **Beveiliging:** heeft het Markdown-bestand nog wijzigingen die niet gecommit zijn, dan slaat `import` het bestand over, zodat je werk niet verloren gaat. Commit eerst, of gebruik `--force` als je de Markdown echt wilt overschrijven.
-
-### 3. Controleren
-
-```powershell
-python tools/websiteteksten_sync.py check
-```
-
-`check` meldt per bestand of de HTML afwijkt van de Markdown en of er bestanden zonder tegenhanger zijn. Als alles klopt, zie je `alles in sync`.
+1. **Een tekst bewerken en publiceren op de site** — Markdown aanpassen, versie verhogen met `bump`, HTML in ClubApp plakken.
+2. **Een aanpassing op de site terugvoeren naar de repo** — HTML uit ClubApp kopiëren en met `import` naar Markdown terugzetten.
+3. **Controleren of de repo en de site nog in sync zijn** — `check` draaien en de voettekst-versies vergelijken.
 
 ## Commando's
 
@@ -60,10 +33,13 @@ python tools/websiteteksten_sync.py check
 python tools/websiteteksten_sync.py build  [bestanden...]   Markdown → HTML (standaard: alle bestanden)
 python tools/websiteteksten_sync.py import [bestanden...]   HTML → Markdown (--force: overschrijf niet-gecommitte Markdown)
 python tools/websiteteksten_sync.py check  [bestanden...]   Controleer of HTML en Markdown in sync zijn
+python tools/websiteteksten_sync.py bump   <bestanden...>    Verhoog versie (laatste getal +1, of --versie x.y) en bouw HTML opnieuw
 python tools/websiteteksten_sync.py watch  [--interval 1]   Bouw HTML opnieuw bij elke opgeslagen .md
 ```
 
 Je kunt bestanden opgeven als naam (`"Trainingen - 1014.md"`) of als pad. De extensie mag `.md` of `.html` zijn; het script zoekt zelf de juiste tegenhanger.
+
+`check` meldt daarnaast een *aanwijzing* voor bestanden waarvan de inhoud is gewijzigd zonder dat de versie is verhoogd (vergeleken met de laatste commit). Dat is geen sync-probleem, maar een herinnering om vóór het publiceren `bump` te draaien.
 
 ## VS Code-taken
 

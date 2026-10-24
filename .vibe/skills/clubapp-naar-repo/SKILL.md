@@ -1,21 +1,22 @@
 ---
-name: clubapp-naar-html
-description: "Sla ClubApp-pagina's op als HTML-bestand in de repository met metadata, scheiding tussen introductie/details en voettekst. Gebruik voor WTC Woerden websiteteksten."
+name: clubapp-naar-repo
+description: "Zet een ClubApp-pagina die direct in het CMS is gewijzigd terug naar de repository: sla de HTML op met metadata, scheiding tussen introductie/details en voettekst, en werk daarna de Markdown bij met import. Gebruik voor WTC Woerden websiteteksten."
 user-invocable: true
 allowed-tools:
   - ask_user_question
   - read_file
   - write_file
   - edit
+  - bash
 ---
 
-# Skill: clubapp-naar-html
+# Skill: clubapp-naar-repo
 
-> **Let op:** de Markdown in `websiteteksten/website_teksten md/` is de bron; de HTML wordt gegenereerd met `python tools/websiteteksten_sync.py build`. Gebruik deze skill alleen om een pagina die **direct in ClubApp** is gewijzigd terug op te slaan als HTML, en draai daarna `python tools/websiteteksten_sync.py import "<bestandsnaam>.html"` om de Markdown bij te werken.
+> **Let op:** de Markdown in `websiteteksten/website_teksten md/` is de bron; de HTML wordt gegenereerd met `python tools/websiteteksten_sync.py build`. Gebruik deze skill alleen om een pagina die **direct in ClubApp** is gewijzigd terug te zetten naar de repository: sla de HTML op (stap 1-7) en werk daarna de Markdown bij met `import` (stap 8).
 
 ## ClubApp-tekst opslaan als HTML
 
-**Doel:** ClubApp-teksten opslaan als **één HTML-bestand** in de repository, met een duidelijke scheiding tussen introductie en details.
+**Doel:** ClubApp-teksten opslaan als **één HTML-bestand** in de repository (met een duidelijke scheiding tussen introductie en details) en daarna de Markdown-bron met `import` synchroniseren.
 
 **Gebruik deze Vaardigheid wanneer:** de gebruiker een ClubApp-pagina wil opslaan als HTML in de repository.
 
@@ -154,6 +155,18 @@ Met de volgende metadata:
 Scheiding: witregel + <!-- --- --> + witregel
 Script-tags in introductie: behouden (indien aanwezig)"
 ```
+
+### Stap 8: Markdown bijwerken met `import`
+
+Met het opgeslagen HTML-bestand is de terugweg nog niet voltooid: de Markdown is de bron en moet dezelfde wijziging krijgen. Gebruik hiervoor altijd het sync-script en herschrijf de Markdown nooit handmatig — `import` en `build` zijn elkaars omkering en `check` vertrouwt daarop.
+
+```powershell
+python tools/websiteteksten_sync.py import "<pagina> - <artikel-id>.html"
+```
+
+- `import` slaat het bestand over als de Markdown nog niet-gecommitte wijzigingen bevat. Commit eerst, of gebruik `--force` als de Markdown bewust overschreven moet worden.
+- Controleer na de import de wijziging in de Markdown met `git diff`.
+- Rond af: laat het resultaat zien aan de gebruiker en commit de HTML- en Markdown-wijziging samen. Pas als dat gebeurd is, is de pagina in de repo weer in sync.
 
 ---
 

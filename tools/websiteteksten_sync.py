@@ -7,6 +7,7 @@ Commando's:
     build  [bestanden...]  Markdown -> HTML (standaard: alle .md-bestanden)
     import [bestanden...]  HTML -> Markdown, na wijzigingen die direct in ClubApp zijn gedaan
     check  [bestanden...]  Controleer of HTML en Markdown in sync zijn
+    bump   <bestanden...>  Verhoog de versie en bouw de HTML opnieuw (vóór publiceren naar ClubApp)
     watch                  Bouw HTML automatisch opnieuw zodra een .md-bestand wordt opgeslagen
 
 Markdown-conventies:
@@ -620,7 +621,7 @@ def counterpart(path: Path) -> Path:
 
 def resolve(files: list[str], directory: Path, suffix: str) -> list[Path]:
     if not files:
-        return sorted(directory.glob(f"*{suffix}"))
+        return sorted(p for p in directory.glob(f"*{suffix}") if not p.name.startswith(".~"))
     paths = []
     for f in files:
         p = Path(f)
@@ -662,6 +663,61 @@ def git_dirty(path: Path) -> bool:
     return bool(out.strip())
 
 
+def git_head(path: Path) -> str | None:
+    """Inhoud van het bestand zoals in de laatste commit (None als het bestand nieuw is)."""
+    try:
+        return subprocess.run(
+            ["git", "show", f"HEAD:{path.relative_to(ROOT).as_posix()}"],
+            cwd=ROOT, capture_output=True, text=True, encoding="utf-8", check=True,
+        ).stdout
+    except (OSError, subprocess.CalledProcessError):
+        return None
+
+
+def next_version(versie: str) -> str:
+    match = re.fullmatch(r"(\d+)\.(\d+)", versie.strip())
+    if not match:
+        sys.exit(f"versie '{versie}' kan niet automatisch worden verhoogd (formaat x.y); geef --versie op")
+    return f"{match.group(1)}.{int(match.group(2)) + 1}"
+
+
+def unpublished_hints() -> list[str]:
+    """Meld bestanden waarvan de inhoud wijkt van de laatste commit zonder nieuwe versie."""
+    hints = []
+    for md_path in sorted(MD_DIR.glob("*.md")):
+        head = git_head(md_path)
+        if head is None or head == read(md_path):
+            continue
+        head_meta, head_body = read_front_matter(head)
+        meta, body = read_front_matter(read(md_path))
+        if head_body.strip() == body.strip():
+            continue
+        if str(head_meta.get("versie")) == str(meta.get("versie")):
+            hints.append(
+                f"{md_path.name}: inhoud gewijzigd zonder nieuwe versie "
+                "(publicatie vergeten, of versie vergeten: draai bump)"
+            )
+    return hints
+
+
+def cmd_bump(args) -> int:
+    for md_path in resolve(args.files, MD_DIR, ".md"):
+        raw = read(md_path)
+        meta, body = read_front_matter(raw)
+        if not meta:
+            sys.exit(f"{md_path.name}: geen geldige front matter gevonden")
+        oud = str(meta.get("versie", ""))
+        nieuw = args.versie or next_version(oud)
+        meta["versie"] = nieuw
+        nl = "\r\n" if "\r\n" in raw else "\n"
+        front = yaml.safe_dump(meta, allow_unicode=True, sort_keys=False, width=1000).strip().replace("\n", nl)
+        write_if_changed(md_path, f"---{nl}{front}{nl}---{nl}{body}")
+        print(f"[bump] {md_path.name}: versie {oud} -> {nieuw}")
+        build_file(md_path)
+        print("[bump] kopieer de HTML naar ClubApp (HTML-bronmodus): introductie vóór <!-- --- -->, details erna")
+    return 0
+
+
 def cmd_build(args) -> int:
     for md_path in resolve(args.files, MD_DIR, ".md"):
         build_file(md_path)
@@ -687,11 +743,19 @@ def cmd_import(args) -> int:
         MD_DIR.mkdir(parents=True, exist_ok=True)
         write_if_changed(md_path, md)
         print(f"[import] {html_path.name} -> {md_path.name} (bijgewerkt)")
+        head_html = git_head(html_path)
+        if head_html is not None and head_html != read(html_path):
+            print(
+                "  ? de site-wijziging is live gegaan zonder nieuwe versie; "
+                "verhoog met bump en publiceer opnieuw om de voettekst te laten kloppen"
+            )
     return 1 if skipped else 0
 
 
 def cmd_check(args) -> int:
     problems = 0
+    for hint in unpublished_hints():
+        print(f"[check] aanwijzing: {hint}")
     for md_path in resolve(args.files, MD_DIR, ".md"):
         html_path = counterpart(md_path)
         if not html_path.exists():
@@ -701,7 +765,7 @@ def cmd_check(args) -> int:
             print(f"[check] {md_path.name}: HTML wijkt af van Markdown (build of import nodig)")
             problems += 1
     if not args.files:
-        for html_path in sorted(HTML_DIR.glob("*.html")):
+        for html_path in sorted(p for p in HTML_DIR.glob("*.html") if not p.name.startswith(".~")):
             if not counterpart(html_path).exists():
                 print(f"[check] {html_path.name}: Markdown ontbreekt (draai import)")
                 problems += 1
@@ -754,6 +818,11 @@ def main() -> int:
     p_check = sub.add_parser("check", help="controleer of HTML en Markdown in sync zijn")
     p_check.add_argument("files", nargs="*")
     p_check.set_defaults(func=cmd_check)
+
+    p_bump = sub.add_parser("bump", help="verhoog de versie en bouw de HTML opnieuw")
+    p_bump.add_argument("files", nargs="+", help="Markdown-bestand(en) om te publiceren")
+    p_bump.add_argument("--versie", help="nieuwe versie (standaard: laatste getal +1)")
+    p_bump.set_defaults(func=cmd_bump)
 
     p_watch = sub.add_parser("watch", help="bouw HTML bij elke wijziging in Markdown")
     p_watch.add_argument("--interval", type=float, default=1.0)
