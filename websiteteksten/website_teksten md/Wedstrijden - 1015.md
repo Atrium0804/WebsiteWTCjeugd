@@ -1,3 +1,4 @@
+
 ---
 pagina: Wedstrijden
 doelgroep: ouders van leden
@@ -5,9 +6,8 @@ kanaal: websitetekst
 intentie: uitleggen
 clubapp artikel-id: 1015
 paginacode: jeugd_hoewerkthet
-versie: '1.0'
+versie: '1.1'
 ---
-
 Naast trainen kan je ook wedstrijden rijden, op deze pagina lees je meer over hoe wedstrijden werken.
 
 ---
@@ -32,7 +32,7 @@ Er zijn drie niveaus waar je kind aan mee kan doen:
 
 **Nationaal niveau**
 
-- Nationale wedstrijden: Voor de meest ambitieuze renners.
+- Nationale wedstrijden: wedstrijden op de landelijke kalender van de KNWU, zowel veldrijden als wegwielrennen. Renners uit heel Nederland doen mee. Je schrijft je hiervoor zelf in via MijnKNWU.
   - Meer info: zie [Nationale wedstrijden](https://www.wtcwoerden.nl/index.php?page=1027).
 
 ## Hoe lang duurt een wedstrijd?
@@ -52,7 +52,10 @@ De lengte van een wedstrijd is afhankelijk van je leeftijd. Voor een renner van 
 
 ### Inschrijven
 
-Om deel te kunnen nemen aan een wedstrijd moet je je inschrijven. Bij club- en regiowedstrijden doe je dat kort voor de wedstrijd.
+Om deel te kunnen nemen aan een wedstrijd moet je je inschrijven.
+
+- Bij club- en regiowedstrijden doe je dat kort voor de wedstrijd.
+- Bij nationale wedstrijden schrijf je je van tevoren in via MijnKNWU. De inschrijving sluit 5 dagen voor de wedstrijd. Meer info: zie [Nationale wedstrijden](https://www.wtcwoerden.nl/index.php?page=1027).
 
 ### Voor de start
 
