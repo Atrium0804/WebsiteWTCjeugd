@@ -164,9 +164,9 @@ Met het opgeslagen HTML-bestand is de terugweg nog niet voltooid: de Markdown is
 python tools/websiteteksten_sync.py import "<pagina> - <artikel-id>.html"
 ```
 
-- `import` slaat het bestand over als de Markdown nog niet-gecommitte wijzigingen bevat. Commit eerst, of gebruik `--force` als de Markdown bewust overschreven moet worden.
+- `import` slaat het bestand over als de Markdown nog niet-gecommitte wijzigingen bevat. Vraag de gebruiker die eerst zelf te committen, of gebruik `--force` als de Markdown bewust overschreven moet worden.
 - Controleer na de import de wijziging in de Markdown met `git diff`.
-- Rond af: laat het resultaat zien aan de gebruiker en commit de HTML- en Markdown-wijziging samen. Pas als dat gebeurd is, is de pagina in de repo weer in sync.
+- Rond af: laat het resultaat zien aan de gebruiker en noem welke bestanden zijn gewijzigd. Versiebeheer doet de gebruiker zelf; commit de wijzigingen dus niet zelf. Pas als de gebruiker de HTML- en Markdown-wijziging samen heeft gecommit, is de pagina in de repo weer in sync.
 
 ---
 

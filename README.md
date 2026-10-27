@@ -37,7 +37,7 @@ Zodra de watcher draait is de repo klaar voor gebruik: elke Markdown-wijziging v
 
 Voor wijzigingen die direct in ClubApp zijn gemaakt.
 
-1. Commit eerst eventueel openstaand Markdown-werk: `import` slaat bestanden met niet-gecommitte wijzigingen over (tenzij `--force`).
+1. Commit eerst eventueel openstaand Markdown-werk: `import` slaat bestanden met niet-gecommitte wijzigingen over (tenzij `--force`). Agents committen niet zelf — vraag de gebruiker dit te doen.
 2. Kopieer de HTML uit ClubApp (HTML-bronmodus: introductie en details) naar het bijbehorende `.html`-bestand. Behoud het metadata-commentaar bovenaan, de scheiding `<!-- --- -->` en de voettekst onderaan. De skill `clubapp-naar-repo` kan hierbij helpen.
 3. Zet de wijziging om naar Markdown:
 
@@ -45,7 +45,7 @@ Voor wijzigingen die direct in ClubApp zijn gemaakt.
    python tools/websiteteksten_sync.py import "Trainingen - 1014.html"
    ```
 
-4. Controleer het resultaat met `git diff` en commit.
+4. Controleer het resultaat met `git diff`. Het committen laat de agent aan de gebruiker over (zie AGENTS.md, kernregel 5).
 
 ### 3. Controleren of de repo en de site nog in sync zijn
 
