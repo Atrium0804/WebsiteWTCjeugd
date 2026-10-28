@@ -1,4 +1,3 @@
-
 ---
 pagina: Wedstrijden
 doelgroep: ouders van leden
@@ -6,7 +5,7 @@ kanaal: websitetekst
 intentie: uitleggen
 clubapp artikel-id: 1015
 paginacode: jeugd_hoewerkthet
-versie: '1.1'
+versie: '1.2'
 ---
 Naast trainen kan je ook wedstrijden rijden, op deze pagina lees je meer over hoe wedstrijden werken.
 

@@ -5,10 +5,10 @@ kanaal: websitetekst
 intentie: uitleggen
 clubapp artikel-id: 1026
 paginacode: jeugd_naslag
-versie: '1.1'
+versie: '1.2'
 datum: 27-10-2026
 ---
-De Midden Nederland Competitie (MNC) is een laagdrempelige serie veldritten voor jeugdrenners uit de regio: meedoen staat voorop. Op deze pagina lees je hoe zo'n wedstrijddag verloopt, wanneer je kind start en wat je kind nodig heeft.
+De Midden Nederland Competitie (MNC) is een laagdrempelige serie veldritten voor jeugdrenners uit de regio: meedoen staat voorop. Op deze pagina lees je wanneer je kind start en wat je kind nodig heeft.
 
 ---
 
@@ -20,15 +20,10 @@ De MNC is een competitie met ongeveer 10 veldritten per seizoen, op zaterdag of 
 - Je kind fietst tegen renners van andere clubs, elke wedstrijd op een ander parcours.
 - Je kind rijdt in principe in de eigen categorie. Past die niet goed? In overleg kan je kind een categorie hoger of lager rijden.
 - De data staan in de agenda van de ClubApp.
-- Meer over de verschillende niveaus lees je op de pagina [Wedstrijden](https://www.wtcwoerden.nl/index.php?page=1015).
 
-## Hoe verloopt de wedstrijddag?
+## Waar wordt er gereden?
 
-- Zorg dat je kind een geldige KNWU-licentie heeft en een fiets in goede staat. Check de remmen, banden en het verzet.
-- Wees minimaal een half uur voor de start aanwezig. Je schrijft je kind in bij de organisatie en haalt een rugnummer op.
-- Voor de start kan je kind nog even warmrijden en het parcours verkennen.
-- Bij de start gaan alle renners naast elkaar klaar staan. De oudste categorieën starten als eerste.
-- Na de finish rijdt je kind uit en lever je het rugnummer in.
+De wedstrijden zijn bij clubs in de regio, bijvoorbeeld in Amersfoort, Utrecht, Tiel, Bemmel, Arnhem, Ede of Veenendaal. De adressen van de clubs en parcoursen vind je op de naslagpagina [Adressen andere clubs](https://www.wtcwoerden.nl/index.php?page=1017).
 
 ## Starttijden
 
@@ -37,17 +32,19 @@ De MNC is een competitie met ongeveer 10 veldritten per seizoen, op zaterdag of 
   - eerst categorie 5, 6 en 7 (de oudste jeugd);
   - daarna categorie 1, 2, 3 en 4.
 - De categorieën heten in de nieuwe KNWU-namen JO13/MO14 t/m JO15, en JO8/MO9 t/m JO12/MO13. Welke categorie bij je kind hoort, lees je op de pagina [leeftijdscategorieën](https://www.wtcwoerden.nl/index.php?page=1019).
-- De jongste categorie (categorie 0) rijdt niet mee in de MNC. Voor hen is er de [Zaterdagmiddagcompetitie](https://www.wtcwoerden.nl/index.php?page=1020).
-- De exacte aanvangstijden staan per wedstrijd in de agenda van de ClubApp.
+- De exacte aanvangstijden en locatie staan per wedstrijd in de agenda van de ClubApp.
+
+## Hoe verloopt de wedstrijddag?
+
+Inschrijven, warmrijden, de start en de finish: hoe een wedstrijddag verloopt, lees je op de pagina [Wedstrijden](https://www.wtcwoerden.nl/index.php?page=1015).
 
 ## Wat heb je nodig?
 
 De MNC stelt minder hoge eisen aan materiaal dan [nationale wedstrijden](https://www.wtcwoerden.nl/index.php?page=1027). Zo is er bijvoorbeeld geen transponder (chip) nodig.
 
-- **KNWU-licentie:** verplicht. Zie de pagina [KNWU - Licenties](https://www.wtcwoerden.nl/index.php?page=1018).
 - **Fiets:** een veldrijfiets. Een mountainbike mag in de jeugdcategorieën 1 t/m 7.
-- **Verzet:** je kind moet met het juiste verzet rijden. Zie de pagina [Materiaal - Verzetten](https://www.wtcwoerden.nl/index.php?page=1021).
 - **Helm:** verplicht.
+- Je kind heeft een [KNWU-licentie](https://www.wtcwoerden.nl/index.php?page=1018) nodig en rijdt met het [juiste verzet](https://www.wtcwoerden.nl/index.php?page=1021).
 
 ## Punten en klassement
 
@@ -55,9 +52,3 @@ De MNC stelt minder hoge eisen aan materiaal dan [nationale wedstrijden](https:/
 - Na elke wedstrijd wordt een klassement gepubliceerd.
 - Voor de einduitslag moet je kind minimaal de helft van de wedstrijden plus één hebben gereden.
 - Aan het eind van het seizoen is er een prijsuitreiking voor de hele competitie.
-
-## Waar wordt er gereden?
-
-Elke wedstrijd is bij een andere club in de regio, bijvoorbeeld in Amersfoort, Utrecht, Tiel, Bemmel, Arnhem, Ede of Veenendaal. De adressen van de clubs en parcoursen vind je op de naslagpagina [Adressen andere clubs](https://www.wtcwoerden.nl/index.php?page=1017).
-
-Heb je nog een vraag? Stel hem gerust aan de jeugdcommissie of aan de trainer van je kind.
