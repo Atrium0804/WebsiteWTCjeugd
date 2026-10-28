@@ -31,5 +31,6 @@ Laad de bijbehorende skill vóór het werk:
 
 ## Naslag
 
+- `Bibliotheken/` is de repo-spiegel van de doclibs uit de webversie van Vibe: per bibliotheek een submap met dezelfde documenten. Werk doclib en spiegel samen bij. De skill `wtc-knwu-kennisroutering` kiest per omgeving de juiste bron: doclib (web, via `library_search`) of repo-spiegel (VS Code, geen doclib).
 - `context/` is stijl- en toonreferentie, geen feitenbron. Feiten over wedstrijdreglementen komen via de skill `wtc-knwu-kennisroutering`.
 - `websiteteksten/websiteteksten md - oud/` is archief; niet meer gebruiken als bron.

@@ -13,18 +13,27 @@ allowed-tools:
 
 Vragen over wielrennen worden beantwoord volgens een vaste bronvolgorde, afhankelijk van het onderwerp.
 
-## Bibliotheken
+## Bibliotheken — doclib en repo-spiegel
 
-**WTC/Regio-bibliotheek:** `doclib://01a1411f-ea98-70a8-a3af-b9631fd39baa` (naam: "WTC en regio kennis")
-- Documenten: ZMC Zaterdagmiddag Competitie, MNC Reglement Veldrijden 2025, MNC Hans van den Hengel-competitie 2026, NRC-artikel "Hoe kweek je sportplezier bij kinderen" (contextbron over jeugdsport, geen wedstrijdreglement).
+Elke bibliotheek bestaat in twee spiegels: de doclib (webversie van Vibe) en de map in de repo. Houd ze samen gelijk: vervang je een document, dan zet je het in de doclib én in de repo-map.
 
-**KNWU-bibliotheek:** `doclib://01a1411d-e9bc-747c-98c8-2808dae2094e` (naam: "KNWU-kennis")
-- Documenten: Titel 20 Jeugdwielrennen (2026-05-05), Nationale Besluiten (2026-07-01).
+**WTC/Regio-bibliotheek:** `doclib://01a1411f-ea98-70a8-a3af-b9631fd39baa` (naam: "WTC en regio kennis") ↔ repo: `Bibliotheken/WTC en regio kennis/`
+- Documenten: ZMC - Info en reglement Zaterdagmiddag Competitie, MNC Reglement Veldrijden 2025, MNC 2026 Hans vd Hengelcompetitie, NRC-artikel "Hoe kweek je sportplezier bij kinderen" (contextbron over jeugdsport, geen wedstrijdreglement), taalniveau.md.
+
+**KNWU-bibliotheek:** `doclib://01a1411d-e9bc-747c-98c8-2808dae2094e` (naam: "KNWU-kennis") ↔ repo: `Bibliotheken/KNWU-kennis/`
+- Documenten: Titel 20 Jeugdwielrennen (2026-09-21), Nationale Besluiten (2026-09-18), Handboek Veldrijden Jeugd 2026-2027.
+
+### Welke spiegel raadpleeg je?
+
+- Is `library_search` beschikbaar (webversie): zoek in de doclibs.
+- Anders (bijv. VS Code, zonder doclib): lees het betreffende PDF-bestand in de repo-map `Bibliotheken/` volledig, bijvoorbeeld met `pdftotext` via de shell.
+
+**Sync-check bij elk gebruik:** vergelijk de versie/datum in de naam van het doclib-document met de bestandsnaam van de tegenhanger in `Bibliotheken/` (via repo-toegang). Verschillen ze? Meld dan beide versies en raad aan de oudere kopie bij te werken. Zo controleer je alleen de versie/datum; of de inhoud van de tekst zelf nog gelijk is, is op deze manier niet te controleren.
 
 **KNWU Kenniscentrum:** [https://kenniscentrum.knwu.nl/](https://kenniscentrum.knwu.nl/) (online, raadpleeg via websearch/open_url).
 - Relevante secties: **Regelgeving** ([reglementen-en-jaarlijkse-besluiten](https://kenniscentrum.knwu.nl/regelgeving/reglementen-en-jaarlijkse-besluiten): reglementen, Nationale Besluiten, memo's met wijzigingen) en **Verzekeringen** (dekking en aansprakelijkheid). Andere secties zijn normaal gesproken niet nodig.
 
-**Let op — zichtbare revisies:** de documenten in de doclibs **én** de regelgeving-PDF's op het Kenniscentrum bevatten zichtbare revisies: doorgestreepte (verwijderde) tekst en toegevoegde tekst staan door elkaar. Er zijn geen schone versies.
+**Let op — zichtbare revisies:** de documenten in de doclibs en repo-spiegels **én** de regelgeving-PDF's op het Kenniscentrum bevatten zichtbare revisies: doorgestreepte (verwijderde) tekst en toegevoegde tekst staan door elkaar. Er zijn geen schone versies.
 
 ---
 
@@ -32,9 +41,9 @@ Vragen over wielrennen worden beantwoord volgens een vaste bronvolgorde, afhanke
 
 ### 1. Vraag over een regionale wedstrijd (MNC, ZMC, Hans van den Hengel-competitie, club-/regiowedstrijden)
 
-Zoek **EERST** met `library_search` scoped naar de WTC/Regio-bibliotheek (uri van die bibliotheek).
+Zoek **EERST** in de WTC/Regio-bibliotheek: via `library_search` (webversie) of in het betreffende document in `Bibliotheken/WTC en regio kennis/` (repo-spiegel).
 
-Antwoord met kennis uit het document van de betreffende wedstrijd. Noem het document als bron met een doclib-link.
+Antwoord met kennis uit het document van de betreffende wedstrijd. Noem het document als bron.
 
 Alleen als de WTC/Regio-bibliotheek onvoldoende antwoord geeft, val dan terug op de KNWU-bibliotheek en vermeld expliciet dat de bron KNWU-reglementen zijn in plaats van het wedstrijdreglement.
 
@@ -50,9 +59,8 @@ Zoek **NIET** in de WTC/Regio-bibliotheek voor deze vragen en gebruik die docume
 
 #### Regelgevingvragen — versiecontrole en wijzigingsmarkeringen
 
-- De doclib-versies bevatten zichtbare revisies (zie "Let op" hierboven): doorgestreepte tekst is vervallen, toegevoegde tekst is nieuw. Het **Kenniscentrum is de autoritatieve bron voor de nieuwste versie** (met versiedata en wijzigingsmemo's).
-- **Versiecontrole bij elke nationale regelgevingvraag:** vergelijk de versie/datum van het doclib-document (in de bestandsnaam) met de actueel gepubliceerde versie op de Kenniscentrum-regelgevingpagina. Is de Kenniscentrum-versie nieuwer, gebruik dan de Kenniscentrum-versie als bron voor wat gewijzigd is, en meld de gebruiker expliciet dat de doclib-versie verouderd is (noem beide datums), zodat de doclib geüpdatet kan worden. Leg de werkwijze niet stil maar antwoord met de nieuwste regel.
-- Voorbeeld: de KNWU-bibliotheek bevat de Nationale Besluiten van 2026-07-01; het Kenniscentrum publiceert intussen nieuwere versies met memo's t.o.v. de voorgaande versie.
+- De gebruikte kopie (doclib of repo-spiegel) bevat zichtbare revisies (zie "Let op" hierboven): doorgestreepte tekst is vervallen, toegevoegde tekst is nieuw. Het **Kenniscentrum is de autoritatieve bron voor de nieuwste versie** (met versiedata en wijzigingsmemo's).
+- **Versiecontrole bij elke nationale regelgevingvraag:** vergelijk de versie/datum van het gebruikte document (doclib-naam of repo-bestandsnaam) met de actueel gepubliceerde versie op de Kenniscentrum-regelgevingpagina. Is de Kenniscentrum-versie nieuwer, gebruik dan de Kenniscentrum-versie als bron voor wat gewijzigd is, en meld de gebruiker expliciet dat de gebruikte kopie verouderd is (noem beide datums), zodat de doclib én de repo-spiegel geüpdatet kunnen worden. Leg de werkwijze niet stil maar antwoord met de nieuwste regel.
 
 #### Documenten met revisies lezen — wijzigingen en doorgestreepte tekst
 
@@ -106,14 +114,14 @@ Beantwoord liever **één specifieke situatie concreet** dan dat je een generiek
 
 ## Algemeen
 
-### Taalniveau — keuze bij eerste gebruik van deze Vaardigheid
+### Taalniveau
 
-Is er nog geen taalniveau vastgelegd in de kennisbasis (onderwerp WTC-communicatie, bestand taalniveau)? Vraag dan bij de eerste keer dat deze Vaardigheid wordt gebruikt naar het gewenste taalniveau, met deze twee opties:
+Het vastgelegde taalniveau staat in het bestand *taalniveau* in de WTC/Regio-bibliotheek, gespiegeld in `Bibliotheken/WTC en regio kennis/taalniveau.md`. Lees het vóór het antwoord en pas het toe. De twee niveaus:
 
 - **Begrijpelijk (niveau B1):** korte zinnen, actieve vorm, gewone woorden; vaktermen kort uitleggen (bijv. "startrecht" → "je mag meedoen aan").
 - **Uitgebreid (niveau B2):** volledigere zinnen met bijzinnen, ruimere woordenschat.
 
-Leg de keuze direct vast in de kennisbasis (WTC-communicatie → taalniveau) en pas het gekozen niveau daarna automatisch toe op alle antwoorden.
+Is het bestand niet te bereiken? Vraag dan bij de eerste keer dat deze Vaardigheid wordt gebruikt naar het gewenste taalniveau (deze twee opties) en leg de keuze direct vast in beide spiegels.
 
 Heeft de gebruiker **Uitgebreid (B2)** gekozen? Bied dan zo nodig aan om het antwoord (of een deel ervan) om te zetten naar begrijpelijk Nederlands (B1) — vooral als het antwoord bedoeld is om te delen met leden of ouders.
 
@@ -121,7 +129,7 @@ Heeft de gebruiker **Uitgebreid (B2)** gekozen? Bied dan zo nodig aan om het ant
 
 ### Bronvermelding
 
-Citeer **altijd** het gebruikte document met een Markdown-link naar de `doclib://` URI.
+Citeer **altijd** het gebruikte document: vanuit de doclib met een Markdown-link naar de `doclib://` URI, vanuit de repo met de map en bestandsnaam (bijv. `Bibliotheken/KNWU-kennis/Titel 20 ...`).
 
 Scope `library_search` altijd naar de juiste bibliotheek via de `uri`-parameter; zoek niet ongescoped over alle bibliotheken.
 
