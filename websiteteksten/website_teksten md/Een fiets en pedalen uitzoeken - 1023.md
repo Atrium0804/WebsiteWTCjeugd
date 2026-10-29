@@ -1,11 +1,11 @@
 ---
-pagina: Welke fiets heeft mijn kind nodig?
+pagina: Een fiets en pedalen uitzoeken
 doelgroep: ouders van nieuwe/bestaande leden
 kanaal: websitetekst
 intentie: adviseren
 clubapp artikel-id: 1023
 paginacode: jeugd_hoewerkthet
-versie: '1.3'
+versie: '1.7'
 ---
 
 Op deze pagina lees je waar je op moet letten bij het kopen van een fiets en klikpedalen. Een veldrijfiets lijkt sprekend op een racefiets, maar de verschillen bepalen of de fiets geschikt is voor trainingen en wedstrijden.
@@ -18,6 +18,7 @@ Op deze pagina lees je waar je op moet letten bij het kopen van een fiets en kli
 - [Hoe zie je het verschil tussen een weg- en veldfiets?](#verschil-weg-veldfiets)
 - [Klikpedalen en -schoenen](#klikpedalen)
 - [Populaire fietsen](#populaire-fietsen)
+- [Is de fiets niet te groot?](#fiets-niet-te-groot)
 - [Fietsenwinkels](#fietsenwinkels)
 - [Advies](#advies)
 
@@ -27,29 +28,29 @@ Op deze pagina lees je waar je op moet letten bij het kopen van een fiets en kli
 
 Dit is de fiets die je kind nodig heeft voor veldritwedstrijden. Speciaal ontworpen voor modder, zand en gras, met:
 
-- Noppenbanden (maximaal **33 mm breed**)
+- Noppenbanden: banden met ribbels voor grip (maximaal **33 mm breed**)
 - Extra ruimte bij de wielen tegen vastkoekende modder
-- Wendbaar frame dat makkelijk op de schouder past bij hindernissen
+- Een wendbaar frame: makkelijk te sturen en op de schouder te nemen bij hindernissen
 
-Veel jeugdleden gebruiken deze fiets in de zomer met wegbanden ook op de weg.
+Veel jeugdleden rijden deze fiets in de zomer ook op de weg, met wegbanden erop.
 
 ### Racefiets
 
 - Gemaakt voor **puur asfalt**, met smalle, gladdere banden (23-28 mm) voor maximale snelheid
-- Het frame biedt onvoldoende ruimte tussen band en frame.
-- Een veldband past er soms wel op. Maar het wiel loopt snel vast door ophopende modder
+- Er is te weinig ruimte tussen de band en het frame
+- Een veldband past er soms wel op, maar het wiel loopt dan snel vast door ophopende modder
 - Niet geschikt voor veldritwedstrijden
 
 ### Gravelbike
 
-Gravelbikes zijn populair en door gravelraces zijn er ook steeds meer race-gericht gravelbikes. Er zijn daardoor verschillende gravelbikes.
+Gravelbikes zijn populair. Door de opkomst van gravelraces zijn er steeds meer race-gerichte gravelbikes. Er zijn daardoor verschillende soorten.
 
 - **Adventure-variant:** gericht op lange tochten met bagage, gemaakt voor rechte stukken, zwaarder en minder wendbaar.
 - **Race-variant:** sportief en snel. Met smallere weg-/crossbandjes kan een kind hier soms prima mee fietsen. De standaard gravelbanden zijn te breed en vaak te glad.
 
 ## Hoe zie je het verschil tussen een weg- en veldfiets? <a id="verschil-weg-veldfiets" name="verschil-weg-veldfiets"></a>
 
-Een veldrijfiets heeft meer ruimte tussen band en frame, dat is goed zichtbaar bij de vork. Deze ruimte is nodig voor de bredere veldrijband, maar vooral omdat er ook veel modder en klei op de band komt. Als je een veldband op een racefiets gebruikt dan zullen de wielen snel vastlopen door modder, blad en gras.
+Een veldrijfiets heeft meer ruimte tussen de band en het frame. Dat zie je goed bij de vork. Die ruimte is nodig voor de bredere veldrijband. Modder en klei op de band hebben die ruimte namelijk ook nodig. Gebruik je een veldband op een racefiets? Dan lopen de wielen snel vast door modder, blad en gras.
 
 <table style="border-collapse: collapse; width: 100%;">
 	<tbody>
@@ -62,7 +63,7 @@ Een veldrijfiets heeft meer ruimte tussen band en frame, dat is goed zichtbaar b
 	</tbody>
 </table>
 
-Bij fietsen met velgremmen kan je het vaak aan de remmen zien. Op een cross-fiets zitten cantilever-remmen of v-brakes, op een wegfiets dual-pivot remmen:
+Bij fietsen met velgremmen (remmen die op de velg knijpen) zie je het verschil vaak aan het type rem. Op een cross-fiets zitten cantilever-remmen of v-brakes. Op een wegfiets zitten dual-pivot remmen:
 
 <table style="border-collapse: collapse; width: 100%;">
 	<tbody>
@@ -90,24 +91,26 @@ Bij fietsen met velgremmen kan je het vaak aan de remmen zien. Op een cross-fiet
 
 ## Klikpedalen en -schoenen <a id="klikpedalen" name="klikpedalen"></a>
 
-Met klikpedalen zit je met je schoenen vast aan de pedalen. Je kan niet meer met je schoenen van het pedaal schieten. Ook kan je meer kracht zetten. 
+Met klikpedalen zit je met je schoenen vast aan de pedalen. Je schoenen schieten niet meer van het pedaal. Je kan ook meer kracht zetten.
 
-Belangrijk om te weten is dat er twee soorten pedalen zijn: wegpedalen en mountainbike pedalen. 
+Er zijn twee soorten klikpedalen: wegpedalen en mountainbike-pedalen.
 
 Dit is het verschil:
 
-- Wegpedalen hebben grote plaatjes die met **drie boutjes** aan de schoen vast zitten. Je kan er goed mee fietsen maar je kan er niet goed mee lopen en door zand en modder kom je niet meer ingeklikt bij het veldrijden
-- Mountainbike-pedalen hebben kleine metalen plaatjes die met **twee boutjes** aan de schoen vast zitten. Je kan er makkelijk mee lopen/rennen en inklikken met vuile schoenen.
+- Wegpedalen hebben grote plaatjes die met **drie boutjes** aan de schoen vastzitten. Je kan er goed mee fietsen, maar er niet goed mee lopen. Met zand en modder op je schoenen kom je bij het veldrijden niet meer ingeklikt
+- Mountainbike-pedalen hebben kleine metalen plaatjes die met **twee boutjes** aan de schoen vastzitten. Je kan er makkelijk mee lopen of rennen. Ook met vuile schoenen klik je makkelijk in.
 
 Met mountainbike-pedalen kan je ook op de weg fietsen, maar met wegpedalen kan je niet veldrijden. Voor de jeugd raden we daarom aan om te beginnen met mountainbike-pedalen en -schoenen.
+
+Wil je overstappen op klikpedalen? Overleg dan met de **trainer** of je kind er al aan toe is.
 
 ### Fietschoenen
 
 Hieronder zie je drie soorten fietsschoenen:
 
-- Mountainbike schoenen: twee boutgaatjes en een zool met profiel
-- Combinatie-schoenen: geschikt voor MTB én weg-plaatjes, maar met een gladde zool **niet geschikt om mee te veldrijden**
-- Een wegschoen: drie boutjes en een gladde zool
+- Mountainbikeschoenen: twee boutgaatjes en een zool met profiel
+- Combinatieschoenen: geschikt voor mountainbike- én weg-plaatjes, maar met een gladde zool **niet geschikt om mee te veldrijden**
+- Wegschoenen: drie boutjes en een gladde zool
 
 <table style="border-collapse: collapse; width: 100%;">
 	<tbody>
@@ -122,7 +125,7 @@ Hieronder zie je drie soorten fietsschoenen:
 
 ### Mountainbike-pedalen
 
-Er zijn veel soorten pedalen. De meeste kinderen fietsen met Shimano SPD-pedalen of Time Atac-pedalen. Een gedetailleerde vergelijking van de verschillende soorten [vind je op deze pagina](https://www.siroko.com/blog/c/guide-to-buying-bicycle-pedals-types-cleats-and-pros-cons-of-available-options/).
+Er zijn veel soorten pedalen. De meeste kinderen fietsen met Shimano SPD-pedalen of Time Atac-pedalen. Een uitgebreide vergelijking van de verschillende soorten [vind je op deze pagina](https://www.siroko.com/blog/c/guide-to-buying-bicycle-pedals-types-cleats-and-pros-cons-of-available-options/).
 
 <table style="border-collapse: collapse; width: 100%;">
 	<tbody>
@@ -148,9 +151,9 @@ Er zijn veel soorten pedalen. De meeste kinderen fietsen met Shimano SPD-pedalen
 
 ## Populaire fietsen <a id="populaire-fietsen" name="populaire-fietsen"></a>
 
-Mocht je op zoek gaan naar een fiets: hieronder staan een aantal gangbare modellen en de kleinste framemaat waarin deze beschikbaar zijn.
+Zoek je een fiets voor je kind? Hieronder staan een aantal gangbare modellen, met de kleinste framemaat waarin ze leverbaar zijn.
 
-De frame-maat is de lengte van de zadelbuis. Frame-maten zijn daardoor niet één-op-één te vergelijken. Een Sensa Umbria 44cm is bijvoorbeeld een kleinere fiets dan een Specialized Diverge 44cm doordat de laatste een sterk aflopende bovenbuis heeft.
+De frame-maat is de lengte van de zadelbuis. Frame-maten zijn daardoor niet één-op-één te vergelijken. Een Sensa Umbria 44cm is bijvoorbeeld een kleinere fiets dan een Specialized Diverge 44cm. De Diverge heeft namelijk een sterk aflopende bovenbuis.
 
 - HUPcc - 37cm
 - Sensa Umbria Junior 26" - 38cm
@@ -165,6 +168,14 @@ De frame-maat is de lengte van de zadelbuis. Frame-maten zijn daardoor niet éé
 - Stevens Super Prestige
 - Bianchi Impulso xs - 41cm
 - Specialized Diverge - 44cm
+
+## Is de fiets niet te groot? <a id="fiets-niet-te-groot" name="fiets-niet-te-groot"></a>
+
+Zo controleer je of een fiets niet te groot is voor je kind: zet het zadel op de laagste stand. Tijdens het fietsen mag het been van je kind niet helemaal gestrekt zijn. Is het been wel helemaal gestrekt? Dan is de fiets te groot.
+
+In deze video zie je hoe je de zadelhoogte goed afstelt:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tl1s_CtHTtU" title="JE ZADELHOOGTE AFSTELLEN met de HOLMES METHODE [Mantel How-to]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Fietsenwinkels <a id="fietsenwinkels" name="fietsenwinkels"></a>
 
