@@ -14,7 +14,8 @@ Stapsgewijze procedures voor de drie standaardsituaties (publiceren, terugvoeren
 
 ## Structuur en inhoud
 
-- `Websitestructuur-jeugd.md` is de bron van waarheid voor de paginestructuur, doelgroepen en intenties per pagina.
+- De losse pagina's zijn leidend: paginastructuur, doelgroepen en intenties staan in de front matter van elk pagina-bestand in `websiteteksten/website_teksten md/`.
+- Doel jeugdsectie: kinderen een fijne vrijetijdsbesteding laten beleven op de fiets en helpen zich te ontwikkelen op sportief en sociaal gebied. Visie: Sporten moet leuk zijn. We stimuleren persoonlijke ontwikkeling op sportief en sociaal vlak door met elkaar te trainen, samen te werken en van elkaar te leren. Samen trainen om jezelf te verbeteren.
 - Bestandsnaamconventie: `<paginatitel> - <clubapp artikel-id>.md` ↔ zelfde naam met `.html`. Pagina en artikel-id staan ook in de front matter.
 - Front matter (`pagina`, `doelgroep`, `kanaal`, `intentie`, `clubapp artikel-id`, `paginacode`, `versie`) is verplicht; het script waarschuwt als `pagina` ontbreekt.
 - Schrijf Nederlandstalig, in de stijl van de skill `jeugdsport-teksten` (doelgroep bepaalt de toon: kinderen 6-14 enthousiasmerend, ouders praktisch) en op het taalniveau uit de skill `taalniveau` (B1 voor ouders, kindniveau voor kinderen).
@@ -27,7 +28,6 @@ Laad de bijbehorende skill vóór het werk:
 - Tekst controleren of herschrijven op taalniveau (kindniveau, B1, B2) → `taalniveau`
 - Geplaste Markdown of tekst mét `<br />` soft returns omzetten naar ClubApp-HTML (alleen losse tekst, niet voor bestanden in `website_teksten md/`) → `markdown-naar-clubapp-html`
 - Een ClubApp-pagina die direct in het CMS is gewijzigd terugzetten naar de repo (HTML opslaan + `import` naar Markdown) → `clubapp-naar-repo`
-- Structuur beoordelen, pagina toevoegen of herordenen → `website-structuur`
 - Vraag over KNWU-reglementen, licenties, MNC/ZMC-wedstrijden → `wtc-knwu-kennisroutering`
 
 ## Naslag

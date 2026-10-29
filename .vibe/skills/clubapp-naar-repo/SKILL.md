@@ -275,4 +275,3 @@ python tools/websiteteksten_sync.py import "<pagina> - <artikel-id>.html"
 
 - `jeugdsport-teksten`: Voor het schrijven van teksten volgens WTC Woerden-stijl
 - `markdown-naar-clubapp-html`: Voor het converteren van markdown/tekst naar ClubApp-HTML
-- `website-structuur`: Voor het beoordelen van de websitestructuur

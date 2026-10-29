@@ -74,7 +74,6 @@ Wordt de versie-conventie niet gevolgd (iemand publiceerde zonder het versienumm
 ### Mappen
 
 ```
-Websitestructuur-jeugd.md      Bron van waarheid voor de paginestructuur van de jeugdsectie
 websiteteksten/
 ├── website_teksten md/        Bron: bewerkbare teksten (per pagina 1 bestand)
 ├── website_teksten html/      Gegenereerd: HTML om te plakken in ClubApp
@@ -90,7 +89,6 @@ tools/                         Conversiescript + tool-naslag (tools/README.md)
 
 - Naamconventie: `<paginatitel> - <clubapp artikel-id>.md` ↔ `.html` met dezelfde naam; het artikel-id correspondeert met het artikel in ClubApp.
 - Front matter per bestand: `pagina`, `doelgroep`, `kanaal`, `intentie`, `clubapp artikel-id`, `paginacode`, `versie`; optioneel `umami: false`, `datum`, `auteur`.
-- `Websitestructuur-jeugd.md` is de bron van waarheid voor paginestructuur, doelgroepen en intenties.
 
 ### Commando's
 
@@ -113,7 +111,6 @@ Alle Markdown-conventies, opties en de VS Code-taken: [tools/README.md](tools/RE
 | `taalniveau` | Schrijfregels voor kindniveau, B1 en B2; controleren of herschrijven naar begrijpelijk Nederlands |
 | `markdown-naar-clubapp-html` | Losse, geplaste tekst omzetten naar ClubApp-HTML |
 | `clubapp-naar-repo` | Een direct in het CMS gewijzigde pagina terugzetten naar de repo: HTML opslaan en met `import` de Markdown bijwerken |
-| `website-structuur` | Structuur beoordelen, verfijnen of uitbreiden |
 | `wtc-knwu-kennisroutering` | Wedstrijd-/reglementvragen routeren naar de juiste bron |
 
 ## Uitleg
