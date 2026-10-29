@@ -14,7 +14,7 @@ Meer kinderen van 7 tot 14 jaar uit Woerden en omgeving laten ontdekken dat ze b
 ### Wat goed is
 
 - De jeugdteksten zijn duidelijk, vriendelijk en laagdrempelig: proeftraining, leenfietsen en helmen, geen vaste instroommomenten.
-- Er is een heldere paginastructuur (zie [Websitestructuur-jeugd.md](./Websitestructuur-jeugd.md)) met aparte pagina's voor kinderen en voor ouders van aspirant-leden.
+- Er is een heldere paginastructuur met aparte pagina's voor kinderen en voor ouders van aspirant-leden.
 - De vereniging staat in de [Beweegwijzer Woerden](https://beweegwijzerwoerden.nl/sporten/), de lokale sportgids.
 
 ### Wat de vindbaarheid beperkt
@@ -119,7 +119,7 @@ SEO-instellingen gelden **per pagina, niet per artikel**. Onze teksten zijn arti
 | `jeugd_watdoenwe` | Wat doen we (1011) |
 | `jeugd_proeftraining` | Kom meetrainen (1012) |
 | `jeugd_lidworden` | Lid worden (1013) |
-| `jeugd_hoewerkthet` | Trainingen (1014), Wedstrijden (1015), Afspraken (1016), Welke fiets (1023) |
+| `jeugd_hoewerkthet` | Trainingen (1014), Wedstrijden (1015), Afspraken (1016), Een fiets en pedalen (1023) |
 | `jeugd_naslag` | Adressen andere clubs, KNWU-licenties, leeftijdscategorieën, Materiaal |
 | `Jeugd` | Contactformulier (125) |
 

@@ -37,7 +37,7 @@ Zodra de watcher draait is de repo klaar voor gebruik: elke Markdown-wijziging v
 
 Voor wijzigingen die direct in ClubApp zijn gemaakt.
 
-1. Commit eerst eventueel openstaand Markdown-werk: `import` slaat bestanden met niet-gecommitte wijzigingen over (tenzij `--force`).
+1. Commit eerst eventueel openstaand Markdown-werk: `import` slaat bestanden met niet-gecommitte wijzigingen over (tenzij `--force`). Agents committen niet zelf — vraag de gebruiker dit te doen.
 2. Kopieer de HTML uit ClubApp (HTML-bronmodus: introductie en details) naar het bijbehorende `.html`-bestand. Behoud het metadata-commentaar bovenaan, de scheiding `<!-- --- -->` en de voettekst onderaan. De skill `clubapp-naar-repo` kan hierbij helpen.
 3. Zet de wijziging om naar Markdown:
 
@@ -45,7 +45,7 @@ Voor wijzigingen die direct in ClubApp zijn gemaakt.
    python tools/websiteteksten_sync.py import "Trainingen - 1014.html"
    ```
 
-4. Controleer het resultaat met `git diff` en commit.
+4. Controleer het resultaat met `git diff`. Het committen laat de agent aan de gebruiker over (zie AGENTS.md, kernregel 5).
 
 ### 3. Controleren of de repo en de site nog in sync zijn
 
@@ -74,7 +74,6 @@ Wordt de versie-conventie niet gevolgd (iemand publiceerde zonder het versienumm
 ### Mappen
 
 ```
-Websitestructuur-jeugd.md      Bron van waarheid voor de paginestructuur van de jeugdsectie
 websiteteksten/
 ├── website_teksten md/        Bron: bewerkbare teksten (per pagina 1 bestand)
 ├── website_teksten html/      Gegenereerd: HTML om te plakken in ClubApp
@@ -90,7 +89,6 @@ tools/                         Conversiescript + tool-naslag (tools/README.md)
 
 - Naamconventie: `<paginatitel> - <clubapp artikel-id>.md` ↔ `.html` met dezelfde naam; het artikel-id correspondeert met het artikel in ClubApp.
 - Front matter per bestand: `pagina`, `doelgroep`, `kanaal`, `intentie`, `clubapp artikel-id`, `paginacode`, `versie`; optioneel `umami: false`, `datum`, `auteur`.
-- `Websitestructuur-jeugd.md` is de bron van waarheid voor paginestructuur, doelgroepen en intenties.
 
 ### Commando's
 
@@ -101,6 +99,7 @@ tools/                         Conversiescript + tool-naslag (tools/README.md)
 | `check` | Toont of HTML en Markdown in sync zijn; plus aanwijzingen voor inhoud zonder nieuwe versie |
 | `bump` | Verhoogt de versie (laatste getal +1, of `--versie x.y`) en herbouwt de HTML direct |
 | `watch` | Bouwt HTML opnieuw bij elke opgeslagen `.md` |
+| `leesbaarheid` | Meet zinslengte, lange woorden en Flesch-Douma per bestand en toont te lange zinnen (`--niveau kind\|b1\|b2`) |
 
 Alle Markdown-conventies, opties en de VS Code-taken: [tools/README.md](tools/README.md).
 
@@ -109,9 +108,9 @@ Alle Markdown-conventies, opties en de VS Code-taken: [tools/README.md](tools/RE
 | Skill | Gebruik |
 | --- | --- |
 | `jeugdsport-teksten` | Verenigingsteksten, posts en websiteteksten in de WTC Woerden-stijl |
+| `taalniveau` | Schrijfregels voor kindniveau, B1 en B2; controleren of herschrijven naar begrijpelijk Nederlands |
 | `markdown-naar-clubapp-html` | Losse, geplaste tekst omzetten naar ClubApp-HTML |
 | `clubapp-naar-repo` | Een direct in het CMS gewijzigde pagina terugzetten naar de repo: HTML opslaan en met `import` de Markdown bijwerken |
-| `website-structuur` | Structuur beoordelen, verfijnen of uitbreiden |
 | `wtc-knwu-kennisroutering` | Wedstrijd-/reglementvragen routeren naar de juiste bron |
 
 ## Uitleg
