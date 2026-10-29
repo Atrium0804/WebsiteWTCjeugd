@@ -35,7 +35,11 @@ python tools/websiteteksten_sync.py import [bestanden...]   HTML → Markdown (-
 python tools/websiteteksten_sync.py check  [bestanden...]   Controleer of HTML en Markdown in sync zijn
 python tools/websiteteksten_sync.py bump   <bestanden...>    Verhoog versie (laatste getal +1, of --versie x.y) en bouw HTML opnieuw
 python tools/websiteteksten_sync.py watch  [--interval 1]   Bouw HTML opnieuw bij elke opgeslagen .md
+python tools/websiteteksten_sync.py leesbaarheid [bestanden...] [--niveau kind|b1|b2]
+                                                            Meet zinslengte, lange woorden en Flesch-Douma (standaard b1)
 ```
+
+`leesbaarheid` is een indicatie voor de skill `taalniveau`. Per bestand toont het de gemiddelde zinslengte, het aandeel woorden van vier of meer lettergrepen en de Flesch-Douma-score. Daarnaast meldt het elke zin die langer is dan de grens voor het gekozen niveau (kind 12, B1 20, B2 25 woorden). Zinnen die mogelijk in de lijdende vorm staan, worden apart gemeld. Koppen tellen niet mee. Fragmenten van minder dan drie woorden tellen niet mee in het gemiddelde. Het commando wijzigt geen bestanden.
 
 Je kunt bestanden opgeven als naam (`"Trainingen - 1014.md"`) of als pad. De extensie mag `.md` of `.html` zijn; het script zoekt zelf de juiste tegenhanger.
 

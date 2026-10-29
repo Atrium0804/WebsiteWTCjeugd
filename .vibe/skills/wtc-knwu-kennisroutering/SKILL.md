@@ -18,7 +18,7 @@ Vragen over wielrennen worden beantwoord volgens een vaste bronvolgorde, afhanke
 Elke bibliotheek bestaat in twee spiegels: de doclib (webversie van Vibe) en de map in de repo. Houd ze samen gelijk: vervang je een document, dan zet je het in de doclib én in de repo-map.
 
 **WTC/Regio-bibliotheek:** `doclib://01a1411f-ea98-70a8-a3af-b9631fd39baa` (naam: "WTC en regio kennis") ↔ repo: `Bibliotheken/WTC en regio kennis/`
-- Documenten: ZMC - Info en reglement Zaterdagmiddag Competitie, MNC Reglement Veldrijden 2025, MNC 2026 Hans vd Hengelcompetitie, NRC-artikel "Hoe kweek je sportplezier bij kinderen" (contextbron over jeugdsport, geen wedstrijdreglement), taalniveau.md.
+- Documenten: ZMC - Info en reglement Zaterdagmiddag Competitie, MNC Reglement Veldrijden 2025, MNC 2026 Hans vd Hengelcompetitie, NRC-artikel "Hoe kweek je sportplezier bij kinderen" (contextbron over jeugdsport, geen wedstrijdreglement).
 
 **KNWU-bibliotheek:** `doclib://01a1411d-e9bc-747c-98c8-2808dae2094e` (naam: "KNWU-kennis") ↔ repo: `Bibliotheken/KNWU-kennis/`
 - Documenten: Titel 20 Jeugdwielrennen (2026-09-21), Nationale Besluiten (2026-09-18), Handboek Veldrijden Jeugd 2026-2027.
@@ -116,14 +116,9 @@ Beantwoord liever **één specifieke situatie concreet** dan dat je een generiek
 
 ### Taalniveau
 
-Het vastgelegde taalniveau staat in het bestand *taalniveau* in de WTC/Regio-bibliotheek, gespiegeld in `Bibliotheken/WTC en regio kennis/taalniveau.md`. Lees het vóór het antwoord en pas het toe. De twee niveaus:
+Antwoorden zijn standaard **Begrijpelijk (B1)**. Vraagt de gebruiker om een uitgebreider antwoord, schrijf dan **Uitgebreid (B2)**. Het standaardniveau en de schrijfregels per niveau staan in de Vaardigheid `taalniveau`. Doe de controleronde daaruit voordat je het antwoord geeft.
 
-- **Begrijpelijk (niveau B1):** korte zinnen, actieve vorm, gewone woorden; vaktermen kort uitleggen (bijv. "startrecht" → "je mag meedoen aan").
-- **Uitgebreid (niveau B2):** volledigere zinnen met bijzinnen, ruimere woordenschat.
-
-Is het bestand niet te bereiken? Vraag dan bij de eerste keer dat deze Vaardigheid wordt gebruikt naar het gewenste taalniveau (deze twee opties) en leg de keuze direct vast in beide spiegels.
-
-Heeft de gebruiker **Uitgebreid (B2)** gekozen? Bied dan zo nodig aan om het antwoord (of een deel ervan) om te zetten naar begrijpelijk Nederlands (B1) — vooral als het antwoord bedoeld is om te delen met leden of ouders.
+Is het antwoord op **Uitgebreid (B2)**? Bied dan zo nodig aan om het antwoord (of een deel ervan) om te zetten naar begrijpelijk Nederlands (B1) — vooral als het antwoord bedoeld is om te delen met leden of ouders.
 
 ---
 

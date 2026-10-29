@@ -17,13 +17,14 @@ Stapsgewijze procedures voor de drie standaardsituaties (publiceren, terugvoeren
 - `Websitestructuur-jeugd.md` is de bron van waarheid voor de paginestructuur, doelgroepen en intenties per pagina.
 - Bestandsnaamconventie: `<paginatitel> - <clubapp artikel-id>.md` ↔ zelfde naam met `.html`. Pagina en artikel-id staan ook in de front matter.
 - Front matter (`pagina`, `doelgroep`, `kanaal`, `intentie`, `clubapp artikel-id`, `paginacode`, `versie`) is verplicht; het script waarschuwt als `pagina` ontbreekt.
-- Schrijf Nederlandstalig, in de stijl van de skill `jeugdsport-teksten` (doelgroep bepaalt de toon: kinderen 6-14 enthousiasmerend, ouders praktisch).
+- Schrijf Nederlandstalig, in de stijl van de skill `jeugdsport-teksten` (doelgroep bepaalt de toon: kinderen 6-14 enthousiasmerend, ouders praktisch) en op het taalniveau uit de skill `taalniveau` (B1 voor ouders, kindniveau voor kinderen).
 
 ## Skills
 
 Laad de bijbehorende skill vóór het werk:
 
 - Verenigingstekst, post, aankondiging of webcontent schrijven/herschrijven → `jeugdsport-teksten`
+- Tekst controleren of herschrijven op taalniveau (kindniveau, B1, B2) → `taalniveau`
 - Geplaste Markdown of tekst mét `<br />` soft returns omzetten naar ClubApp-HTML (alleen losse tekst, niet voor bestanden in `website_teksten md/`) → `markdown-naar-clubapp-html`
 - Een ClubApp-pagina die direct in het CMS is gewijzigd terugzetten naar de repo (HTML opslaan + `import` naar Markdown) → `clubapp-naar-repo`
 - Structuur beoordelen, pagina toevoegen of herordenen → `website-structuur`

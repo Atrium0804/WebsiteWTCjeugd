@@ -9,6 +9,8 @@ Commando's:
     check  [bestanden...]  Controleer of HTML en Markdown in sync zijn
     bump   <bestanden...>  Verhoog de versie en bouw de HTML opnieuw (vóór publiceren naar ClubApp)
     watch                  Bouw HTML automatisch opnieuw zodra een .md-bestand wordt opgeslagen
+    leesbaarheid [bestanden...] [--niveau kind|b1|b2]
+                           Meet zinslengte en leesbaarheid; toont te lange zinnen
 
 Markdown-conventies:
     - YAML front matter bevat de metadata (pagina, doelgroep, ..., versie).
@@ -773,6 +775,103 @@ def cmd_check(args) -> int:
     return 1 if problems else 0
 
 
+# --------------------------------------------------------------------------- #
+# Leesbaarheid (indicatie voor de Vaardigheid `taalniveau`)
+# --------------------------------------------------------------------------- #
+
+NIVEAUS = {  # niveau: (max. gemiddelde zinslengte, max. lengte van één zin)
+    "kind": (10, 12),
+    "b1": (15, 20),
+    "b2": (20, 25),
+}
+LONG_WORD_SYLLABLES = 4
+MIN_SENTENCE_WORDS = 3  # kortere fragmenten (lijstitems als "Helm") tellen niet mee in het gemiddelde
+
+VOWEL_GROUP = re.compile(r"[aeiouyàáâäèéêëìíîïòóôöùúûü]+", re.IGNORECASE)
+WORD = re.compile(r"[0-9A-Za-zÀ-ÖØ-öø-ÿ€][0-9A-Za-zÀ-ÖØ-öø-ÿ'’\-.,:]*")
+SENTENCE_END = re.compile(r"(?<=[.!?])\s+(?=[\"'“‘(]?[A-ZÀ-Ý0-9])")
+PASSIVE = re.compile(r"\b(wordt|worden|werd|werden)\b.*\bge\w+[dtn]\b|\bge\w+[dtn]\b.*\b(wordt|worden|werd|werden)\b", re.IGNORECASE)
+LIST_ITEM = re.compile(r"^\s*(?:[-*+]|\d+[.)])\s+")
+
+
+def plain_segments(body: str) -> list[str]:
+    """Tekstblokken (alinea's, lijstitems, tabelcellen) zonder Markdown/HTML; koppen vallen weg."""
+    body = re.sub(r"<!--.*?-->", "\n", body, flags=re.DOTALL)
+    body = re.sub(r"<(script|style)\b.*?</\1>", "\n", body, flags=re.DOTALL | re.IGNORECASE)
+    segments: list[str] = []
+    paragraph: list[str] = []
+
+    def flush() -> None:
+        if paragraph:
+            segments.append(" ".join(paragraph))
+            paragraph.clear()
+
+    for line in body.splitlines():
+        stripped = line.strip()
+        if not stripped or re.fullmatch(r"-{3,}|\*{3,}|_{3,}", stripped) or stripped.startswith("#"):
+            flush()
+            continue
+        if stripped.startswith("|"):
+            flush()
+            if not re.fullmatch(r"[|:\-\s]+", stripped):
+                segments.extend(cell for cell in stripped.strip("|").split("|") if cell.strip())
+            continue
+        if LIST_ITEM.match(line):
+            flush()
+            paragraph.append(LIST_ITEM.sub("", line))
+            continue
+        hard_break = stripped.endswith("\\")
+        paragraph.append(stripped.rstrip("\\"))
+        if hard_break:
+            flush()
+    flush()
+
+    cleaned = []
+    for seg in segments:
+        seg = re.sub(r"!\[[^\]]*\]\([^)]*\)", " ", seg)
+        seg = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", seg)
+        seg = re.sub(r"<[^>]+>", " ", seg)
+        seg = re.sub(r"[*_`]|\\(?=\S)", "", seg)
+        seg = re.sub(r"\s+", " ", seg).strip()
+        if seg:
+            cleaned.append(seg)
+    return cleaned
+
+
+def syllables(word: str) -> int:
+    return max(1, len(VOWEL_GROUP.findall(word)))
+
+
+def cmd_leesbaarheid(args) -> int:
+    max_avg, max_len = NIVEAUS[args.niveau]
+    for md_path in resolve(args.files, MD_DIR, ".md"):
+        _, body = read_front_matter(read(md_path))
+        sentences = [s for seg in plain_segments(body) for s in SENTENCE_END.split(seg) if s.strip()]
+        word_lists = [[w for w in WORD.findall(s) if re.search(r"\w", w)] for s in sentences]
+        counted = [words for words in word_lists if len(words) >= MIN_SENTENCE_WORDS]
+        all_words = [w for words in counted for w in words]
+        if not all_words:
+            print(f"[leesbaarheid] {md_path.name}: geen lopende tekst gevonden")
+            continue
+        n_syll = [syllables(w) for w in all_words]
+        avg = len(all_words) / len(counted)
+        long_share = 100 * sum(n >= LONG_WORD_SYLLABLES for n in n_syll) / len(all_words)
+        flesch_douma = 206.84 - 77 * (sum(n_syll) / len(all_words)) - 0.93 * avg
+        print(
+            f"[leesbaarheid] {md_path.name} (niveau {args.niveau.upper()}): {len(counted)} zinnen, "
+            f"gem. {avg:.1f} woorden/zin (grens {max_avg}{', TE HOOG' if avg > max_avg else ''}), "
+            f"{long_share:.0f}% woorden van {LONG_WORD_SYLLABLES}+ lettergrepen, "
+            f"Flesch-Douma {flesch_douma:.0f}"
+        )
+        for sentence, words in zip(sentences, word_lists):
+            if len(words) > max_len:
+                print(f"  ! te lang ({len(words)} woorden): {sentence}")
+        for sentence in sentences:
+            if PASSIVE.search(re.sub(r"\blid (worden|wordt|werd|werden)\b", "", sentence, flags=re.IGNORECASE)):
+                print(f"  ? mogelijk lijdende vorm: {sentence}")
+    return 0
+
+
 def cmd_watch(args) -> int:
     print(f"[watch] bewaakt {MD_DIR} (Ctrl+C om te stoppen)", flush=True)
     mtimes: dict[Path, float] = {}
@@ -827,6 +926,11 @@ def main() -> int:
     p_watch = sub.add_parser("watch", help="bouw HTML bij elke wijziging in Markdown")
     p_watch.add_argument("--interval", type=float, default=1.0)
     p_watch.set_defaults(func=cmd_watch)
+
+    p_lees = sub.add_parser("leesbaarheid", help="meet zinslengte en leesbaarheid (indicatie taalniveau)")
+    p_lees.add_argument("files", nargs="*")
+    p_lees.add_argument("--niveau", choices=sorted(NIVEAUS), default="b1", help="standaard: b1")
+    p_lees.set_defaults(func=cmd_leesbaarheid)
 
     args = parser.parse_args()
     return args.func(args)

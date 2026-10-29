@@ -101,6 +101,7 @@ tools/                         Conversiescript + tool-naslag (tools/README.md)
 | `check` | Toont of HTML en Markdown in sync zijn; plus aanwijzingen voor inhoud zonder nieuwe versie |
 | `bump` | Verhoogt de versie (laatste getal +1, of `--versie x.y`) en herbouwt de HTML direct |
 | `watch` | Bouwt HTML opnieuw bij elke opgeslagen `.md` |
+| `leesbaarheid` | Meet zinslengte, lange woorden en Flesch-Douma per bestand en toont te lange zinnen (`--niveau kind\|b1\|b2`) |
 
 Alle Markdown-conventies, opties en de VS Code-taken: [tools/README.md](tools/README.md).
 
@@ -109,6 +110,7 @@ Alle Markdown-conventies, opties en de VS Code-taken: [tools/README.md](tools/RE
 | Skill | Gebruik |
 | --- | --- |
 | `jeugdsport-teksten` | Verenigingsteksten, posts en websiteteksten in de WTC Woerden-stijl |
+| `taalniveau` | Schrijfregels voor kindniveau, B1 en B2; controleren of herschrijven naar begrijpelijk Nederlands |
 | `markdown-naar-clubapp-html` | Losse, geplaste tekst omzetten naar ClubApp-HTML |
 | `clubapp-naar-repo` | Een direct in het CMS gewijzigde pagina terugzetten naar de repo: HTML opslaan en met `import` de Markdown bijwerken |
 | `website-structuur` | Structuur beoordelen, verfijnen of uitbreiden |
