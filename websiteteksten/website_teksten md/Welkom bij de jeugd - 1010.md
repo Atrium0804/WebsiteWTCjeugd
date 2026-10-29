@@ -5,7 +5,7 @@ kanaal: websitetekst
 intentie: enthousiasmeren
 clubapp artikel-id: 1010
 paginacode: jeugd_welkom
-versie: '1.2'
+versie: '1.5'
 ---
 
 Welkom bij de jeugd van WTC Woerden! Hier kan je wielrennen op de weg en veldrijden door de modder. Wielrennen is een leuke buitensport voor kinderen van 7 tot 14 jaar.
@@ -16,15 +16,15 @@ Welkom bij de jeugd van WTC Woerden! Hier kan je wielrennen op de weg en veldrij
 
 ## Zoekt je kind een sport?
 
-WTC Woerden is de wielren- en veldrijvereniging voor kinderen uit Woerden, Harmelen, Woerdense Verlaat, Waarder, Kamerik, Kockengen, Vleuten en De Meern. Plezier in het sporten staat voorop.
+WTC Woerden is de wielren- en veldrijvereniging voor kinderen uit Woerden en omgeving, zoals Harmelen, Kamerik, Kockengen en De Meern. Plezier in het sporten staat voorop.
 
-Je kind heeft nog geen eigen racefiets nodig. Leenfietsen en helmen zijn aanwezig. Proeftrainen kan op elk moment van het jaar.
+Je kind heeft nog geen eigen racefiets nodig. Leenfietsen en helmen zijn aanwezig. Proeftrainen is gratis en kan op elk moment van het jaar.
 
 ## Wat doen we?
 
-In de lente en zomer wielrennen we op het afgesloten parcours in park Cromwijk. In de herfst en winter veldrijden we: fietsen door gras, modder en zand. Soms doen we iets extra's, zoals mountainbiken of een clinic op de wielerbaan.
+In de zomer racen we op het afgesloten parcours in park Cromwijk. In de herfst en winter crossen we door park Molenvliet: over gras, door modder en over zand. Tussendoor mountainbiken we in de bossen of doen we mee aan wedstrijden.
 
-Lees er alles over op de pagina [Wat doen we](https://www.wtcwoerden.nl/index.php?page=1011).
+Hoe zo'n training precies verloopt? Lees het op de pagina [Wat doen we](https://www.wtcwoerden.nl/index.php?page=1011).
 
 ## Dit staat op de jeugdwebsite
 

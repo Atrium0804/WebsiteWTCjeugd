@@ -5,14 +5,20 @@ kanaal: websitetekst
 intentie: uitnodigen
 clubapp artikel-id: 1012
 paginacode: jeugd_proeftraining
-versie: '1.0'
+versie: '1.4'
 ---
 
-Benieuwd of wielrennen of veldrijden bij WTC Woerden iets voor je is? Kom dan eens meetrainen!
+Benieuwd of wielrennen of veldrijden bij WTC Woerden iets voor je kind is? Kom dan eens gratis meetrainen!
+
+We trainen in Woerden. Ook kinderen uit omliggende dorpen, zoals Harmelen, Kamerik of De Meern, fietsen bij ons mee.
 
 ---
 
 <img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.wtcwoerden.nl/userfiles/jeugd_proeftraining/1012_8120f358_f3b3_4c71_8d5a_1e38d65a035a_2.jpg" alt="Proeftraining WTC Woerden jeugd" width="422" height="315" />
+
+## Is wielrennen iets voor mijn kind?
+
+Zoek je voor je kind een leuke buitensport, naast of in plaats van een teamsport? Bij WTC Woerden sporten kinderen van 7 tot 14 jaar het hele jaar door buiten. In het wegseizoen fietsen we op de racefiets, in het veldseizoen crossen we door gras, modder en zand. Een eigen fiets is niet nodig: we hebben leenfietsen en helmen. Proeftrainen is gratis en op elk moment van het jaar mogelijk.
 
 ## Trainingen en tijden
 
@@ -21,8 +27,9 @@ Bij WTC Woerden trainen we in 4 groepen, ingedeeld op leeftijd en ervaring. Elke
 Onze seizoensindeling is als volgt:
 
 - Wegseizoen (april t/m september): dinsdag en donderdag van 18:30-19:45
-- Crossseizoen (oktober t/m februari): dinsdag van 18:30-19:30
-  - Op zaterdag om 13:45 is er een trainingswedstrijdje op het lange parcours.
+- Veldseizoen (september t/m januari): dinsdag van 18:30-19:30
+  - Op zaterdag is er een trainingswedstrijdje op het lange parcours: inschrijven om 13:15 uur, start om 13:45 uur
+- Gymprogramma (februari/maart)
 
 ## Proeftraining
 
@@ -46,6 +53,17 @@ Met een proeftraining kun je kennis maken met de sport op een laagdrempelige man
 - Je gaat eerst wennen aan het fietsen op een racefiets.
 - Vervolgens sluit je aan bij de training met de andere kinderen.
 - Na afloop gaan we met z'n allen naar de kantine en drinken daar nog limonade.
+
+## Veelgestelde vragen
+
+**Wat kost het?**
+Proeftrainen is gratis. Word je kind lid? Dan betaal je contributie. Het actuele bedrag vraag je aan de jeugdcommissie.
+
+**Wat heeft mijn kind nodig?
+Sportkleding waarin je kind lekker kan bewegen, en een bidon met water. Een eigen racefiets of veldrijfiets hoeft niet: we hebben leenfietsen en helmen.
+
+**Trainen jullie ook als het regent?**
+Veldrijden gaat gewoon door, ook in de regen. Bij het wegseizoen lassen we de training af bij onweer of ijzel. Een afgelasting kondigen we aan in de ClubApp. Kan je kind een keer niet meedoen? Meld het ons, dan plannen we een nieuwe proeftraining.
 
 ## Heb je er zin in?
 

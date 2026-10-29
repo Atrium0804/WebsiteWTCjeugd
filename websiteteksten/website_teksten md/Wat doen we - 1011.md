@@ -1,11 +1,11 @@
 ---
 pagina: Wat doen we
-doelgroep: nieuwe jeugdleden (6-14)
+doelgroep: nieuwe jeugdleden (7-14)
 kanaal: websitetekst
 intentie: enthousiasmeren
 clubapp artikel-id: 1011
 paginacode: jeugd_watdoenwe
-versie: '1.0'
+versie: '1.1'
 ---
 
 Houd jij van fietsen en lijkt het je leuk om nog beter te worden? Bij WTC Woerden ontdek je hoe leuk wielrennen en veldrijden zijn. Samen trainen, techniekspelletjes doen en nieuwe vrienden maken – dat is wat wij doen!
@@ -24,7 +24,7 @@ Door samen met de trainer oefeningen te doen en van elkaar te leren, word je ste
 
 Wielrennen is zo snel mogelijk fietsen op de weg. Tijdens de trainingen werk je niet alleen aan je uithoudingsvermogen en snelheid, maar je leert ook sneller fietsen door goed een bocht te nemen of door in een groep samen te werken met andere kinderen. Goede fietsbeheersing is hierbij heel belangrijk. Daarom sluiten we elke training af met een leuk spelletje of oefening, zoals Slalommen, Estafette of Tikkertje op de fiets.
 
-Wielrennen doen we globaal van maart t/m september. We trainen op een afgesloten parcours, park Cromwijk
+Wielrennen doen we globaal van april t/m september. We trainen op een afgesloten parcours in park Cromwijk.
 
 - Training op dinsdag- en donderdagavond 18:30-19:45
 
@@ -34,10 +34,10 @@ Wielrennen doen we globaal van maart t/m september. We trainen op een afgesloten
 
 In de winter gaan we veldrijden, ook wel crossen genoemd. We fietsen dan over het grasveld, door de modder, de bosjes en de zandbak. Niet alles kan je fietsen, soms moet je ook een stukje rennen. Ook bij het veldrijden werk je aan je conditie en techniek.
 
-Veldrijden doen we globaal van oktober t/m januari.
+Veldrijden doen we globaal van september t/m januari.
 
 - Training: dinsdagavond 18:30-19:30
-- Trainingswedstrijdje: zaterdagmiddag 13:15-14:15
+- Trainingswedstrijdje: zaterdagmiddag, inschrijven om 13:15 uur, start om 13:45 uur
 
 ## Activiteiten
 

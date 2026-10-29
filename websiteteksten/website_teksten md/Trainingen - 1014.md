@@ -5,12 +5,20 @@ kanaal: websitetekst
 intentie: uitleggen
 clubapp artikel-id: 1014
 paginacode: jeugd_hoewerkthet
-versie: '1.0'
+versie: '1.4'
 ---
 
 Op deze pagina vind je alle praktische informatie over de trainingen bij WTC Woerden. Zo weet je precies waar en wanneer je kind kan trainen en wat we daarbij van jullie verwachten.
 
 ---
+
+## Waar trainen we?
+
+- Clubhuis: Sur-Place, Waardsedijk 40, 3443 Woerden
+- Wegseizoen: het afgesloten parcours in park Cromwijk
+- Veldseizoen: park Molenvliet
+
+Park Cromwijk en park Molenvliet liggen op fietsafstand van het clubhuis. Ook vanuit omliggende dorpen, zoals Harmelen, Kamerik en Kockengen, bereik je ons goed met de fiets. Kom je met de auto? Parkeer dan bij het clubhuis.
 
 ## Seizoensindeling
 

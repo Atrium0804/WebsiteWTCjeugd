@@ -62,7 +62,7 @@ De eerste keer vraagt VS Code of automatische taken mogen draaien. Kies *Allow*.
 
 ### Front matter (metadata)
 
-Elk bestand begint met de metadata. Daaruit maakt het script het metadata-commentaar en de witte voettekst (`pagina: …; versie …`).
+Elk bestand begint met de metadata. Daaruit maakt het script het metadata-commentaar en de grijze voettekst (`pagina: …; versie …`, klein en lichtgrijs zodat het leesbaar maar onopvallend is — geen witte tekst op wit, want dat telt voor zoekmachines als verborgen tekst).
 
 ```yaml
 ---
