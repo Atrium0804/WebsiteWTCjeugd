@@ -43,7 +43,7 @@ SEPARATOR = "<!-- --- -->"
 TABLE_STYLE = "border-collapse: collapse; width: 100%;"
 CELL_STYLE = "padding: 8px; border: 1px solid #ddd;"
 PHOTO_CELL_STYLE = "padding: 0; text-align: center; vertical-align: top; width: {w}%;"
-FOOTER_STYLE = "color: #ffffff;"
+FOOTER_STYLE = "color: #999999; font-size: 10px;"
 
 UMAMI_SCRIPT = """<script>// <![CDATA[
 \t(function () {
@@ -165,7 +165,8 @@ def header_level(p: Tag) -> str | None:
 
 
 def is_footer(node: Tag) -> bool:
-    span = node.find("span", style=re.compile(r"#ffffff", re.I))
+    # Herken de voettekst op tekst, niet op kleur: oudere versies gebruiken wit (#ffffff).
+    span = node.find("span", style=re.compile(r"color\s*:", re.I))
     return bool(span) and span.get_text().strip().startswith("pagina:")
 
 

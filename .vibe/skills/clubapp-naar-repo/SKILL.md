@@ -90,7 +90,7 @@ metadata:
 
 [DETAILS-TEKST (begint met eerste header, opgemaakt met indentatie)]
 
-<p><span style="color: #ffffff;">pagina: [pagina]; versie [versie]</span></p>
+<p><span style="color: #999999; font-size: 10px;">pagina: [pagina]; versie [versie]</span></p>
 ```
 
 **Opmaakregels voor HTML:**
