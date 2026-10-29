@@ -5,7 +5,7 @@ kanaal: websitetekst
 intentie: adviseren
 clubapp artikel-id: 1023
 paginacode: jeugd_hoewerkthet
-versie: '1.1'
+versie: '1.3'
 ---
 
 Op deze pagina lees je waar je op moet letten bij het kopen van een fiets en klikpedalen. Een veldrijfiets lijkt sprekend op een racefiets, maar de verschillen bepalen of de fiets geschikt is voor trainingen en wedstrijden.
@@ -51,61 +51,100 @@ Gravelbikes zijn populair en door gravelraces zijn er ook steeds meer race-geric
 
 Een veldrijfiets heeft meer ruimte tussen band en frame, dat is goed zichtbaar bij de vork. Deze ruimte is nodig voor de bredere veldrijband, maar vooral omdat er ook veel modder en klei op de band komt. Als je een veldband op een racefiets gebruikt dan zullen de wielen snel vastlopen door modder, blad en gras.
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.wtcwoerden.nl/userfiles/jeugd_hoewerkthet/1023_vork_en_bandenspeling_vergeleken_2.png" alt="1023_vork_en_bandenspeling_vergeleken_2.png" width="769" height="703" />Bij fietsen met velgremmen kan je het vaak aan de remmen zien:
+<table style="border-collapse: collapse; width: 100%;">
+	<tbody>
+		<tr>
+			<td style="padding: 0; text-align: center; vertical-align: top;"><img src="https://www.wtcwoerden.nl/userfiles/jeugd_hoewerkthet/1023_vork_en_bandenspeling_vergeleken_2.png" alt="De ruimte tussen band en vork bij een veldrijfiets en een racefiets" width="769" height="703" /></td>
+		</tr>
+		<tr>
+			<td style="padding: 4px 8px 0; text-align: center; vertical-align: top;"><em>Meer ruimte tussen band en vork bij een veldrijfiets</em></td>
+		</tr>
+	</tbody>
+</table>
 
-- Links: fiets met cantilever-remmen. Dit is een cross-fiets
-- Rechts: fiets met v-brakes. Dit is een cross-fiets
+Bij fietsen met velgremmen kan je het vaak aan de remmen zien. Op een cross-fiets zitten cantilever-remmen of v-brakes, op een wegfiets dual-pivot remmen:
 
-<img style="float: left;" src="https://www.wtcwoerden.nl/userfiles/jeugd_hoewerkthet/1023_parktool_cantilever_brake_1.jpg" alt="1023_parktool_cantilever_brake_1.jpg" width="264" height="228" /> <img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.wtcwoerden.nl/userfiles/jeugd_hoewerkthet/1023_parktool_vbrake_1.jpg" alt="1023_parktool_vbrake_1.jpg" width="260" height="224" />
+<table style="border-collapse: collapse; width: 100%;">
+	<tbody>
+		<tr>
+			<td style="padding: 0; text-align: center; vertical-align: top; width: 50%;"><img src="https://www.wtcwoerden.nl/userfiles/jeugd_hoewerkthet/1023_parktool_cantilever_brake_1.jpg" alt="Cantilever-remmen op een cross-fiets" width="264" height="228" /></td>
+			<td style="padding: 0; text-align: center; vertical-align: top; width: 50%;"><img src="https://www.wtcwoerden.nl/userfiles/jeugd_hoewerkthet/1023_parktool_vbrake_1.jpg" alt="V-brakes op een cross-fiets" width="260" height="224" /></td>
+		</tr>
+		<tr>
+			<td style="padding: 4px 8px 0; text-align: center; vertical-align: top; width: 50%;"><em>Cantilever-remmen (cross-fiets)</em></td>
+			<td style="padding: 4px 8px 0; text-align: center; vertical-align: top; width: 50%;"><em>V-brakes (cross-fiets)</em></td>
+		</tr>
+	</tbody>
+</table>
 
-Wegfiets met dual-pivot remmen:
-
-<img style="float: left;" src="https://www.wtcwoerden.nl/userfiles/jeugd_hoewerkthet/1023_parktool_dualpivot_2.jpg" alt="1023_parktool_dualpivot_2.jpg" width="258" height="224" />
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+<table style="border-collapse: collapse; width: 100%;">
+	<tbody>
+		<tr>
+			<td style="padding: 0; text-align: center; vertical-align: top;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.wtcwoerden.nl/userfiles/jeugd_hoewerkthet/1023_parktool_dualpivot_2.jpg" alt="Dual-pivot remmen op een wegfiets" width="258" height="224" /></td>
+		</tr>
+		<tr>
+			<td style="padding: 4px 8px 0; text-align: center; vertical-align: top;"><em>Dual-pivot remmen (wegfiets)</em></td>
+		</tr>
+	</tbody>
+</table>
 
 ## Klikpedalen en -schoenen <a id="klikpedalen" name="klikpedalen"></a>
 
-Klikpedalen heb je in twee varianten: wegpedalen en mountainbike-pedalen. Met mountainbike-pedalen kan je ook op de weg fietsen, maar met wegpedalen kan je niet veldrijden. Voor de jeugd raden we daarom aan om te beginnen met mountainbike-pedalen en -schoenen.
+Met klikpedalen zit je met je schoenen vast aan de pedalen. Je kan niet meer met je schoenen van het pedaal schieten. Ook kan je meer kracht zetten. 
+
+Belangrijk om te weten is dat er twee soorten pedalen zijn: wegpedalen en mountainbike pedalen. 
 
 Dit is het verschil:
 
 - Wegpedalen hebben grote plaatjes die met **drie boutjes** aan de schoen vast zitten. Je kan er goed mee fietsen maar je kan er niet goed mee lopen en door zand en modder kom je niet meer ingeklikt bij het veldrijden
 - Mountainbike-pedalen hebben kleine metalen plaatjes die met **twee boutjes** aan de schoen vast zitten. Je kan er makkelijk mee lopen/rennen en inklikken met vuile schoenen.
 
+Met mountainbike-pedalen kan je ook op de weg fietsen, maar met wegpedalen kan je niet veldrijden. Voor de jeugd raden we daarom aan om te beginnen met mountainbike-pedalen en -schoenen.
+
 ### Fietschoenen
 
 Hieronder zie je drie soorten fietsschoenen:
 
 - Mountainbike schoenen: twee boutgaatjes en een zool met profiel
-- Combinatie-schoenen: geschikt voor MTB én weg-plaatjes, maar met een gladde zool&nbsp;**niet geschikt om mee te veldrijden**
+- Combinatie-schoenen: geschikt voor MTB én weg-plaatjes, maar met een gladde zool **niet geschikt om mee te veldrijden**
 - Een wegschoen: drie boutjes en een gladde zool
 
-<img src="https://www.wtcwoerden.nl/userfiles/jeugd_hoewerkthet/1023_fietsschoenen_2.png" alt="1023_fietsschoenen_2.png" width="666" height="803" />
-
-&nbsp;
+<table style="border-collapse: collapse; width: 100%;">
+	<tbody>
+		<tr>
+			<td style="padding: 0; text-align: center; vertical-align: top;"><img src="https://www.wtcwoerden.nl/userfiles/jeugd_hoewerkthet/1023_fietsschoenen_2.png" alt="Drie soorten fietsschoenen: mountainbike, combinatie en weg" width="666" height="803" /></td>
+		</tr>
+		<tr>
+			<td style="padding: 4px 8px 0; text-align: center; vertical-align: top;"><em>Drie soorten fietsschoenen</em></td>
+		</tr>
+	</tbody>
+</table>
 
 ### Mountainbike-pedalen
 
-Er zijn veel soorten pedalen. De meeste kinderen fietsen met Shimano SPD (foto boven) pedalen of Time Atac-pedalen (foto onder).&nbsp; Een gedetailleerde vergelijking van de verschillende soorten [vind je op deze pagina](https://www.siroko.com/blog/c/guide-to-buying-bicycle-pedals-types-cleats-and-pros-cons-of-available-options/).
+Er zijn veel soorten pedalen. De meeste kinderen fietsen met Shimano SPD-pedalen of Time Atac-pedalen. Een gedetailleerde vergelijking van de verschillende soorten [vind je op deze pagina](https://www.siroko.com/blog/c/guide-to-buying-bicycle-pedals-types-cleats-and-pros-cons-of-available-options/).
 
-&nbsp;
+<table style="border-collapse: collapse; width: 100%;">
+	<tbody>
+		<tr>
+			<td style="padding: 0; text-align: center; vertical-align: top;"><img src="https://www.wtcwoerden.nl/userfiles/jeugd_hoewerkthet/1023_shimano_spd_2.png" alt="Shimano SPD-pedalen" width="438" height="167" /></td>
+		</tr>
+		<tr>
+			<td style="padding: 4px 8px 0; text-align: center; vertical-align: top;"><em>Shimano SPD-pedalen</em></td>
+		</tr>
+	</tbody>
+</table>
 
-<img src="https://www.wtcwoerden.nl/userfiles/jeugd_hoewerkthet/1023_shimano_spd_2.png" alt="1023_shimano_spd_2.png" width="438" height="167" />
-
-&nbsp;
-
-<img src="https://www.wtcwoerden.nl/userfiles/jeugd_hoewerkthet/1023_time_mtb_2.jpeg" alt="1023_time_mtb_2.jpeg" width="353" height="265" />
-
-&nbsp;
+<table style="border-collapse: collapse; width: 100%;">
+	<tbody>
+		<tr>
+			<td style="padding: 0; text-align: center; vertical-align: top;"><img src="https://www.wtcwoerden.nl/userfiles/jeugd_hoewerkthet/1023_time_mtb_2.jpeg" alt="Time Atac-pedalen" width="353" height="265" /></td>
+		</tr>
+		<tr>
+			<td style="padding: 4px 8px 0; text-align: center; vertical-align: top;"><em>Time Atac-pedalen</em></td>
+		</tr>
+	</tbody>
+</table>
 
 ## Populaire fietsen <a id="populaire-fietsen" name="populaire-fietsen"></a>
 
