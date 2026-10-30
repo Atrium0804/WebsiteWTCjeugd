@@ -1,5 +1,31 @@
 # SEO-plan jeugd WTC Woerden
 
+---
+
+Bestuur:
+
+- WTC Woerden opnemen op sport.nl: https://sport.nl/zoek-clubs?query=wielrennen+woerden
+- WTC Woerden opnemen op unieksporten.nl: https://www.unieksporten.nl/sport-zoeken/postcode:woerden,%20nederland/afstand:15/sporten:wielrennen/resultaten:10
+- aanmelden bij groenehartpas?
+
+
+
+Website - metatitel en -beschrijving toe laten voegen door all-united t.b.v. tonen bij zoekresultaats
+
+| Paginacode | Metatitel (≤55 tekens) | Metabeschrijving (≤120 tekens, mobiel-veilig)                |
+| ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| `jeugd_welkom`         | Wielrennen en veldrijden \| vanaf 7 jaar \| Woerden e.o. | Zoek je een leuke buitensport voor je kind? Fietsen en crossen vanaf 7 jaar in Woerden e.o. Gratis proberen. |
+| `jeugd_proeftraining`  | Gratis proeftraining \| vanaf 7 jaar \| WTC Woerden     | Gratis proeftraining wielrennen of veldrijden in Woerden. Leenfiets en helm aanwezig, instroom het hele jaar. |
+| `home`                 | Wielrennen en veldrijden in Woerden \| WTC Woerden      | WTC Woerden: wielrennen, veldrijden en mountainbiken voor jeugd (7-14 jaar) en volwassenen in Woerden en omgeving. |
+| `jeugd_lidworden`      | Lid worden jeugd \| wielrennen veldrijden \| WTC Woerden | Zo wordt je kind lid: inschrijven via het webformulier, ClubApp installeren en meefietsen. Ook met kleine portemonnee. |
+| `jeugd_watdoenwe`      | Wat doen we: wielrennen & veldrijden \| WTC Woerden     | Racefiets in park Cromwijk, crossen in park Molenvliet en mountainbiken in de bossen. Voor kinderen van 7-14 jaar. |
+
+
+
+---
+
+
+
 **Status:** concept v1.0, oktober 2026. Dit is het ene plan voor de vindbaarheid van de jeugdsectie. Het is de samenvoeging van de drie oude documenten (`advies_google_vindbaarheid.md`, `Plan-vindbaarheid-jeugd.md`, `Plan-vindbaarheid-jeugdwerving.md`), die daarbij uit de repo zijn verwijderd. Metingen doe je met `seo/meetlijst-seo-assessment.md` (baseline Q4 2026 staat daar al in).
 
 **Doel:** meer kinderen van 7 t/m 14 jaar (en hun ouders) uit Woerden en omgeving laten ontdekken dat ze bij WTC Woerden kunnen wielrennen en veldrijden.
@@ -48,8 +74,8 @@ Werkwijze voor tekstwijzigingen: Markdown bewerken in `websiteteksten/website_te
 | Bevinding | Gevolg | Actie |
 |---|---|---|
 | Generieke pagina-titels zonder zoekwoorden; dunne meta descriptions | Slechte ranking op ouder-vragen | Meta-titel/-beschrijving voor 5 pagina's aanvragen bij AllUnited (§3.3) |
-| Dubbele URL's voor dezelfde content (`page=1010`, `page=Jeugd_welkom`, oude ids `page=54/293/860` + `sid`-varianten), geen canonical | Bij `site:wtcwoerden.nl jeugd` verschijnen vooral **oude** pagina's | Oude artikelen offline halen of doorverwijzen via `.htaccess` (§3.4) |
-| robots.txt en sitemap.xml geven 403 (CloudFront) | Google ontdekt nieuwe pagina's langzaam | Agenderen bij nieuw CMS; melden bij AllUnited (§3.5) |
+| Dubbele URL's voor dezelfde content (`page=1010`, `page=Jeugd_welkom`, oude ids `page=54/293/860` + `sid`-varianten), geen canonical | Bij `site:wtcwoerden.nl jeugd` verschijnen vooral **oude** pagina's | Artikelen zijn gearchiveerd |
+| robots.txt en sitemap.xml geven 403 (CloudFront) | Google ontdekt nieuwe pagina's langzaam | kunnen we niet |
 | Geen gestructureerde data (JSON-LD SportsClub) | Geen verrijkte resultaten | Mogelijkheid scriptblok navragen bij AllUnited (§3.5) |
 | Geen confirmed Google Business Profile | Missend kaartblok bij lokale zoekopdrachten | Aanmaken/claimen + reviews (§4) |
 | Afbeeldingen: wisselende alt-teksten | Beeldzoekresultaten onbenut | Alt-teksten consequent met zoekwoord + plaats (§5) |
@@ -63,10 +89,10 @@ Werkwijze voor tekstwijzigingen: Markdown bewerken in `websiteteksten/website_te
 
 ### 2.5 Wat nog open is — platformen (samenvatting)
 
-- **DoeMeeInWoerden.nl:** profiel niet ingevuld; kennismakingsactiviteiten wielrennen/veldrijden op "datum onbekend" — dit is het gratis gemeentelijke kanaal (incl. Sjors-boekje).
+- **DoeMeeInWoerden.nl:** profiel niet ingevuld; kennismakingsactiviteiten wielrennen/veldrijden op "datum onbekend" — dit is het gratis gemeentelijke kanaal (incl. Sjors-boekje). --> gedaan
 - **Beweegwijzer Woerden:** verouderde tekst ("ruim 35 jeugdleden") en foute kenmerken ("alleen jongens" én "alleen meisjes" tegelijk); geen link naar proeftraining. Staat wél nr. 1 op de beste zoekwoorden — corrigeren loont.
-- **"Vereniging in de school" (Beweegteam Woerden):** WTC niet op de aanbiederslijst 2025/2026; wielrennen ontbreekt als sport.
-- **KNWU / Fietssport.nl:** profielen verouderd (ledenaantallen).
+- **"Vereniging in de school" (Beweegteam Woerden):** WTC niet op de aanbiederslijst 2025/2026; wielrennen ontbreekt als sport. --> doen we niet, te weinig fietsen
+- **KNWU / Fietssport.nl:** profielen verouderd (ledenaantallen). --> doen we niet, maakt niet zoveeluit
 - **Niet elders aanwezig:** sport.nl-clubzoeker, sportvereniging-info.nl (gratis), Uniek Sporten, Uitmetkinderen.nl (€49/jr), Kidsproof.nl; Montfoort Vitaal en Sportpunt Stichtse Vecht (Kockengen/Montfoort/Oudewater).
 - **Financieel:** gemeente Woerden niet bij Jeugdfonds Sport & Cultuur; lokale regeling = Groene Hart Pas (WTC moet partner worden) + Stichting Leergeld Groene Hart; gemeente kent wel Subsidieregeling Sport.
 
@@ -161,22 +187,22 @@ Navragen bij AllUnited: overstapdatum; blijven URL's werken of worden ze doorges
 ### Fase 0 — Nulmeting (grotendeels gedaan, Q4 2026)
 - [x] Baseline SERP + `site:`-queries gemeten (staat in `seo/meetlijst-seo-assessment.md`, 29 okt 2026)
 - [ ] Google Search Console-toegang checken/aanvragen; Umami-statistieken per jeugdpagina bekijken
-- [ ] Inventarisatie bestaande vermeldingen (Beweegwijzer, Maps, KNWU, socials) — zie §2.5
+- [x] Inventarisatie bestaande vermeldingen (Beweegwijzer, Maps, KNWU, socials) — zie §2.5
 - [ ] Bij elke aanmelding vragen en bijhouden: "Hoe heb je ons gevonden?"
 - [ ] Afspraken vastleggen: leeftijd 7-14, trainingstijden/locatie, coördinator werving (zie §7)
 
 ### Fase 1 — Fundament op orde (week 1-6)
 - [ ] Supportticket AllUnited met de 5 meta-titels/-beschrijvingen (§3.2)
 - [ ] Google Business Profile aanmaken/claimen + eerste 5 reviews aanvragen bij vaste ouders
-- [ ] DoeMeeInWoerden + Beweegwijzer + KNWU/Fietssport-profielen corrigeren (§4)
+- [x] DoeMeeInWoerden + Beweegwijzer + KNWU/Fietssport-profielen corrigeren (§4)
 - [ ] Tekstuele quick wins via de Markdown-workflow (build/check/bump):
   - FAQ-blok voor ouders op `jeugd_proeftraining` of `jeugd_hoewerkthet`: veiligheid, kosten, materiaal, regen, "heb je een eigen fiets nodig?" (ook geschikt voor AI Overview)
   - Sectie "Waar trainen we?" met adres (Sur-Place, Waardsedijk 40) en bereikbaarheid vanuit de kernen
   - Plaatsnamen op alle relevante jeugdpagina's (nu al in 1010/1012/1014 — aanvullen waar nodig)
   - Afbeeldingen: bestandsnamen + alt-teksten met zoekwoord + plaats
-- [ ] Oude dubbele URL's offline/doorverwijzen (§3.4); korte URL's consistent einsetzen
-- [ ] JSON-LD-mogelijkheid navragen bij AllUnited
-- [ ] "Vereniging in de school" aanmelden bij Beweegteam
+- [x] Oude dubbele URL's offline/doorverwijzen (§3.4); korte URL's consistent einsetzen
+- [x] JSON-LD-mogelijkheid navragen bij AllUnited --> kan nu niet
+- [x] "Vereniging in de school" aanmelden bij Beweegteam -- doen we niet
 
 ### Fase 2 — Actief werven (week 6-16)
 - [ ] Vaste open dag in voor- en najaar met aanmeldlink (`/proeftraining`)
@@ -220,18 +246,18 @@ Navragen bij AllUnited: overstapdatum; blijven URL's werken of worden ze doorges
 Te volgen van boven naar beneden; afvinken en datum + naam invullen.
 
 **Voorbereiding**
-- [ ] Bevestig dat leeftijd 7-14, trainingstijden en locatie overal gelijk zijn (teksten én meta) — _datum/naam:_ …
-- [ ] Wijs één coördinator werving/bereik aan binnen de jeugdcommissie — _naam:_ …
+- [x] Bevestig dat leeftijd 7-14, trainingstijden en locatie overal gelijk zijn (teksten én meta) — _datum/naam:_ …
+- [x] Wijs één coördinator werving/bereik aan binnen de jeugdcommissie — _naam:_ …
 - [ ] Check Google Search Console-toegang (bestaat er een account?) — _datum/naam:_ …
-- [ ] Bevestig: is proeftraining gratis? (ja, sinds okt 2026 in de tekst) — _bevestigd door:_ …
-- [ ] Bepaal budget: flyers, €50-100 advertentie, Uitmetkinderen €49/jr?, extra leenfietsen — _bedrag:_ …
+- [x] Bevestig: is proeftraining gratis? (ja, sinds okt 2026 in de tekst) — _bevestigd door:_ …
+- [x] Bepaal budget: flyers, €50-100 advertentie, Uitmetkinderen €49/jr?, extra leenfietsen — _bedrag:_ …
 
 **Week 1-2 (quick wins, gratis)**
 - [ ] Google Business Profile aanmaken/claimen; categorie, adres (Waardsedijk 40), foto's, link naar `/jeugd`
 - [ ] 5 vaste ouders vragen om een Google-review met "Woerden" in de tekst
-- [ ] DoeMeeInWoerden-profiel afmaken + data bij wielrennen/veldrijden
-- [ ] Beweegwijzer-profiel corrigeren (tekst, kenmerken, link proeftraining) via Beweegteam Woerden
-- [ ] Aanmelden "Vereniging in de school" (mail Beweegteam)
+- [x] DoeMeeInWoerden-profiel afmaken + data bij wielrennen/veldrijden
+- [x] Beweegwijzer-profiel corrigeren (tekst, kenmerken, link proeftraining) via Beweegteam Woerden
+- [x] Aanmelden "Vereniging in de school" (mail Beweegteam)
 - [ ] Supportticket AllUnited indienen met 5 meta-titels + -beschrijvingen (§3.2) + 2 navragen (.htaccess-doorverwijzingen, JSON-LD)
 
 **Week 2-6 (website)**
