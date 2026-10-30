@@ -64,7 +64,7 @@ Op zaterdag rijden we een wedstrijdje met elkaar over een lang parcours. Bij dag
   - Iedereen die meer dan de helft van de wedstrijden gereden heeft, krijgt een prijs.
   - Meer informatie: [Naslag - Zaterdagmiddagcompetitie](https://www.wtcwoerden.nl/index.php?page=1020)
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.wtcwoerden.nl/userfiles/jeugd_hoewerkthet/1014_crossgebieden_2.png" alt="Crossgebieden WTC Woerden jeugd" width="598" height="537" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.wtcwoerden.nl/userfiles/jeugd_hoewerkthet/1014_crossgebieden_2.png" alt="Kaart van de trainingsgebieden voor veldrijden bij WTC Woerden" width="598" height="537" />
 
 ## Gymprogramma
 

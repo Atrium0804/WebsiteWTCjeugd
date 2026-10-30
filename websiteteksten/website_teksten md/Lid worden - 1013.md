@@ -12,7 +12,7 @@ Heb je de proeftraining gedaan en wil je lid worden bij WTC Woerden? Kinderen ui
 
 ---
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.wtcwoerden.nl/userfiles/jeugd_lidworden/1013_1011_26_09_15_18_38_29_0104_2_1.jpg" alt="Jeugdleden WTC Woerden in clubkleding" width="300" height="225" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.wtcwoerden.nl/userfiles/jeugd_lidworden/1013_1011_26_09_15_18_38_29_0104_2_1.jpg" alt="Een nieuw jeugdlid fietst mee bij WTC Woerden tijdens een wielrenwedstrijd" width="300" height="225" />
 
 ## Aanmelden als lid
 

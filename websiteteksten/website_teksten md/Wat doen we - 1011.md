@@ -20,7 +20,7 @@ Door samen met de trainer oefeningen te doen en van elkaar te leren, word je ste
 
 ## Wielrennen
 
-<img src="https://www.wtcwoerden.nl/userfiles/jeugd_watdoenwe/1011_26_07_16_19_12_36_1745_1.jpg" alt="Wielrennen training" width="276" height="207" /> <img src="https://www.wtcwoerden.nl/userfiles/jeugd_watdoenwe/1011_26_09_15_18_36_36_0098_1.jpg" alt="Wielrennen in groep" width="276" height="207" />
+<img src="https://www.wtcwoerden.nl/userfiles/jeugd_watdoenwe/1011_26_07_16_19_12_36_1745_1.jpg" alt="Kinderen krijgen instructie tijdens de training in Woerden op het parcours in park Cromwijk" width="276" height="207" /> <img src="https://www.wtcwoerden.nl/userfiles/jeugd_watdoenwe/1011_26_09_15_18_36_36_0098_1.jpg" alt="Kinderen trainen op de racefiets bij WTC Woerden" width="276" height="207" />
 
 Wielrennen is zo snel mogelijk fietsen op de weg. Tijdens de trainingen werk je niet alleen aan je uithoudingsvermogen en snelheid, maar je leert ook sneller fietsen door goed een bocht te nemen of door in een groep samen te werken met andere kinderen. Goede fietsbeheersing is hierbij heel belangrijk. Daarom sluiten we elke training af met een leuk spelletje of oefening, zoals Slalommen, Estafette of Tikkertje op de fiets.
 
@@ -30,7 +30,7 @@ Wielrennen doen we globaal van april t/m september. We trainen op een afgesloten
 
 ## Veldrijden
 
-<img src="https://www.wtcwoerden.nl/userfiles/jeugd_watdoenwe/1011_dsc02518gr_1.jpg" alt="Veldrijden training" width="277" height="208" /> <img src="https://www.wtcwoerden.nl/userfiles/jeugd_watdoenwe/1011_dsc03922gr_1.jpg" alt="Veldrijden in modder" width="276" height="207" />
+<img src="https://www.wtcwoerden.nl/userfiles/jeugd_watdoenwe/1011_dsc02518gr_1.jpg" alt="Kinderen rennen met de fiets door het zand tijdens een veldrijwedstrijd in Woerden" width="277" height="208" /> <img src="https://www.wtcwoerden.nl/userfiles/jeugd_watdoenwe/1011_dsc03922gr_1.jpg" alt="Jeugd van WTC Woerden rijdt een veldrijwedstrijd door de modder" width="276" height="207" />
 
 In de winter gaan we veldrijden, ook wel crossen genoemd. We fietsen dan over het grasveld, door de modder, de bosjes en de zandbak. Niet alles kan je fietsen, soms moet je ook een stukje rennen. Ook bij het veldrijden werk je aan je conditie en techniek.
 
@@ -41,7 +41,7 @@ Veldrijden doen we globaal van september t/m januari.
 
 ## Activiteiten
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.wtcwoerden.nl/userfiles/jeugd_watdoenwe/1011_26_05_25_17_40_40_274_1.jpg" alt="Mountainbike activiteit" width="300" height="220" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.wtcwoerden.nl/userfiles/jeugd_watdoenwe/1011_26_05_25_17_40_40_274_1.jpg" alt="Jeugd van WTC Woerden rijdt door het skillspark tijdens een mountainbike clinic" width="300" height="220" />
 
 Naast de gewone trainingen doen we ook leuke extra activiteiten:
 

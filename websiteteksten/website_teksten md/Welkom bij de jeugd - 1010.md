@@ -10,7 +10,7 @@ versie: '1.5'
 
 Welkom bij de jeugd van WTC Woerden! Hier kan je wielrennen op de weg en veldrijden door de modder. Wielrennen is een leuke buitensport voor kinderen van 7 tot 14 jaar.
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.wtcwoerden.nl/userfiles/jeugd_welkom/1010_26_10_10_13_43_59_0196_kopie_2.jpg" alt="Kinderen van de jeugd van WTC Woerden fietsen samen op het parcours" width="649" height="487" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.wtcwoerden.nl/userfiles/jeugd_welkom/1010_26_10_10_13_43_59_0196_kopie_2.jpg" alt="Jeugd van WTC Woerden staat klaar om te gaan veldrijden in park Molenvliet" width="649" height="487" />
 
 ---
 
@@ -39,4 +39,4 @@ Hoe zo'n training precies verloopt? Lees het op de pagina [Wat doen we](https://
 
 Fiets dan met ons mee! Meld je aan voor een proeftraining via [Kom meetrainen](https://www.wtcwoerden.nl/index.php?page=1012) en ontdek zelf hoe leuk wielrennen is.
 
-<img title="Kom proeftrainen" style="display: block; margin-left: auto; margin-right: auto;" src="https://www.wtcwoerden.nl/userfiles/jeugd/55_flyer_veldrijden_met_afloop_2.jpg" alt="Flyer voor proeftraining veldrijden" width="940" height="1320" />
+<img title="Kom proeftrainen" style="display: block; margin-left: auto; margin-right: auto;" src="https://www.wtcwoerden.nl/userfiles/jeugd/55_flyer_veldrijden_met_afloop_2.jpg" alt="Flyer gratis proeftraining veldrijden voor kinderen bij WTC Woerden" width="940" height="1320" />

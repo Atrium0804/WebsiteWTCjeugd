@@ -14,7 +14,7 @@ We trainen in Woerden. Ook kinderen uit omliggende dorpen, zoals Harmelen, Montf
 
 ---
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.wtcwoerden.nl/userfiles/jeugd_proeftraining/1012_8120f358_f3b3_4c71_8d5a_1e38d65a035a_2.jpg" alt="Proeftraining WTC Woerden jeugd" width="422" height="315" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.wtcwoerden.nl/userfiles/jeugd_proeftraining/1012_8120f358_f3b3_4c71_8d5a_1e38d65a035a_2.jpg" alt="Een kind doet mee met veldrijden tijdens een gratis proeftraining bij WTC Woerden" width="422" height="315" />
 
 ## Is wielrennen iets voor mijn kind?
 
