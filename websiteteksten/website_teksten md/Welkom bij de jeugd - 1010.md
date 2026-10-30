@@ -16,7 +16,7 @@ Welkom bij de jeugd van WTC Woerden! Hier kan je wielrennen op de weg en veldrij
 
 ## Zoekt je kind een sport?
 
-WTC Woerden is de wielren- en veldrijvereniging voor kinderen uit Woerden en omgeving, zoals Harmelen, Kamerik, Kockengen en De Meern. Plezier in het sporten staat voorop.
+WTC Woerden is de wielren- en veldrijvereniging voor kinderen uit Woerden en omgeving, zoals Harmelen, Montfoort, Oudewater en Bodegraven. Plezier in het sporten staat voorop.
 
 Je kind heeft nog geen eigen racefiets nodig. Leenfietsen en helmen zijn aanwezig. Proeftrainen is gratis en kan op elk moment van het jaar.
 

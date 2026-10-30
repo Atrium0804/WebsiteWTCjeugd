@@ -10,7 +10,7 @@ versie: '1.5'
 
 Benieuwd of wielrennen of veldrijden bij WTC Woerden iets voor je kind is? Kom dan eens gratis meetrainen!
 
-We trainen in Woerden. Ook kinderen uit omliggende dorpen, zoals Harmelen, Kamerik of De Meern, fietsen bij ons mee.
+We trainen in Woerden. Ook kinderen uit omliggende dorpen, zoals Harmelen, Montfoort, Oudewater of Bodegraven, fietsen bij ons mee.
 
 ---
 
@@ -63,7 +63,7 @@ Nee. Voor de proeftraining hoeft je kind geen eigen racefiets of veldrijfiets te
 Proeftrainen is gratis. Word je kind lid? Dan betaal je contributie. Het actuele bedrag vraag je aan de jeugdcommissie.
 
 **Waar trainen jullie?**
-In Woerden. Het clubhuis is Sur-Place, Waardsedijk 40. In het wegseizoen trainen we op het afgesloten parcours in park Cromwijk, in het veldseizoen in park Molenvliet. Ook vanuit Harmelen, Kamerik, Oudewater en Montfoort kom je goed met de fiets. Alle praktische informatie lees je bij [Trainingen](https://www.wtcwoerden.nl/index.php?page=1014).
+In Woerden. Het clubhuis is Sur-Place, Waardsedijk 40. In het wegseizoen trainen we op het afgesloten parcours in park Cromwijk, in het veldseizoen in park Molenvliet. Ook vanuit Harmelen, Montfoort, Oudewater en Bodegraven kom je goed met de fiets. Alle praktische informatie lees je bij [Trainingen](https://www.wtcwoerden.nl/index.php?page=1014).
 
 **Wat heeft mijn kind nodig?**
 Kleding waarin je kind lekker kan bewegen en een bidon met water. Fiets en helm lenen wij uit.

@@ -18,7 +18,7 @@ Op deze pagina vind je alle praktische informatie over de trainingen bij WTC Woe
 - Wegseizoen: het afgesloten parcours in park Cromwijk
 - Veldseizoen: park Molenvliet
 
-Park Cromwijk en park Molenvliet liggen op fietsafstand van het clubhuis. Ook vanuit omliggende dorpen, zoals Harmelen, Kamerik en Kockengen, bereik je ons goed met de fiets. Kom je met de auto? Parkeer dan bij het clubhuis.
+Park Cromwijk en park Molenvliet liggen op fietsafstand van het clubhuis. Ook vanuit omliggende dorpen, zoals Harmelen, Montfoort, Oudewater en Bodegraven, bereik je ons goed met de fiets. Kom je met de auto? Parkeer dan bij het clubhuis.
 
 ## Seizoensindeling
 
