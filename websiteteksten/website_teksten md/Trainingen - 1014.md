@@ -5,7 +5,7 @@ kanaal: websitetekst
 intentie: uitleggen
 clubapp artikel-id: 1014
 paginacode: jeugd_hoewerkthet
-versie: '1.4'
+versie: '1.5'
 ---
 
 Op deze pagina vind je alle praktische informatie over de trainingen bij WTC Woerden. Zo weet je precies waar en wanneer je kind kan trainen en wat we daarbij van jullie verwachten.

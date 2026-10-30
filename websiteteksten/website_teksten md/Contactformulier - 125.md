@@ -5,7 +5,7 @@ kanaal: websitetekst
 intentie: informeren
 clubapp artikel-id: 125
 paginacode: Jeugd
-versie: '1.0'
+versie: '1.1'
 datum: 21-05-2019
 ---
 

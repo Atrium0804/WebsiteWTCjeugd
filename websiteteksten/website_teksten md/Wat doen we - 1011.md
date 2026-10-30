@@ -5,7 +5,7 @@ kanaal: websitetekst
 intentie: enthousiasmeren
 clubapp artikel-id: 1011
 paginacode: jeugd_watdoenwe
-versie: '1.1'
+versie: '1.2'
 ---
 
 Houd jij van fietsen en lijkt het je leuk om nog beter te worden? Bij WTC Woerden ontdek je hoe leuk wielrennen en veldrijden zijn. Samen trainen, techniekspelletjes doen en nieuwe vrienden maken – dat is wat wij doen!

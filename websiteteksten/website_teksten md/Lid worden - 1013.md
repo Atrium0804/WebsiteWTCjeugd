@@ -5,7 +5,7 @@ kanaal: websitetekst
 intentie: informeren
 clubapp artikel-id: 1013
 paginacode: jeugd_lidworden
-versie: '1.0'
+versie: '1.1'
 ---
 
 Heb je de proeftraining gedaan en wil je lid worden bij WTC Woerden? Kinderen uit Woerden en omgeving zijn welkom. Hier lees je hoe je je inschrijft bij de vereniging en wat je vervolgens moet doen om mee te kunnen sporten.

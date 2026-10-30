@@ -5,7 +5,7 @@ kanaal: websitetekst
 intentie: enthousiasmeren
 clubapp artikel-id: 1010
 paginacode: jeugd_welkom
-versie: '1.5'
+versie: '1.6'
 ---
 
 Welkom bij de jeugd van WTC Woerden! Hier kan je wielrennen op de weg en veldrijden door de modder. Wielrennen is een leuke buitensport voor kinderen van 7 tot 14 jaar.

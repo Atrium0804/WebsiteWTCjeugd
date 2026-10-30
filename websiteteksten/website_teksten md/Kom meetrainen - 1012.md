@@ -5,7 +5,7 @@ kanaal: websitetekst
 intentie: uitnodigen
 clubapp artikel-id: 1012
 paginacode: jeugd_proeftraining
-versie: '1.5'
+versie: '1.6'
 ---
 
 Benieuwd of wielrennen of veldrijden bij WTC Woerden iets voor je kind is? Kom dan eens gratis meetrainen!
