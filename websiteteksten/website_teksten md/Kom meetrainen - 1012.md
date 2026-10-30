@@ -5,7 +5,7 @@ kanaal: websitetekst
 intentie: uitnodigen
 clubapp artikel-id: 1012
 paginacode: jeugd_proeftraining
-versie: '1.4'
+versie: '1.5'
 ---
 
 Benieuwd of wielrennen of veldrijden bij WTC Woerden iets voor je kind is? Kom dan eens gratis meetrainen!
@@ -54,16 +54,25 @@ Met een proeftraining kun je kennis maken met de sport op een laagdrempelige man
 - Vervolgens sluit je aan bij de training met de andere kinderen.
 - Na afloop gaan we met z'n allen naar de kantine en drinken daar nog limonade.
 
-## Veelgestelde vragen
+## Veelgestelde vragen van ouders
+
+**Heeft mijn kind een eigen fiets nodig?**
+Nee. Voor de proeftraining hoeft je kind geen eigen racefiets of veldrijfiets te hebben. Wij hebben leenfietsen en helmen in verschillende maten. Wil je later een eigen fiets kopen? Vraag dan de jeugdcommissie om advies.
 
 **Wat kost het?**
 Proeftrainen is gratis. Word je kind lid? Dan betaal je contributie. Het actuele bedrag vraag je aan de jeugdcommissie.
 
-**Wat heeft mijn kind nodig?
-Sportkleding waarin je kind lekker kan bewegen, en een bidon met water. Een eigen racefiets of veldrijfiets hoeft niet: we hebben leenfietsen en helmen.
+**Waar trainen jullie?**
+In Woerden. Het clubhuis is Sur-Place, Waardsedijk 40. In het wegseizoen trainen we op het afgesloten parcours in park Cromwijk, in het veldseizoen in park Molenvliet. Ook vanuit Harmelen, Kamerik, Oudewater en Montfoort kom je goed met de fiets. Alle praktische informatie lees je bij [Trainingen](https://www.wtcwoerden.nl/index.php?page=1014).
+
+**Wat heeft mijn kind nodig?**
+Kleding waarin je kind lekker kan bewegen en een bidon met water. Fiets en helm lenen wij uit.
 
 **Trainen jullie ook als het regent?**
-Veldrijden gaat gewoon door, ook in de regen. Bij het wegseizoen lassen we de training af bij onweer of ijzel. Een afgelasting kondigen we aan in de ClubApp. Kan je kind een keer niet meedoen? Meld het ons, dan plannen we een nieuwe proeftraining.
+Ja, veldrijden en wielrennen gaat gewoon door, ook in de regen. Alleen bij heel slecht weer (onweer, windstoten) wordt een training afgelast.
+
+**Moet mijn kind in het wegseizoen twee keer per week trainen?**
+Nee. In het wegseizoen trainen we op dinsdag en donderdag, kan je maar één avond in de week?. Dan kan je natuurlijk ook 1x per week trainen
 
 ## Heb je er zin in?
 
