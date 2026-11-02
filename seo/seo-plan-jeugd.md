@@ -8,17 +8,15 @@ Bestuur:
 - WTC Woerden opnemen op unieksporten.nl: https://www.unieksporten.nl/sport-zoeken/postcode:woerden,%20nederland/afstand:15/sporten:wielrennen/resultaten:10
 - aanmelden bij groenehartpas?
 
-
-
 Website - metatitel en -beschrijving toe laten voegen door all-united t.b.v. tonen bij zoekresultaats
 
 | Paginacode | Metatitel (≤55 tekens) | Metabeschrijving (≤120 tekens, mobiel-veilig)                |
 | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | `jeugd_welkom`         | Wielrennen en veldrijden \| vanaf 7 jaar \| Woerden e.o. | Zoek je een leuke buitensport voor je kind? Fietsen en crossen vanaf 7 jaar in Woerden e.o. Gratis proberen. |
 | `jeugd_proeftraining`  | Gratis proeftraining \| vanaf 7 jaar \| WTC Woerden     | Gratis proeftraining wielrennen of veldrijden in Woerden. Leenfiets en helm aanwezig, instroom het hele jaar. |
-| `home`                 | Wielrennen en veldrijden in Woerden \| WTC Woerden      | WTC Woerden: wielrennen, veldrijden en mountainbiken voor jeugd (7-14 jaar) en volwassenen in Woerden en omgeving. |
-| `jeugd_lidworden`      | Lid worden jeugd \| wielrennen veldrijden \| WTC Woerden | Zo wordt je kind lid: inschrijven via het webformulier, ClubApp installeren en meefietsen. Ook met kleine portemonnee. |
-| `jeugd_watdoenwe`      | Wat doen we: wielrennen & veldrijden \| WTC Woerden     | Racefiets in park Cromwijk, crossen in park Molenvliet en mountainbiken in de bossen. Voor kinderen van 7-14 jaar. |
+| `home`                 | Wielrennen en veldrijden in Woerden \| WTC Woerden      | WTC Woerden: wielrennen, veldrijden, wedstrijdrijden voor jeugd en volwassenen in Woerden en omgeving. |
+| `jeugd_lidworden`      | Lid worden jeugd \| wielrennen veldrijden \| WTC Woerden | Wordt lid bij de jeugd van WTC Woerden: inschrijven en meetrainen |
+| `jeugd_watdoenwe`     | Jeugdwielrennen & veldrijden \| WTC Woerden | Wielrennen in Woerden (Cromwijk), crossen in park Molenvliet en mountainbiken in de bossen. Voor kinderen vanaf 7 jaar. |
 
 
 
@@ -26,7 +24,7 @@ Website - metatitel en -beschrijving toe laten voegen door all-united t.b.v. ton
 
 
 
-**Status:** concept v1.0, oktober 2026. Dit is het ene plan voor de vindbaarheid van de jeugdsectie. Het is de samenvoeging van de drie oude documenten (`advies_google_vindbaarheid.md`, `Plan-vindbaarheid-jeugd.md`, `Plan-vindbaarheid-jeugdwerving.md`), die daarbij uit de repo zijn verwijderd. Metingen doe je met `seo/meetlijst-seo-assessment.md` (baseline Q4 2026 staat daar al in).
+**Status:** concept v1.0, oktober 2026. Dit is het ene plan voor de vindbaarheid van de jeugdsectie. Metingen doe je met `seo/meetlijst-seo-assessment.md` (baseline Q4 2026 staat daar al in).
 
 **Doel:** meer kinderen van 7 t/m 14 jaar (en hun ouders) uit Woerden en omgeving laten ontdekken dat ze bij WTC Woerden kunnen wielrennen en veldrijden.
 **Regio:** Woerden, Harmelen, Woerdense Verlaat, Waarder, Kanis, Kamerik, Zegveld, Kockengen; Utrecht-west (De Meern, Vleuten); Montfoort/Linschoten/Oudewater via de Sportpunt-regio.
