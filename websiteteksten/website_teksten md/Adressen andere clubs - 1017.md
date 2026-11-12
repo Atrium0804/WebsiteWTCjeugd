@@ -62,6 +62,14 @@ Horsterweg 5\
 
 website: [wvede.nl](https://wvede.nl)
 
+## Hilversum - GWC De Adelaar
+
+Kininelaantje 3\
+1216 BZ Hilversum\
+[Google Maps](https://maps.app.goo.gl/gfeJdmMJdnj7vxYZ7)
+
+Website: [gwcdeadelaar.nl](https://gwcdeadelaar.nl/)
+
 ## Tiel - JVR De Batauwers
 
 Schaarsdijkweg 9\

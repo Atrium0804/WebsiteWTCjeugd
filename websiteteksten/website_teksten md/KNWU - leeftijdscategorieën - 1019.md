@@ -5,7 +5,7 @@ kanaal: websitetekst
 intentie: informeren
 clubapp artikel-id: 1019
 paginacode: jeugd_naslag
-versie: '1.0'
+versie: '1.1'
 datum: 12-10-2026
 ---
 
@@ -23,7 +23,6 @@ Jongens en meisjes van hetzelfde geboortejaar hebben dezelfde categorienaam. In 
 
 | Oude naam | Nieuwe naam | Jongens worden dit jaar | Meisjes worden dit jaar |
 | --- | --- | --- | --- |
-| Categorie 0 | JO7 / MO8 | 6 | 7 |
 | Categorie 1 | JO8 / MO9 | 7 | 8 |
 | Categorie 1 | JO9 / MO10 | 8 | 9 |
 | Categorie 2 | JO10 / MO11 | 9 | 10 |
